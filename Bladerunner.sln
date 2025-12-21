@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bladerunner.Runner", "Bladerunner.Runner\Bladerunner.Runner.pyproj", "{BD32EFAA-4F9D-4DB9-B097-28DFBA98F29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD32EFAA-4F9D-4DB9-B097-28DFBA98F29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD32EFAA-4F9D-4DB9-B097-28DFBA98F29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE4FC209-7247-495D-9480-F82C37265BEA}
+	EndGlobalSection
+EndGlobal
