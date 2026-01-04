@@ -1,0 +1,81 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>bd32efaa-4f9d-4db9-b097-28dfba98f29c</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Bladerunner.Runner.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Bladerunner.Runner</Name>
+    <RootNamespace>Bladerunner.Runner</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="analysis\analytics.py" />
+    <Compile Include="analysis\analytics_expanded.py" />
+    <Compile Include="analysis\analytics_paper.py" />
+    <Compile Include="Bladerunner.Runner.py" />
+    <Compile Include="cli.py" />
+    <Compile Include="clients\base.py" />
+    <Compile Include="clients\claude.py" />
+    <Compile Include="clients\deepseek.py" />
+    <Compile Include="clients\gemini.py" />
+    <Compile Include="clients\openai.py" />
+    <Compile Include="clients\xai.py" />
+    <Compile Include="clients\__init__.py" />
+    <Compile Include="initiators\create_experiment_7.py" />
+    <Compile Include="db.py" />
+    <Compile Include="input_systems\base.py" />
+    <Compile Include="input_systems\behavioral.py" />
+    <Compile Include="input_systems\exemplar.py" />
+    <Compile Include="input_systems\hexaco.py" />
+    <Compile Include="input_systems\narrative.py" />
+    <Compile Include="input_systems\ocean_direct.py" />
+    <Compile Include="input_systems\scenario.py" />
+    <Compile Include="input_systems\__init__.py" />
+    <Compile Include="instruments\base.py" />
+    <Compile Include="instruments\bfi.py" />
+    <Compile Include="instruments\dark_triad.py" />
+    <Compile Include="instruments\gad7.py" />
+    <Compile Include="instruments\levenson.py" />
+    <Compile Include="instruments\phq3_a.py" />
+    <Compile Include="instruments\phq6_bc.py" />
+    <Compile Include="instruments\phq9.py" />
+    <Compile Include="instruments\__init__.py" />
+    <Compile Include="analysis\item_reliability_analysis.py" />
+    <Compile Include="models.py" />
+    <Compile Include="runner.py" />
+    <Compile Include="initiators\create_experiment_9.py" />
+    <Compile Include="__init__.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="clients\" />
+    <Folder Include="input_systems\" />
+    <Folder Include="instruments\" />
+    <Folder Include="analysis\" />
+    <Folder Include="initiators\" />
+    <Folder Include="probes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".env" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

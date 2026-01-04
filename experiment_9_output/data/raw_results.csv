@@ -1,0 +1,649 @@
+test_case_id,provider,instrument,input_system,O,C,E,A,N,profile_label,total_score,factor_scores,questions_answered,questions_total
+10420,claude,phq3_a,behavioral,100,50,50,50,100,high_O_high_N,88.89,"{""affect"": 88.88888888888889}",3,3
+10456,deepseek,phq3_a,behavioral,100,50,50,50,100,high_O_high_N,77.78,"{""affect"": 77.77777777777779}",3,3
+10474,gemini,phq3_a,behavioral,100,50,50,50,100,high_O_high_N,88.89,"{""affect"": 88.88888888888889}",3,3
+10438,openai,phq3_a,behavioral,100,50,50,50,100,high_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10276,claude,phq3_a,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10312,deepseek,phq3_a,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10330,gemini,phq3_a,behavioral,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10294,openai,phq3_a,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10708,claude,phq3_a,behavioral,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10744,deepseek,phq3_a,behavioral,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10762,gemini,phq3_a,behavioral,100,50,50,50,50,high_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10726,openai,phq3_a,behavioral,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10348,claude,phq3_a,behavioral,0,50,50,50,100,low_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10384,deepseek,phq3_a,behavioral,0,50,50,50,100,low_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10402,gemini,phq3_a,behavioral,0,50,50,50,100,low_O_high_N,88.89,"{""affect"": 88.88888888888889}",3,3
+10366,openai,phq3_a,behavioral,0,50,50,50,100,low_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10492,claude,phq3_a,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10528,deepseek,phq3_a,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10546,gemini,phq3_a,behavioral,0,50,50,50,0,low_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10510,openai,phq3_a,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10780,claude,phq3_a,behavioral,0,50,50,50,50,low_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10816,deepseek,phq3_a,behavioral,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10834,gemini,phq3_a,behavioral,0,50,50,50,50,low_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10798,openai,phq3_a,behavioral,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10564,claude,phq3_a,behavioral,50,50,50,50,100,mid_O_high_N,88.89,"{""affect"": 88.88888888888889}",3,3
+10600,deepseek,phq3_a,behavioral,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10618,gemini,phq3_a,behavioral,50,50,50,50,100,mid_O_high_N,88.89,"{""affect"": 88.88888888888889}",3,3
+10582,openai,phq3_a,behavioral,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10636,claude,phq3_a,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10672,deepseek,phq3_a,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10690,gemini,phq3_a,behavioral,50,50,50,50,0,mid_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10654,openai,phq3_a,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10852,claude,phq3_a,behavioral,50,50,50,50,50,mid_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10888,deepseek,phq3_a,behavioral,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10906,gemini,phq3_a,behavioral,50,50,50,50,50,mid_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10870,openai,phq3_a,behavioral,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10422,claude,phq3_a,exemplar,100,50,50,50,100,high_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10458,deepseek,phq3_a,exemplar,100,50,50,50,100,high_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10476,gemini,phq3_a,exemplar,100,50,50,50,100,high_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10440,openai,phq3_a,exemplar,100,50,50,50,100,high_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10278,claude,phq3_a,exemplar,100,50,50,50,0,high_O_low_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10314,deepseek,phq3_a,exemplar,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10332,gemini,phq3_a,exemplar,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10296,openai,phq3_a,exemplar,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10710,claude,phq3_a,exemplar,100,50,50,50,50,high_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10746,deepseek,phq3_a,exemplar,100,50,50,50,50,high_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10764,gemini,phq3_a,exemplar,100,50,50,50,50,high_O_mid_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10728,openai,phq3_a,exemplar,100,50,50,50,50,high_O_mid_N,0.0,"{""affect"": 0.0}",3,3
+10350,claude,phq3_a,exemplar,0,50,50,50,100,low_O_high_N,88.89,"{""affect"": 88.88888888888889}",3,3
+10386,deepseek,phq3_a,exemplar,0,50,50,50,100,low_O_high_N,88.89,"{""affect"": 88.88888888888889}",3,3
+10404,gemini,phq3_a,exemplar,0,50,50,50,100,low_O_high_N,88.89,"{""affect"": 88.88888888888889}",3,3
+10368,openai,phq3_a,exemplar,0,50,50,50,100,low_O_high_N,77.78,"{""affect"": 77.77777777777779}",3,3
+10494,claude,phq3_a,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10530,deepseek,phq3_a,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10548,gemini,phq3_a,exemplar,0,50,50,50,0,low_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10512,openai,phq3_a,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10782,claude,phq3_a,exemplar,0,50,50,50,50,low_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10818,deepseek,phq3_a,exemplar,0,50,50,50,50,low_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10836,gemini,phq3_a,exemplar,0,50,50,50,50,low_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10800,openai,phq3_a,exemplar,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10566,claude,phq3_a,exemplar,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10602,deepseek,phq3_a,exemplar,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10620,gemini,phq3_a,exemplar,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10584,openai,phq3_a,exemplar,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10638,claude,phq3_a,exemplar,50,50,50,50,0,mid_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10674,deepseek,phq3_a,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10692,gemini,phq3_a,exemplar,50,50,50,50,0,mid_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10656,openai,phq3_a,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10854,claude,phq3_a,exemplar,50,50,50,50,50,mid_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10890,deepseek,phq3_a,exemplar,50,50,50,50,50,mid_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10908,gemini,phq3_a,exemplar,50,50,50,50,50,mid_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10872,openai,phq3_a,exemplar,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10419,claude,phq3_a,hexaco,100,50,50,50,100,high_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10455,deepseek,phq3_a,hexaco,100,50,50,50,100,high_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10473,gemini,phq3_a,hexaco,100,50,50,50,100,high_O_high_N,77.78,"{""affect"": 77.77777777777779}",3,3
+10437,openai,phq3_a,hexaco,100,50,50,50,100,high_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10275,claude,phq3_a,hexaco,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10311,deepseek,phq3_a,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10329,gemini,phq3_a,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10293,openai,phq3_a,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10707,claude,phq3_a,hexaco,100,50,50,50,50,high_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10743,deepseek,phq3_a,hexaco,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10761,gemini,phq3_a,hexaco,100,50,50,50,50,high_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10725,openai,phq3_a,hexaco,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10347,claude,phq3_a,hexaco,0,50,50,50,100,low_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10383,deepseek,phq3_a,hexaco,0,50,50,50,100,low_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10401,gemini,phq3_a,hexaco,0,50,50,50,100,low_O_high_N,88.89,"{""affect"": 88.88888888888889}",3,3
+10365,openai,phq3_a,hexaco,0,50,50,50,100,low_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10491,claude,phq3_a,hexaco,0,50,50,50,0,low_O_low_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10527,deepseek,phq3_a,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10545,gemini,phq3_a,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10509,openai,phq3_a,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10779,claude,phq3_a,hexaco,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10815,deepseek,phq3_a,hexaco,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10833,gemini,phq3_a,hexaco,0,50,50,50,50,low_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10797,openai,phq3_a,hexaco,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10563,claude,phq3_a,hexaco,50,50,50,50,100,mid_O_high_N,77.78,"{""affect"": 77.77777777777779}",3,3
+10599,deepseek,phq3_a,hexaco,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10617,gemini,phq3_a,hexaco,50,50,50,50,100,mid_O_high_N,88.89,"{""affect"": 88.88888888888889}",3,3
+10581,openai,phq3_a,hexaco,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10635,claude,phq3_a,hexaco,50,50,50,50,0,mid_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10671,deepseek,phq3_a,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10689,gemini,phq3_a,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10653,openai,phq3_a,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10851,claude,phq3_a,hexaco,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10887,deepseek,phq3_a,hexaco,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10905,gemini,phq3_a,hexaco,50,50,50,50,50,mid_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10869,openai,phq3_a,hexaco,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10418,claude,phq3_a,narrative,100,50,50,50,100,high_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10454,deepseek,phq3_a,narrative,100,50,50,50,100,high_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10472,gemini,phq3_a,narrative,100,50,50,50,100,high_O_high_N,77.78,"{""affect"": 77.77777777777779}",3,3
+10436,openai,phq3_a,narrative,100,50,50,50,100,high_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10274,claude,phq3_a,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10310,deepseek,phq3_a,narrative,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10328,gemini,phq3_a,narrative,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10292,openai,phq3_a,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10706,claude,phq3_a,narrative,100,50,50,50,50,high_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10742,deepseek,phq3_a,narrative,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10760,gemini,phq3_a,narrative,100,50,50,50,50,high_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10724,openai,phq3_a,narrative,100,50,50,50,50,high_O_mid_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10346,claude,phq3_a,narrative,0,50,50,50,100,low_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10382,deepseek,phq3_a,narrative,0,50,50,50,100,low_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10400,gemini,phq3_a,narrative,0,50,50,50,100,low_O_high_N,77.78,"{""affect"": 77.77777777777779}",3,3
+10364,openai,phq3_a,narrative,0,50,50,50,100,low_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10490,claude,phq3_a,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10526,deepseek,phq3_a,narrative,0,50,50,50,0,low_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10544,gemini,phq3_a,narrative,0,50,50,50,0,low_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10508,openai,phq3_a,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10778,claude,phq3_a,narrative,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10814,deepseek,phq3_a,narrative,0,50,50,50,50,low_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10832,gemini,phq3_a,narrative,0,50,50,50,50,low_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10796,openai,phq3_a,narrative,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10562,claude,phq3_a,narrative,50,50,50,50,100,mid_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10598,deepseek,phq3_a,narrative,50,50,50,50,100,mid_O_high_N,77.78,"{""affect"": 77.77777777777779}",3,3
+10616,gemini,phq3_a,narrative,50,50,50,50,100,mid_O_high_N,77.78,"{""affect"": 77.77777777777779}",3,3
+10580,openai,phq3_a,narrative,50,50,50,50,100,mid_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10634,claude,phq3_a,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10670,deepseek,phq3_a,narrative,50,50,50,50,0,mid_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10688,gemini,phq3_a,narrative,50,50,50,50,0,mid_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10652,openai,phq3_a,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10850,claude,phq3_a,narrative,50,50,50,50,50,mid_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10886,deepseek,phq3_a,narrative,50,50,50,50,50,mid_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10904,gemini,phq3_a,narrative,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10868,openai,phq3_a,narrative,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10417,claude,phq3_a,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10453,deepseek,phq3_a,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10471,gemini,phq3_a,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10435,openai,phq3_a,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10273,claude,phq3_a,ocean_direct,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10309,deepseek,phq3_a,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10327,gemini,phq3_a,ocean_direct,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10291,openai,phq3_a,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10705,claude,phq3_a,ocean_direct,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10741,deepseek,phq3_a,ocean_direct,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10759,gemini,phq3_a,ocean_direct,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10723,openai,phq3_a,ocean_direct,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10345,claude,phq3_a,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10381,deepseek,phq3_a,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10399,gemini,phq3_a,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10363,openai,phq3_a,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10489,claude,phq3_a,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10525,deepseek,phq3_a,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10543,gemini,phq3_a,ocean_direct,0,50,50,50,0,low_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10507,openai,phq3_a,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10777,claude,phq3_a,ocean_direct,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10813,deepseek,phq3_a,ocean_direct,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10831,gemini,phq3_a,ocean_direct,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10795,openai,phq3_a,ocean_direct,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10561,claude,phq3_a,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10597,deepseek,phq3_a,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10615,gemini,phq3_a,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10579,openai,phq3_a,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""affect"": 100.0}",3,3
+10633,claude,phq3_a,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10669,deepseek,phq3_a,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10687,gemini,phq3_a,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10651,openai,phq3_a,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""affect"": 0.0}",3,3
+10849,claude,phq3_a,ocean_direct,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10885,deepseek,phq3_a,ocean_direct,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10903,gemini,phq3_a,ocean_direct,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10867,openai,phq3_a,ocean_direct,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10421,claude,phq3_a,scenario,100,50,50,50,100,high_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10457,deepseek,phq3_a,scenario,100,50,50,50,100,high_O_high_N,77.78,"{""affect"": 77.77777777777779}",3,3
+10475,gemini,phq3_a,scenario,100,50,50,50,100,high_O_high_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10439,openai,phq3_a,scenario,100,50,50,50,100,high_O_high_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10277,claude,phq3_a,scenario,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10313,deepseek,phq3_a,scenario,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10331,gemini,phq3_a,scenario,100,50,50,50,0,high_O_low_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10295,openai,phq3_a,scenario,100,50,50,50,0,high_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10709,claude,phq3_a,scenario,100,50,50,50,50,high_O_mid_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10745,deepseek,phq3_a,scenario,100,50,50,50,50,high_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10763,gemini,phq3_a,scenario,100,50,50,50,50,high_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10727,openai,phq3_a,scenario,100,50,50,50,50,high_O_mid_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10349,claude,phq3_a,scenario,0,50,50,50,100,low_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10385,deepseek,phq3_a,scenario,0,50,50,50,100,low_O_high_N,55.56,"{""affect"": 55.55555555555556}",3,3
+10403,gemini,phq3_a,scenario,0,50,50,50,100,low_O_high_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10367,openai,phq3_a,scenario,0,50,50,50,100,low_O_high_N,55.56,"{""affect"": 55.55555555555556}",3,3
+10493,claude,phq3_a,scenario,0,50,50,50,0,low_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10529,deepseek,phq3_a,scenario,0,50,50,50,0,low_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10547,gemini,phq3_a,scenario,0,50,50,50,0,low_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10511,openai,phq3_a,scenario,0,50,50,50,0,low_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10781,claude,phq3_a,scenario,0,50,50,50,50,low_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10817,deepseek,phq3_a,scenario,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10835,gemini,phq3_a,scenario,0,50,50,50,50,low_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10799,openai,phq3_a,scenario,0,50,50,50,50,low_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10565,claude,phq3_a,scenario,50,50,50,50,100,mid_O_high_N,66.67,"{""affect"": 66.66666666666666}",3,3
+10601,deepseek,phq3_a,scenario,50,50,50,50,100,mid_O_high_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10619,gemini,phq3_a,scenario,50,50,50,50,100,mid_O_high_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10583,openai,phq3_a,scenario,50,50,50,50,100,mid_O_high_N,55.56,"{""affect"": 55.55555555555556}",3,3
+10637,claude,phq3_a,scenario,50,50,50,50,0,mid_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10673,deepseek,phq3_a,scenario,50,50,50,50,0,mid_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10691,gemini,phq3_a,scenario,50,50,50,50,0,mid_O_low_N,22.22,"{""affect"": 22.22222222222222}",3,3
+10655,openai,phq3_a,scenario,50,50,50,50,0,mid_O_low_N,11.11,"{""affect"": 11.11111111111111}",3,3
+10853,claude,phq3_a,scenario,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10889,deepseek,phq3_a,scenario,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10907,gemini,phq3_a,scenario,50,50,50,50,50,mid_O_mid_N,44.44,"{""affect"": 44.44444444444444}",3,3
+10871,openai,phq3_a,scenario,50,50,50,50,50,mid_O_mid_N,33.33,"{""affect"": 33.33333333333333}",3,3
+10414,claude,phq6_bc,behavioral,100,50,50,50,100,high_O_high_N,66.67,"{""behavioral"": 75.0, ""cognitive"": 50.0}",6,6
+10450,deepseek,phq6_bc,behavioral,100,50,50,50,100,high_O_high_N,72.22,"{""behavioral"": 75.0, ""cognitive"": 66.66666666666666}",6,6
+10468,gemini,phq6_bc,behavioral,100,50,50,50,100,high_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10432,openai,phq6_bc,behavioral,100,50,50,50,100,high_O_high_N,72.22,"{""behavioral"": 75.0, ""cognitive"": 66.66666666666666}",6,6
+10270,claude,phq6_bc,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10306,deepseek,phq6_bc,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10324,gemini,phq6_bc,behavioral,100,50,50,50,0,high_O_low_N,11.11,"{""behavioral"": 8.333333333333332, ""cognitive"": 16.666666666666664}",6,6
+10288,openai,phq6_bc,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10702,claude,phq6_bc,behavioral,100,50,50,50,50,high_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10738,deepseek,phq6_bc,behavioral,100,50,50,50,50,high_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10756,gemini,phq6_bc,behavioral,100,50,50,50,50,high_O_mid_N,33.33,"{""behavioral"": 33.33333333333333, ""cognitive"": 33.33333333333333}",6,6
+10720,openai,phq6_bc,behavioral,100,50,50,50,50,high_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10342,claude,phq6_bc,behavioral,0,50,50,50,100,low_O_high_N,66.67,"{""behavioral"": 75.0, ""cognitive"": 50.0}",6,6
+10378,deepseek,phq6_bc,behavioral,0,50,50,50,100,low_O_high_N,77.78,"{""behavioral"": 83.33333333333334, ""cognitive"": 66.66666666666666}",6,6
+10396,gemini,phq6_bc,behavioral,0,50,50,50,100,low_O_high_N,72.22,"{""behavioral"": 75.0, ""cognitive"": 66.66666666666666}",6,6
+10360,openai,phq6_bc,behavioral,0,50,50,50,100,low_O_high_N,83.33,"{""behavioral"": 83.33333333333334, ""cognitive"": 83.33333333333334}",6,6
+10486,claude,phq6_bc,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10522,deepseek,phq6_bc,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10540,gemini,phq6_bc,behavioral,0,50,50,50,0,low_O_low_N,5.56,"{""behavioral"": 0.0, ""cognitive"": 16.666666666666664}",6,6
+10504,openai,phq6_bc,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10774,claude,phq6_bc,behavioral,0,50,50,50,50,low_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10810,deepseek,phq6_bc,behavioral,0,50,50,50,50,low_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10828,gemini,phq6_bc,behavioral,0,50,50,50,50,low_O_mid_N,33.33,"{""behavioral"": 33.33333333333333, ""cognitive"": 33.33333333333333}",6,6
+10792,openai,phq6_bc,behavioral,0,50,50,50,50,low_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10558,claude,phq6_bc,behavioral,50,50,50,50,100,mid_O_high_N,66.67,"{""behavioral"": 75.0, ""cognitive"": 50.0}",6,6
+10594,deepseek,phq6_bc,behavioral,50,50,50,50,100,mid_O_high_N,77.78,"{""behavioral"": 83.33333333333334, ""cognitive"": 66.66666666666666}",6,6
+10612,gemini,phq6_bc,behavioral,50,50,50,50,100,mid_O_high_N,72.22,"{""behavioral"": 83.33333333333334, ""cognitive"": 50.0}",6,6
+10576,openai,phq6_bc,behavioral,50,50,50,50,100,mid_O_high_N,66.67,"{""behavioral"": 75.0, ""cognitive"": 50.0}",6,6
+10630,claude,phq6_bc,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10666,deepseek,phq6_bc,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10684,gemini,phq6_bc,behavioral,50,50,50,50,0,mid_O_low_N,5.56,"{""behavioral"": 0.0, ""cognitive"": 16.666666666666664}",6,6
+10648,openai,phq6_bc,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10846,claude,phq6_bc,behavioral,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10882,deepseek,phq6_bc,behavioral,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10900,gemini,phq6_bc,behavioral,50,50,50,50,50,mid_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10864,openai,phq6_bc,behavioral,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10416,claude,phq6_bc,exemplar,100,50,50,50,100,high_O_high_N,77.78,"{""behavioral"": 91.66666666666666, ""cognitive"": 50.0}",6,6
+10452,deepseek,phq6_bc,exemplar,100,50,50,50,100,high_O_high_N,88.89,"{""behavioral"": 91.66666666666666, ""cognitive"": 83.33333333333334}",6,6
+10470,gemini,phq6_bc,exemplar,100,50,50,50,100,high_O_high_N,77.78,"{""behavioral"": 83.33333333333334, ""cognitive"": 66.66666666666666}",6,6
+10434,openai,phq6_bc,exemplar,100,50,50,50,100,high_O_high_N,83.33,"{""behavioral"": 91.66666666666666, ""cognitive"": 66.66666666666666}",6,6
+10272,claude,phq6_bc,exemplar,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10308,deepseek,phq6_bc,exemplar,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10326,gemini,phq6_bc,exemplar,100,50,50,50,0,high_O_low_N,44.44,"{""behavioral"": 50.0, ""cognitive"": 33.33333333333333}",6,6
+10290,openai,phq6_bc,exemplar,100,50,50,50,0,high_O_low_N,11.11,"{""behavioral"": 16.666666666666664, ""cognitive"": 0.0}",6,6
+10704,claude,phq6_bc,exemplar,100,50,50,50,50,high_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10740,deepseek,phq6_bc,exemplar,100,50,50,50,50,high_O_mid_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10758,gemini,phq6_bc,exemplar,100,50,50,50,50,high_O_mid_N,50.0,"{""behavioral"": 50.0, ""cognitive"": 50.0}",6,6
+10722,openai,phq6_bc,exemplar,100,50,50,50,50,high_O_mid_N,16.67,"{""behavioral"": 25.0, ""cognitive"": 0.0}",6,6
+10344,claude,phq6_bc,exemplar,0,50,50,50,100,low_O_high_N,61.11,"{""behavioral"": 66.66666666666666, ""cognitive"": 50.0}",6,6
+10380,deepseek,phq6_bc,exemplar,0,50,50,50,100,low_O_high_N,61.11,"{""behavioral"": 66.66666666666666, ""cognitive"": 50.0}",6,6
+10398,gemini,phq6_bc,exemplar,0,50,50,50,100,low_O_high_N,61.11,"{""behavioral"": 66.66666666666666, ""cognitive"": 50.0}",6,6
+10362,openai,phq6_bc,exemplar,0,50,50,50,100,low_O_high_N,66.67,"{""behavioral"": 75.0, ""cognitive"": 50.0}",6,6
+10488,claude,phq6_bc,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10524,deepseek,phq6_bc,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10542,gemini,phq6_bc,exemplar,0,50,50,50,0,low_O_low_N,27.78,"{""behavioral"": 25.0, ""cognitive"": 33.33333333333333}",6,6
+10506,openai,phq6_bc,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10776,claude,phq6_bc,exemplar,0,50,50,50,50,low_O_mid_N,16.67,"{""behavioral"": 25.0, ""cognitive"": 0.0}",6,6
+10812,deepseek,phq6_bc,exemplar,0,50,50,50,50,low_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10830,gemini,phq6_bc,exemplar,0,50,50,50,50,low_O_mid_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10794,openai,phq6_bc,exemplar,0,50,50,50,50,low_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10560,claude,phq6_bc,exemplar,50,50,50,50,100,mid_O_high_N,77.78,"{""behavioral"": 91.66666666666666, ""cognitive"": 50.0}",6,6
+10596,deepseek,phq6_bc,exemplar,50,50,50,50,100,mid_O_high_N,83.33,"{""behavioral"": 91.66666666666666, ""cognitive"": 66.66666666666666}",6,6
+10614,gemini,phq6_bc,exemplar,50,50,50,50,100,mid_O_high_N,77.78,"{""behavioral"": 83.33333333333334, ""cognitive"": 66.66666666666666}",6,6
+10578,openai,phq6_bc,exemplar,50,50,50,50,100,mid_O_high_N,77.78,"{""behavioral"": 83.33333333333334, ""cognitive"": 66.66666666666666}",6,6
+10632,claude,phq6_bc,exemplar,50,50,50,50,0,mid_O_low_N,5.56,"{""behavioral"": 0.0, ""cognitive"": 16.666666666666664}",6,6
+10668,deepseek,phq6_bc,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10686,gemini,phq6_bc,exemplar,50,50,50,50,0,mid_O_low_N,11.11,"{""behavioral"": 8.333333333333332, ""cognitive"": 16.666666666666664}",6,6
+10650,openai,phq6_bc,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10848,claude,phq6_bc,exemplar,50,50,50,50,50,mid_O_mid_N,16.67,"{""behavioral"": 25.0, ""cognitive"": 0.0}",6,6
+10884,deepseek,phq6_bc,exemplar,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10902,gemini,phq6_bc,exemplar,50,50,50,50,50,mid_O_mid_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10866,openai,phq6_bc,exemplar,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10413,claude,phq6_bc,hexaco,100,50,50,50,100,high_O_high_N,50.0,"{""behavioral"": 58.333333333333336, ""cognitive"": 33.33333333333333}",6,6
+10449,deepseek,phq6_bc,hexaco,100,50,50,50,100,high_O_high_N,27.78,"{""behavioral"": 33.33333333333333, ""cognitive"": 16.666666666666664}",6,6
+10467,gemini,phq6_bc,hexaco,100,50,50,50,100,high_O_high_N,66.67,"{""behavioral"": 75.0, ""cognitive"": 50.0}",6,6
+10431,openai,phq6_bc,hexaco,100,50,50,50,100,high_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10269,claude,phq6_bc,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10305,deepseek,phq6_bc,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10323,gemini,phq6_bc,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10287,openai,phq6_bc,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10701,claude,phq6_bc,hexaco,100,50,50,50,50,high_O_mid_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10737,deepseek,phq6_bc,hexaco,100,50,50,50,50,high_O_mid_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10755,gemini,phq6_bc,hexaco,100,50,50,50,50,high_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10719,openai,phq6_bc,hexaco,100,50,50,50,50,high_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10341,claude,phq6_bc,hexaco,0,50,50,50,100,low_O_high_N,77.78,"{""behavioral"": 91.66666666666666, ""cognitive"": 50.0}",6,6
+10377,deepseek,phq6_bc,hexaco,0,50,50,50,100,low_O_high_N,61.11,"{""behavioral"": 50.0, ""cognitive"": 83.33333333333334}",6,6
+10395,gemini,phq6_bc,hexaco,0,50,50,50,100,low_O_high_N,83.33,"{""behavioral"": 83.33333333333334, ""cognitive"": 83.33333333333334}",6,6
+10359,openai,phq6_bc,hexaco,0,50,50,50,100,low_O_high_N,88.89,"{""behavioral"": 83.33333333333334, ""cognitive"": 100.0}",6,6
+10485,claude,phq6_bc,hexaco,0,50,50,50,0,low_O_low_N,5.56,"{""behavioral"": 8.333333333333332, ""cognitive"": 0.0}",6,6
+10521,deepseek,phq6_bc,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10539,gemini,phq6_bc,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10503,openai,phq6_bc,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10773,claude,phq6_bc,hexaco,0,50,50,50,50,low_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10809,deepseek,phq6_bc,hexaco,0,50,50,50,50,low_O_mid_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10827,gemini,phq6_bc,hexaco,0,50,50,50,50,low_O_mid_N,27.78,"{""behavioral"": 33.33333333333333, ""cognitive"": 16.666666666666664}",6,6
+10791,openai,phq6_bc,hexaco,0,50,50,50,50,low_O_mid_N,33.33,"{""behavioral"": 41.66666666666667, ""cognitive"": 16.666666666666664}",6,6
+10557,claude,phq6_bc,hexaco,50,50,50,50,100,mid_O_high_N,61.11,"{""behavioral"": 66.66666666666666, ""cognitive"": 50.0}",6,6
+10593,deepseek,phq6_bc,hexaco,50,50,50,50,100,mid_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10611,gemini,phq6_bc,hexaco,50,50,50,50,100,mid_O_high_N,77.78,"{""behavioral"": 83.33333333333334, ""cognitive"": 66.66666666666666}",6,6
+10575,openai,phq6_bc,hexaco,50,50,50,50,100,mid_O_high_N,66.67,"{""behavioral"": 75.0, ""cognitive"": 50.0}",6,6
+10629,claude,phq6_bc,hexaco,50,50,50,50,0,mid_O_low_N,5.56,"{""behavioral"": 8.333333333333332, ""cognitive"": 0.0}",6,6
+10665,deepseek,phq6_bc,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10683,gemini,phq6_bc,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10647,openai,phq6_bc,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10845,claude,phq6_bc,hexaco,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10881,deepseek,phq6_bc,hexaco,50,50,50,50,50,mid_O_mid_N,27.78,"{""behavioral"": 33.33333333333333, ""cognitive"": 16.666666666666664}",6,6
+10899,gemini,phq6_bc,hexaco,50,50,50,50,50,mid_O_mid_N,27.78,"{""behavioral"": 33.33333333333333, ""cognitive"": 16.666666666666664}",6,6
+10863,openai,phq6_bc,hexaco,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10412,claude,phq6_bc,narrative,100,50,50,50,100,high_O_high_N,55.56,"{""behavioral"": 58.333333333333336, ""cognitive"": 50.0}",6,6
+10448,deepseek,phq6_bc,narrative,100,50,50,50,100,high_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10466,gemini,phq6_bc,narrative,100,50,50,50,100,high_O_high_N,55.56,"{""behavioral"": 58.333333333333336, ""cognitive"": 50.0}",6,6
+10430,openai,phq6_bc,narrative,100,50,50,50,100,high_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10268,claude,phq6_bc,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10304,deepseek,phq6_bc,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10322,gemini,phq6_bc,narrative,100,50,50,50,0,high_O_low_N,5.56,"{""behavioral"": 0.0, ""cognitive"": 16.666666666666664}",6,6
+10286,openai,phq6_bc,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10700,claude,phq6_bc,narrative,100,50,50,50,50,high_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10736,deepseek,phq6_bc,narrative,100,50,50,50,50,high_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10754,gemini,phq6_bc,narrative,100,50,50,50,50,high_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10718,openai,phq6_bc,narrative,100,50,50,50,50,high_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10340,claude,phq6_bc,narrative,0,50,50,50,100,low_O_high_N,50.0,"{""behavioral"": 58.333333333333336, ""cognitive"": 33.33333333333333}",6,6
+10376,deepseek,phq6_bc,narrative,0,50,50,50,100,low_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10394,gemini,phq6_bc,narrative,0,50,50,50,100,low_O_high_N,50.0,"{""behavioral"": 58.333333333333336, ""cognitive"": 33.33333333333333}",6,6
+10358,openai,phq6_bc,narrative,0,50,50,50,100,low_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10484,claude,phq6_bc,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10520,deepseek,phq6_bc,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10538,gemini,phq6_bc,narrative,0,50,50,50,0,low_O_low_N,5.56,"{""behavioral"": 0.0, ""cognitive"": 16.666666666666664}",6,6
+10502,openai,phq6_bc,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10772,claude,phq6_bc,narrative,0,50,50,50,50,low_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10808,deepseek,phq6_bc,narrative,0,50,50,50,50,low_O_mid_N,5.56,"{""behavioral"": 8.333333333333332, ""cognitive"": 0.0}",6,6
+10826,gemini,phq6_bc,narrative,0,50,50,50,50,low_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10790,openai,phq6_bc,narrative,0,50,50,50,50,low_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10556,claude,phq6_bc,narrative,50,50,50,50,100,mid_O_high_N,50.0,"{""behavioral"": 58.333333333333336, ""cognitive"": 33.33333333333333}",6,6
+10592,deepseek,phq6_bc,narrative,50,50,50,50,100,mid_O_high_N,55.56,"{""behavioral"": 58.333333333333336, ""cognitive"": 50.0}",6,6
+10610,gemini,phq6_bc,narrative,50,50,50,50,100,mid_O_high_N,50.0,"{""behavioral"": 58.333333333333336, ""cognitive"": 33.33333333333333}",6,6
+10574,openai,phq6_bc,narrative,50,50,50,50,100,mid_O_high_N,55.56,"{""behavioral"": 58.333333333333336, ""cognitive"": 50.0}",6,6
+10628,claude,phq6_bc,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10664,deepseek,phq6_bc,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10682,gemini,phq6_bc,narrative,50,50,50,50,0,mid_O_low_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10646,openai,phq6_bc,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10844,claude,phq6_bc,narrative,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10880,deepseek,phq6_bc,narrative,50,50,50,50,50,mid_O_mid_N,5.56,"{""behavioral"": 8.333333333333332, ""cognitive"": 0.0}",6,6
+10898,gemini,phq6_bc,narrative,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 16.666666666666664, ""cognitive"": 33.33333333333333}",6,6
+10862,openai,phq6_bc,narrative,50,50,50,50,50,mid_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10411,claude,phq6_bc,ocean_direct,100,50,50,50,100,high_O_high_N,83.33,"{""behavioral"": 83.33333333333334, ""cognitive"": 83.33333333333334}",6,6
+10447,deepseek,phq6_bc,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""behavioral"": 100.0, ""cognitive"": 100.0}",6,6
+10465,gemini,phq6_bc,ocean_direct,100,50,50,50,100,high_O_high_N,83.33,"{""behavioral"": 83.33333333333334, ""cognitive"": 83.33333333333334}",6,6
+10429,openai,phq6_bc,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""behavioral"": 100.0, ""cognitive"": 100.0}",6,6
+10267,claude,phq6_bc,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10303,deepseek,phq6_bc,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10321,gemini,phq6_bc,ocean_direct,100,50,50,50,0,high_O_low_N,5.56,"{""behavioral"": 0.0, ""cognitive"": 16.666666666666664}",6,6
+10285,openai,phq6_bc,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10699,claude,phq6_bc,ocean_direct,100,50,50,50,50,high_O_mid_N,11.11,"{""behavioral"": 8.333333333333332, ""cognitive"": 16.666666666666664}",6,6
+10735,deepseek,phq6_bc,ocean_direct,100,50,50,50,50,high_O_mid_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10753,gemini,phq6_bc,ocean_direct,100,50,50,50,50,high_O_mid_N,27.78,"{""behavioral"": 33.33333333333333, ""cognitive"": 16.666666666666664}",6,6
+10717,openai,phq6_bc,ocean_direct,100,50,50,50,50,high_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10339,claude,phq6_bc,ocean_direct,0,50,50,50,100,low_O_high_N,94.44,"{""behavioral"": 100.0, ""cognitive"": 83.33333333333334}",6,6
+10375,deepseek,phq6_bc,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""behavioral"": 100.0, ""cognitive"": 100.0}",6,6
+10393,gemini,phq6_bc,ocean_direct,0,50,50,50,100,low_O_high_N,88.89,"{""behavioral"": 83.33333333333334, ""cognitive"": 100.0}",6,6
+10357,openai,phq6_bc,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""behavioral"": 100.0, ""cognitive"": 100.0}",6,6
+10483,claude,phq6_bc,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10519,deepseek,phq6_bc,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10537,gemini,phq6_bc,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10501,openai,phq6_bc,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10771,claude,phq6_bc,ocean_direct,0,50,50,50,50,low_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10807,deepseek,phq6_bc,ocean_direct,0,50,50,50,50,low_O_mid_N,27.78,"{""behavioral"": 33.33333333333333, ""cognitive"": 16.666666666666664}",6,6
+10825,gemini,phq6_bc,ocean_direct,0,50,50,50,50,low_O_mid_N,27.78,"{""behavioral"": 33.33333333333333, ""cognitive"": 16.666666666666664}",6,6
+10789,openai,phq6_bc,ocean_direct,0,50,50,50,50,low_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10555,claude,phq6_bc,ocean_direct,50,50,50,50,100,mid_O_high_N,88.89,"{""behavioral"": 91.66666666666666, ""cognitive"": 83.33333333333334}",6,6
+10591,deepseek,phq6_bc,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""behavioral"": 100.0, ""cognitive"": 100.0}",6,6
+10609,gemini,phq6_bc,ocean_direct,50,50,50,50,100,mid_O_high_N,83.33,"{""behavioral"": 83.33333333333334, ""cognitive"": 83.33333333333334}",6,6
+10573,openai,phq6_bc,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""behavioral"": 100.0, ""cognitive"": 100.0}",6,6
+10627,claude,phq6_bc,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10663,deepseek,phq6_bc,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10681,gemini,phq6_bc,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10645,openai,phq6_bc,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10843,claude,phq6_bc,ocean_direct,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10879,deepseek,phq6_bc,ocean_direct,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10897,gemini,phq6_bc,ocean_direct,50,50,50,50,50,mid_O_mid_N,27.78,"{""behavioral"": 33.33333333333333, ""cognitive"": 16.666666666666664}",6,6
+10861,openai,phq6_bc,ocean_direct,50,50,50,50,50,mid_O_mid_N,27.78,"{""behavioral"": 33.33333333333333, ""cognitive"": 16.666666666666664}",6,6
+10415,claude,phq6_bc,scenario,100,50,50,50,100,high_O_high_N,50.0,"{""behavioral"": 58.333333333333336, ""cognitive"": 33.33333333333333}",6,6
+10451,deepseek,phq6_bc,scenario,100,50,50,50,100,high_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10469,gemini,phq6_bc,scenario,100,50,50,50,100,high_O_high_N,22.22,"{""behavioral"": 16.666666666666664, ""cognitive"": 33.33333333333333}",6,6
+10433,openai,phq6_bc,scenario,100,50,50,50,100,high_O_high_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10271,claude,phq6_bc,scenario,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10307,deepseek,phq6_bc,scenario,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10325,gemini,phq6_bc,scenario,100,50,50,50,0,high_O_low_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10289,openai,phq6_bc,scenario,100,50,50,50,0,high_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10703,claude,phq6_bc,scenario,100,50,50,50,50,high_O_mid_N,11.11,"{""behavioral"": 16.666666666666664, ""cognitive"": 0.0}",6,6
+10739,deepseek,phq6_bc,scenario,100,50,50,50,50,high_O_mid_N,5.56,"{""behavioral"": 8.333333333333332, ""cognitive"": 0.0}",6,6
+10757,gemini,phq6_bc,scenario,100,50,50,50,50,high_O_mid_N,27.78,"{""behavioral"": 25.0, ""cognitive"": 33.33333333333333}",6,6
+10721,openai,phq6_bc,scenario,100,50,50,50,50,high_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10343,claude,phq6_bc,scenario,0,50,50,50,100,low_O_high_N,44.44,"{""behavioral"": 50.0, ""cognitive"": 33.33333333333333}",6,6
+10379,deepseek,phq6_bc,scenario,0,50,50,50,100,low_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10397,gemini,phq6_bc,scenario,0,50,50,50,100,low_O_high_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10361,openai,phq6_bc,scenario,0,50,50,50,100,low_O_high_N,27.78,"{""behavioral"": 33.33333333333333, ""cognitive"": 16.666666666666664}",6,6
+10487,claude,phq6_bc,scenario,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10523,deepseek,phq6_bc,scenario,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10541,gemini,phq6_bc,scenario,0,50,50,50,0,low_O_low_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10505,openai,phq6_bc,scenario,0,50,50,50,0,low_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10775,claude,phq6_bc,scenario,0,50,50,50,50,low_O_mid_N,11.11,"{""behavioral"": 16.666666666666664, ""cognitive"": 0.0}",6,6
+10811,deepseek,phq6_bc,scenario,0,50,50,50,50,low_O_mid_N,5.56,"{""behavioral"": 8.333333333333332, ""cognitive"": 0.0}",6,6
+10829,gemini,phq6_bc,scenario,0,50,50,50,50,low_O_mid_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10793,openai,phq6_bc,scenario,0,50,50,50,50,low_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10559,claude,phq6_bc,scenario,50,50,50,50,100,mid_O_high_N,50.0,"{""behavioral"": 58.333333333333336, ""cognitive"": 33.33333333333333}",6,6
+10595,deepseek,phq6_bc,scenario,50,50,50,50,100,mid_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10613,gemini,phq6_bc,scenario,50,50,50,50,100,mid_O_high_N,33.33,"{""behavioral"": 33.33333333333333, ""cognitive"": 33.33333333333333}",6,6
+10577,openai,phq6_bc,scenario,50,50,50,50,100,mid_O_high_N,38.89,"{""behavioral"": 41.66666666666667, ""cognitive"": 33.33333333333333}",6,6
+10631,claude,phq6_bc,scenario,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10667,deepseek,phq6_bc,scenario,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10685,gemini,phq6_bc,scenario,50,50,50,50,0,mid_O_low_N,16.67,"{""behavioral"": 16.666666666666664, ""cognitive"": 16.666666666666664}",6,6
+10649,openai,phq6_bc,scenario,50,50,50,50,0,mid_O_low_N,0.0,"{""behavioral"": 0.0, ""cognitive"": 0.0}",6,6
+10847,claude,phq6_bc,scenario,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10883,deepseek,phq6_bc,scenario,50,50,50,50,50,mid_O_mid_N,22.22,"{""behavioral"": 25.0, ""cognitive"": 16.666666666666664}",6,6
+10901,gemini,phq6_bc,scenario,50,50,50,50,50,mid_O_mid_N,33.33,"{""behavioral"": 33.33333333333333, ""cognitive"": 33.33333333333333}",6,6
+10865,openai,phq6_bc,scenario,50,50,50,50,50,mid_O_mid_N,11.11,"{""behavioral"": 16.666666666666664, ""cognitive"": 0.0}",6,6
+10408,claude,phq9,behavioral,100,50,50,50,100,high_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+10444,deepseek,phq9,behavioral,100,50,50,50,100,high_O_high_N,81.48,"{""depression"": 81.48148148148148}",9,9
+10462,gemini,phq9,behavioral,100,50,50,50,100,high_O_high_N,59.26,"{""depression"": 59.25925925925925}",9,9
+10426,openai,phq9,behavioral,100,50,50,50,100,high_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+10264,claude,phq9,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10300,deepseek,phq9,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10318,gemini,phq9,behavioral,100,50,50,50,0,high_O_low_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10282,openai,phq9,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10696,claude,phq9,behavioral,100,50,50,50,50,high_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10732,deepseek,phq9,behavioral,100,50,50,50,50,high_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10750,gemini,phq9,behavioral,100,50,50,50,50,high_O_mid_N,37.04,"{""depression"": 37.03703703703704}",9,9
+10714,openai,phq9,behavioral,100,50,50,50,50,high_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10336,claude,phq9,behavioral,0,50,50,50,100,low_O_high_N,74.07,"{""depression"": 74.07407407407408}",9,9
+10372,deepseek,phq9,behavioral,0,50,50,50,100,low_O_high_N,81.48,"{""depression"": 81.48148148148148}",9,9
+10390,gemini,phq9,behavioral,0,50,50,50,100,low_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+10354,openai,phq9,behavioral,0,50,50,50,100,low_O_high_N,81.48,"{""depression"": 81.48148148148148}",9,9
+10480,claude,phq9,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10516,deepseek,phq9,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10534,gemini,phq9,behavioral,0,50,50,50,0,low_O_low_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+10498,openai,phq9,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10768,claude,phq9,behavioral,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10804,deepseek,phq9,behavioral,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10822,gemini,phq9,behavioral,0,50,50,50,50,low_O_mid_N,37.04,"{""depression"": 37.03703703703704}",9,9
+10786,openai,phq9,behavioral,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10552,claude,phq9,behavioral,50,50,50,50,100,mid_O_high_N,74.07,"{""depression"": 74.07407407407408}",9,9
+10588,deepseek,phq9,behavioral,50,50,50,50,100,mid_O_high_N,81.48,"{""depression"": 81.48148148148148}",9,9
+10606,gemini,phq9,behavioral,50,50,50,50,100,mid_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+10570,openai,phq9,behavioral,50,50,50,50,100,mid_O_high_N,81.48,"{""depression"": 81.48148148148148}",9,9
+10624,claude,phq9,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10660,deepseek,phq9,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10678,gemini,phq9,behavioral,50,50,50,50,0,mid_O_low_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10642,openai,phq9,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10840,claude,phq9,behavioral,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10876,deepseek,phq9,behavioral,50,50,50,50,50,mid_O_mid_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+10894,gemini,phq9,behavioral,50,50,50,50,50,mid_O_mid_N,37.04,"{""depression"": 37.03703703703704}",9,9
+10858,openai,phq9,behavioral,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10410,claude,phq9,exemplar,100,50,50,50,100,high_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+10446,deepseek,phq9,exemplar,100,50,50,50,100,high_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+10464,gemini,phq9,exemplar,100,50,50,50,100,high_O_high_N,88.89,"{""depression"": 88.88888888888889}",9,9
+10428,openai,phq9,exemplar,100,50,50,50,100,high_O_high_N,88.89,"{""depression"": 88.88888888888889}",9,9
+10266,claude,phq9,exemplar,100,50,50,50,0,high_O_low_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10302,deepseek,phq9,exemplar,100,50,50,50,0,high_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+10320,gemini,phq9,exemplar,100,50,50,50,0,high_O_low_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10284,openai,phq9,exemplar,100,50,50,50,0,high_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+10698,claude,phq9,exemplar,100,50,50,50,50,high_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10734,deepseek,phq9,exemplar,100,50,50,50,50,high_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10752,gemini,phq9,exemplar,100,50,50,50,50,high_O_mid_N,48.15,"{""depression"": 48.148148148148145}",9,9
+10716,openai,phq9,exemplar,100,50,50,50,50,high_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10338,claude,phq9,exemplar,0,50,50,50,100,low_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+10374,deepseek,phq9,exemplar,0,50,50,50,100,low_O_high_N,74.07,"{""depression"": 74.07407407407408}",9,9
+10392,gemini,phq9,exemplar,0,50,50,50,100,low_O_high_N,70.37,"{""depression"": 70.37037037037037}",9,9
+10356,openai,phq9,exemplar,0,50,50,50,100,low_O_high_N,66.67,"{""depression"": 66.66666666666666}",9,9
+10482,claude,phq9,exemplar,0,50,50,50,0,low_O_low_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+10518,deepseek,phq9,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10536,gemini,phq9,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10500,openai,phq9,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10770,claude,phq9,exemplar,0,50,50,50,50,low_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10806,deepseek,phq9,exemplar,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10824,gemini,phq9,exemplar,0,50,50,50,50,low_O_mid_N,40.74,"{""depression"": 40.74074074074074}",9,9
+10788,openai,phq9,exemplar,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10554,claude,phq9,exemplar,50,50,50,50,100,mid_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+10590,deepseek,phq9,exemplar,50,50,50,50,100,mid_O_high_N,85.19,"{""depression"": 85.18518518518519}",9,9
+10608,gemini,phq9,exemplar,50,50,50,50,100,mid_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+10572,openai,phq9,exemplar,50,50,50,50,100,mid_O_high_N,85.19,"{""depression"": 85.18518518518519}",9,9
+10626,claude,phq9,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10662,deepseek,phq9,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10680,gemini,phq9,exemplar,50,50,50,50,0,mid_O_low_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10644,openai,phq9,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10842,claude,phq9,exemplar,50,50,50,50,50,mid_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10878,deepseek,phq9,exemplar,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+10896,gemini,phq9,exemplar,50,50,50,50,50,mid_O_mid_N,40.74,"{""depression"": 40.74074074074074}",9,9
+10860,openai,phq9,exemplar,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10407,claude,phq9,hexaco,100,50,50,50,100,high_O_high_N,37.04,"{""depression"": 37.03703703703704}",9,9
+10443,deepseek,phq9,hexaco,100,50,50,50,100,high_O_high_N,29.63,"{""depression"": 29.629629629629626}",9,9
+10461,gemini,phq9,hexaco,100,50,50,50,100,high_O_high_N,62.96,"{""depression"": 62.96296296296296}",9,9
+10425,openai,phq9,hexaco,100,50,50,50,100,high_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10263,claude,phq9,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10299,deepseek,phq9,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10317,gemini,phq9,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10281,openai,phq9,hexaco,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10695,claude,phq9,hexaco,100,50,50,50,50,high_O_mid_N,0.0,"{""depression"": 0.0}",9,9
+10731,deepseek,phq9,hexaco,100,50,50,50,50,high_O_mid_N,0.0,"{""depression"": 0.0}",9,9
+10749,gemini,phq9,hexaco,100,50,50,50,50,high_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10713,openai,phq9,hexaco,100,50,50,50,50,high_O_mid_N,0.0,"{""depression"": 0.0}",9,9
+10335,claude,phq9,hexaco,0,50,50,50,100,low_O_high_N,85.19,"{""depression"": 85.18518518518519}",9,9
+10371,deepseek,phq9,hexaco,0,50,50,50,100,low_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10389,gemini,phq9,hexaco,0,50,50,50,100,low_O_high_N,85.19,"{""depression"": 85.18518518518519}",9,9
+10353,openai,phq9,hexaco,0,50,50,50,100,low_O_high_N,100.0,"{""depression"": 100.0}",9,9
+10479,claude,phq9,hexaco,0,50,50,50,0,low_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+10515,deepseek,phq9,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10533,gemini,phq9,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10497,openai,phq9,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10767,claude,phq9,hexaco,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10803,deepseek,phq9,hexaco,0,50,50,50,50,low_O_mid_N,0.0,"{""depression"": 0.0}",9,9
+10821,gemini,phq9,hexaco,0,50,50,50,50,low_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10785,openai,phq9,hexaco,0,50,50,50,50,low_O_mid_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10551,claude,phq9,hexaco,50,50,50,50,100,mid_O_high_N,62.96,"{""depression"": 62.96296296296296}",9,9
+10587,deepseek,phq9,hexaco,50,50,50,50,100,mid_O_high_N,62.96,"{""depression"": 62.96296296296296}",9,9
+10605,gemini,phq9,hexaco,50,50,50,50,100,mid_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+10569,openai,phq9,hexaco,50,50,50,50,100,mid_O_high_N,81.48,"{""depression"": 81.48148148148148}",9,9
+10623,claude,phq9,hexaco,50,50,50,50,0,mid_O_low_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10659,deepseek,phq9,hexaco,50,50,50,50,0,mid_O_low_N,29.63,"{""depression"": 29.629629629629626}",9,9
+10677,gemini,phq9,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10641,openai,phq9,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10839,claude,phq9,hexaco,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10875,deepseek,phq9,hexaco,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+10893,gemini,phq9,hexaco,50,50,50,50,50,mid_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10857,openai,phq9,hexaco,50,50,50,50,50,mid_O_mid_N,0.0,"{""depression"": 0.0}",9,9
+10406,claude,phq9,narrative,100,50,50,50,100,high_O_high_N,48.15,"{""depression"": 48.148148148148145}",9,9
+10442,deepseek,phq9,narrative,100,50,50,50,100,high_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10460,gemini,phq9,narrative,100,50,50,50,100,high_O_high_N,62.96,"{""depression"": 62.96296296296296}",9,9
+10424,openai,phq9,narrative,100,50,50,50,100,high_O_high_N,51.85,"{""depression"": 51.85185185185185}",9,9
+10262,claude,phq9,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10298,deepseek,phq9,narrative,100,50,50,50,0,high_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+10316,gemini,phq9,narrative,100,50,50,50,0,high_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+10280,openai,phq9,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10694,claude,phq9,narrative,100,50,50,50,50,high_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10730,deepseek,phq9,narrative,100,50,50,50,50,high_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10748,gemini,phq9,narrative,100,50,50,50,50,high_O_mid_N,40.74,"{""depression"": 40.74074074074074}",9,9
+10712,openai,phq9,narrative,100,50,50,50,50,high_O_mid_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10334,claude,phq9,narrative,0,50,50,50,100,low_O_high_N,59.26,"{""depression"": 59.25925925925925}",9,9
+10370,deepseek,phq9,narrative,0,50,50,50,100,low_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10388,gemini,phq9,narrative,0,50,50,50,100,low_O_high_N,55.56,"{""depression"": 55.55555555555556}",9,9
+10352,openai,phq9,narrative,0,50,50,50,100,low_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10478,claude,phq9,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10514,deepseek,phq9,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10532,gemini,phq9,narrative,0,50,50,50,0,low_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+10496,openai,phq9,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10766,claude,phq9,narrative,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10802,deepseek,phq9,narrative,0,50,50,50,50,low_O_mid_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+10820,gemini,phq9,narrative,0,50,50,50,50,low_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10784,openai,phq9,narrative,0,50,50,50,50,low_O_mid_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10550,claude,phq9,narrative,50,50,50,50,100,mid_O_high_N,48.15,"{""depression"": 48.148148148148145}",9,9
+10586,deepseek,phq9,narrative,50,50,50,50,100,mid_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10604,gemini,phq9,narrative,50,50,50,50,100,mid_O_high_N,62.96,"{""depression"": 62.96296296296296}",9,9
+10568,openai,phq9,narrative,50,50,50,50,100,mid_O_high_N,59.26,"{""depression"": 59.25925925925925}",9,9
+10622,claude,phq9,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10658,deepseek,phq9,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10676,gemini,phq9,narrative,50,50,50,50,0,mid_O_low_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10640,openai,phq9,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10838,claude,phq9,narrative,50,50,50,50,50,mid_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10874,deepseek,phq9,narrative,50,50,50,50,50,mid_O_mid_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+10892,gemini,phq9,narrative,50,50,50,50,50,mid_O_mid_N,40.74,"{""depression"": 40.74074074074074}",9,9
+10856,openai,phq9,narrative,50,50,50,50,50,mid_O_mid_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10405,claude,phq9,ocean_direct,100,50,50,50,100,high_O_high_N,88.89,"{""depression"": 88.88888888888889}",9,9
+10441,deepseek,phq9,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""depression"": 100.0}",9,9
+10459,gemini,phq9,ocean_direct,100,50,50,50,100,high_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+10423,openai,phq9,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""depression"": 100.0}",9,9
+10261,claude,phq9,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10297,deepseek,phq9,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10315,gemini,phq9,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10279,openai,phq9,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10693,claude,phq9,ocean_direct,100,50,50,50,50,high_O_mid_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10729,deepseek,phq9,ocean_direct,100,50,50,50,50,high_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+10747,gemini,phq9,ocean_direct,100,50,50,50,50,high_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10711,openai,phq9,ocean_direct,100,50,50,50,50,high_O_mid_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10333,claude,phq9,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""depression"": 100.0}",9,9
+10369,deepseek,phq9,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""depression"": 100.0}",9,9
+10387,gemini,phq9,ocean_direct,0,50,50,50,100,low_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+10351,openai,phq9,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""depression"": 100.0}",9,9
+10477,claude,phq9,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10513,deepseek,phq9,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10531,gemini,phq9,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10495,openai,phq9,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10765,claude,phq9,ocean_direct,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10801,deepseek,phq9,ocean_direct,0,50,50,50,50,low_O_mid_N,0.0,"{""depression"": 0.0}",9,9
+10819,gemini,phq9,ocean_direct,0,50,50,50,50,low_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10783,openai,phq9,ocean_direct,0,50,50,50,50,low_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10549,claude,phq9,ocean_direct,50,50,50,50,100,mid_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+10585,deepseek,phq9,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""depression"": 100.0}",9,9
+10603,gemini,phq9,ocean_direct,50,50,50,50,100,mid_O_high_N,88.89,"{""depression"": 88.88888888888889}",9,9
+10567,openai,phq9,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""depression"": 100.0}",9,9
+10621,claude,phq9,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10657,deepseek,phq9,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10675,gemini,phq9,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10639,openai,phq9,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10837,claude,phq9,ocean_direct,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10873,deepseek,phq9,ocean_direct,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+10891,gemini,phq9,ocean_direct,50,50,50,50,50,mid_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10855,openai,phq9,ocean_direct,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+10409,claude,phq9,scenario,100,50,50,50,100,high_O_high_N,48.15,"{""depression"": 48.148148148148145}",9,9
+10445,deepseek,phq9,scenario,100,50,50,50,100,high_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10463,gemini,phq9,scenario,100,50,50,50,100,high_O_high_N,29.63,"{""depression"": 29.629629629629626}",9,9
+10427,openai,phq9,scenario,100,50,50,50,100,high_O_high_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10265,claude,phq9,scenario,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10301,deepseek,phq9,scenario,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10319,gemini,phq9,scenario,100,50,50,50,0,high_O_low_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10283,openai,phq9,scenario,100,50,50,50,0,high_O_low_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10697,claude,phq9,scenario,100,50,50,50,50,high_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10733,deepseek,phq9,scenario,100,50,50,50,50,high_O_mid_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+10751,gemini,phq9,scenario,100,50,50,50,50,high_O_mid_N,37.04,"{""depression"": 37.03703703703704}",9,9
+10715,openai,phq9,scenario,100,50,50,50,50,high_O_mid_N,14.81,"{""depression"": 14.814814814814813}",9,9
+10337,claude,phq9,scenario,0,50,50,50,100,low_O_high_N,48.15,"{""depression"": 48.148148148148145}",9,9
+10373,deepseek,phq9,scenario,0,50,50,50,100,low_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10391,gemini,phq9,scenario,0,50,50,50,100,low_O_high_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10355,openai,phq9,scenario,0,50,50,50,100,low_O_high_N,22.22,"{""depression"": 22.22222222222222}",9,9
+10481,claude,phq9,scenario,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10517,deepseek,phq9,scenario,0,50,50,50,0,low_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+10535,gemini,phq9,scenario,0,50,50,50,0,low_O_low_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10499,openai,phq9,scenario,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+10769,claude,phq9,scenario,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10805,deepseek,phq9,scenario,0,50,50,50,50,low_O_mid_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+10823,gemini,phq9,scenario,0,50,50,50,50,low_O_mid_N,37.04,"{""depression"": 37.03703703703704}",9,9
+10787,openai,phq9,scenario,0,50,50,50,50,low_O_mid_N,11.11,"{""depression"": 11.11111111111111}",9,9
+10553,claude,phq9,scenario,50,50,50,50,100,mid_O_high_N,48.15,"{""depression"": 48.148148148148145}",9,9
+10589,deepseek,phq9,scenario,50,50,50,50,100,mid_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10607,gemini,phq9,scenario,50,50,50,50,100,mid_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+10571,openai,phq9,scenario,50,50,50,50,100,mid_O_high_N,37.04,"{""depression"": 37.03703703703704}",9,9
+10625,claude,phq9,scenario,50,50,50,50,0,mid_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+10661,deepseek,phq9,scenario,50,50,50,50,0,mid_O_low_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+10679,gemini,phq9,scenario,50,50,50,50,0,mid_O_low_N,18.52,"{""depression"": 18.51851851851852}",9,9
+10643,openai,phq9,scenario,50,50,50,50,0,mid_O_low_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+10841,claude,phq9,scenario,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+10877,deepseek,phq9,scenario,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+10895,gemini,phq9,scenario,50,50,50,50,50,mid_O_mid_N,37.04,"{""depression"": 37.03703703703704}",9,9
+10859,openai,phq9,scenario,50,50,50,50,50,mid_O_mid_N,11.11,"{""depression"": 11.11111111111111}",9,9

@@ -1,0 +1,155 @@
+
+======================================================================
+BLADERUNNER PAPER ANALYTICS
+Experiment: 6
+Generated: 2025-12-25 13:08:12
+======================================================================
+
+======================================================================
+FIDELITY ANALYSIS: OCEAN → Outcome Mapping
+======================================================================
+
+Does personality programming produce expected outcomes?
+
+----------------------------------------------------------------------
+OCEAN-Instrument Correlation Matrix
+----------------------------------------------------------------------
+Instrument              O         C         E         A         N
+-----------------------------------------------------------------
+bfi                 0.645     0.725     0.557     0.734     0.645
+dark_triad         -0.109    -0.702     0.317    -0.736    -0.109
+gad7                0.518    -0.080     0.049    -0.093     0.518
+levenson           -0.294    -0.900    -0.061    -0.903    -0.294
+phq9                0.254    -0.208    -0.194    -0.206     0.254
+
+----------------------------------------------------------------------
+Fidelity Scores (Direction Match)
+----------------------------------------------------------------------
+  bfi               100% (5/5) ✓
+    O: expected +, observed +0.645 ✓
+    C: expected +, observed +0.725 ✓
+    E: expected +, observed +0.557 ✓
+    A: expected +, observed +0.734 ✓
+    N: expected +, observed +0.645 ✓
+  dark_triad        100% (2/2) ✓
+    C: expected -, observed -0.702 ✓
+    A: expected -, observed -0.736 ✓
+  gad7               50% (1/2) ○
+    E: expected -, observed +0.049 ✗
+    N: expected +, observed +0.518 ✓
+  levenson          100% (2/2) ✓
+    C: expected -, observed -0.900 ✓
+    A: expected -, observed -0.903 ✓
+  phq9              100% (2/2) ✓
+    E: expected -, observed -0.194 ✓
+    N: expected +, observed +0.254 ✓
+
+----------------------------------------------------------------------
+Key Nomological Predictions
+----------------------------------------------------------------------
+  Low Agreeableness → High Psychopathy: r = -0.903 ✓
+  High Neuroticism → High Depression:   r = 0.254 ✗
+  High Neuroticism → High Anxiety:      r = 0.518 ✓
+
+======================================================================
+CROSS-MODEL CORRELATIONS WITH 95% CONFIDENCE INTERVALS
+======================================================================
+
+BFI
+--------------------------------------------------
+  claude×deepseek      r = 0.986  [0.980, 0.991]  n=111  (tight)
+  claude×gemini        r = 0.971  [0.956, 0.982]  n=111  (tight)
+  claude×openai        r = 0.983  [0.975, 0.989]  n=111  (tight)
+  deepseek×gemini      r = 0.982  [0.974, 0.987]  n=114  (tight)
+  deepseek×openai      r = 0.989  [0.983, 0.993]  n=114  (tight)
+  gemini×openai        r = 0.986  [0.980, 0.991]  n=114  (tight)
+
+DARK_TRIAD
+--------------------------------------------------
+  claude×deepseek      r = 0.971  [0.958, 0.981]  n=113  (tight)
+  claude×gemini        r = 0.938  [0.912, 0.960]  n=113  (tight)
+  claude×openai        r = 0.947  [0.927, 0.964]  n=113  (tight)
+  deepseek×gemini      r = 0.955  [0.936, 0.971]  n=114  (tight)
+  deepseek×openai      r = 0.955  [0.938, 0.969]  n=114  (tight)
+  gemini×openai        r = 0.973  [0.964, 0.981]  n=114  (tight)
+
+GAD7
+--------------------------------------------------
+  claude×deepseek      r = 0.823  [0.751, 0.879]  n=113  (moderate)
+  claude×gemini        r = 0.815  [0.747, 0.868]  n=113  (moderate)
+  claude×openai        r = 0.876  [0.818, 0.917]  n=113  (tight)
+  deepseek×gemini      r = 0.909  [0.855, 0.945]  n=114  (tight)
+  deepseek×openai      r = 0.905  [0.863, 0.939]  n=114  (tight)
+  gemini×openai        r = 0.851  [0.793, 0.897]  n=114  (moderate)
+
+LEVENSON
+--------------------------------------------------
+  claude×deepseek      r = 0.983  [0.978, 0.988]  n=112  (tight)
+  claude×gemini        r = 0.979  [0.972, 0.985]  n=112  (tight)
+  claude×openai        r = 0.988  [0.984, 0.992]  n=112  (tight)
+  deepseek×gemini      r = 0.972  [0.959, 0.981]  n=114  (tight)
+  deepseek×openai      r = 0.983  [0.977, 0.987]  n=114  (tight)
+  gemini×openai        r = 0.983  [0.976, 0.989]  n=114  (tight)
+
+PHQ9
+--------------------------------------------------
+  claude×deepseek      r = 0.761  [0.626, 0.855]  n=113  (wide)
+  claude×gemini        r = 0.765  [0.608, 0.868]  n=113  (wide)
+  claude×openai        r = 0.854  [0.763, 0.917]  n=113  (moderate)
+  deepseek×gemini      r = 0.855  [0.759, 0.914]  n=114  (moderate)
+  deepseek×openai      r = 0.850  [0.793, 0.891]  n=114  (tight)
+  gemini×openai        r = 0.751  [0.605, 0.849]  n=114  (wide)
+
+----------------------------------------------------------------------
+Summary
+----------------------------------------------------------------------
+  Mean correlation: 0.918
+  Mean CI width: 0.070
+  All CIs exclude zero: Yes
+
+======================================================================
+MULTIMODALITY ANALYSIS: Evidence for Discrete Attractors
+======================================================================
+
+Instrument        Dip Stat         BC Conclusion     
+-------------------------------------------------------
+bfi                  0.010      0.352 UNIMODAL       
+dark_triad           0.034      0.480 UNIMODAL       
+gad7                 0.179      0.392 MULTIMODAL     
+levenson             0.021      0.635 MULTIMODAL     
+phq9                 0.140      0.503 MULTIMODAL     
+
+----------------------------------------------------------------------
+Interpretation:
+  Dip Statistic: Higher values suggest multimodality
+  Bimodality Coefficient: BC > 0.555 suggests bimodality
+
+  Evidence for discrete attractors in: gad7, levenson, phq9
+
+======================================================================
+RESIDUAL VARIANCE DECOMPOSITION: What's the 66%?
+======================================================================
+
+Variance Components:
+--------------------------------------------------
+  Between profiles                 17.2%  ████████
+  Provider (within profile)         0.8%  
+  Pure residual                    82.0%  ████████████████████████████████████████
+
+----------------------------------------------------------------------
+Interpretation of Pure Residual:
+----------------------------------------------------------------------
+
+  Pure residual = 82.0%
+
+  This captures variance from:
+    - Input system differences (within same profile-provider)
+    - Instrument differences (within same profile-provider)
+    - Random response variation
+    - Question-level noise
+
+  ⚠️  High residual suggests significant unmeasured factors
+
+======================================================================
+ANALYSIS COMPLETE
+======================================================================

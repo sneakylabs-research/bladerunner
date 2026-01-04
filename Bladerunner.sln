@@ -1,9 +1,126 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bladerunner.Runner", "Bladerunner.Runner\Bladerunner.Runner.pyproj", "{BD32EFAA-4F9D-4DB9-B097-28DFBA98F29C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\6jone\Downloads\bladerunner_starter\.env.example = ..\..\..\Users\6jone\Downloads\bladerunner_starter\.env.example
+		..\..\..\Users\6jone\Downloads\bladerunner_starter\.gitignore = ..\..\..\Users\6jone\Downloads\bladerunner_starter\.gitignore
+		LICENSE = LICENSE
+		..\..\..\Users\6jone\Downloads\bladerunner_starter\requirements.txt = ..\..\..\Users\6jone\Downloads\bladerunner_starter\requirements.txt
+		..\..\..\Users\6jone\Downloads\README.md = ..\..\..\Users\6jone\Downloads\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\6jone\Downloads\bladerunner_starter\scripts\schema.sql = ..\..\..\Users\6jone\Downloads\bladerunner_starter\scripts\schema.sql
+	EndProjectSection
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bladerunner.Runner", "bladerunner_runner\Bladerunner.Runner.pyproj", "{BD32EFAA-4F9D-4DB9-B097-28DFBA98F29C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "papers", "papers", "{25F926D4-0F7B-4F9E-9DBD-6300C1A0F545}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-mapping-attractors", "01-mapping-attractors", "{45FE1AC4-B4AD-46AA-8CEF-833D6FEA2E07}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Bladerunner Project - Mapping Personality Attractors in LLM Parameter Space.pdf = ..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Bladerunner Project - Mapping Personality Attractors in LLM Parameter Space.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-latent-attractors", "02-latent-attractors", "{BE80FF7F-D321-4589-9EB7-9A5136AF4ABD}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Bladerunner Project - Evidence for a Theory of Latent Attractors.pdf = ..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Bladerunner Project - Evidence for a Theory of Latent Attractors.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "experiments", "experiments", "{C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "reports", "reports", "{A793A21C-9530-4D83-A650-035A5D2858C4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\6jone\Downloads\longitudinal_degradation_finding.md = ..\..\..\Users\6jone\Downloads\longitudinal_degradation_finding.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exp06", "exp06", "{817E1FFC-AC49-40D1-9F10-7F7A66BE9746}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_1_output\expanded_analysis.txt = experiment_1_output\expanded_analysis.txt
+		experiment_1_output\paper_analysis.txt = experiment_1_output\paper_analysis.txt
+		experiment_1_output\report.html = experiment_1_output\report.html
+		experiment_1_output\report.md = experiment_1_output\report.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exp11", "exp11", "{47D1D699-4808-4715-88B2-E5E3834CE426}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_2_output\expanded_analysis.txt = experiment_2_output\expanded_analysis.txt
+		experiment_2_output\paper_analysis.txt = experiment_2_output\paper_analysis.txt
+		experiment_2_output\report.html = experiment_2_output\report.html
+		experiment_2_output\report.md = experiment_2_output\report.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exp14", "exp14", "{64EBBE24-3D7F-4E42-83F2-800919E39262}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_3_output\expanded_analysis.txt = experiment_3_output\expanded_analysis.txt
+		experiment_3_output\paper_analysis.txt = experiment_3_output\paper_analysis.txt
+		experiment_3_output\report.html = experiment_3_output\report.html
+		experiment_3_output\report.md = experiment_3_output\report.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exp15", "exp15", "{033A2E0F-F48A-456A-B045-69C6A71BE1B6}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_9_output\expanded_analysis.txt = experiment_9_output\expanded_analysis.txt
+		experiment_9_output\paper_analysis.txt = experiment_9_output\paper_analysis.txt
+		experiment_9_output\report.html = experiment_9_output\report.html
+		experiment_9_output\report.md = experiment_9_output\report.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{312B6932-E606-4C58-BE97-D00AE265E184}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_1_output\data\correlations.csv = experiment_1_output\data\correlations.csv
+		experiment_1_output\data\raw_results.csv = experiment_1_output\data\raw_results.csv
+		experiment_1_output\data\summary_statistics.csv = experiment_1_output\data\summary_statistics.csv
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{1495CF43-A8F1-4176-A742-560F5FF91EEB}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_1_output\figures\correlation_matrix.png = experiment_1_output\figures\correlation_matrix.png
+		experiment_1_output\figures\h1_reliability.png = experiment_1_output\figures\h1_reliability.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{C11AB758-8D96-4CAE-88B6-8700498B5400}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_2_output\data\correlations.csv = experiment_2_output\data\correlations.csv
+		experiment_2_output\data\raw_results.csv = experiment_2_output\data\raw_results.csv
+		experiment_2_output\data\summary_statistics.csv = experiment_2_output\data\summary_statistics.csv
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{F5497477-9ACD-4E28-A6C1-34D9BE1E684E}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_2_output\figures\correlation_matrix.png = experiment_2_output\figures\correlation_matrix.png
+		experiment_2_output\figures\h1_reliability.png = experiment_2_output\figures\h1_reliability.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{F33A4118-94B9-42F4-A993-5B1DF58A6542}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_3_output\data\correlations.csv = experiment_3_output\data\correlations.csv
+		experiment_3_output\data\raw_results.csv = experiment_3_output\data\raw_results.csv
+		experiment_3_output\data\summary_statistics.csv = experiment_3_output\data\summary_statistics.csv
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{206BDA5E-7911-4188-A835-7813159B27CF}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_3_output\figures\correlation_matrix.png = experiment_3_output\figures\correlation_matrix.png
+		experiment_3_output\figures\h1_reliability.png = experiment_3_output\figures\h1_reliability.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{6F65A51E-B669-4F96-994D-7E568A6E7C4B}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_9_output\data\correlations.csv = experiment_9_output\data\correlations.csv
+		experiment_9_output\data\raw_results.csv = experiment_9_output\data\raw_results.csv
+		experiment_9_output\data\summary_statistics.csv = experiment_9_output\data\summary_statistics.csv
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{BD9BFF78-15B7-44F3-8AFF-5732CD13766E}"
+	ProjectSection(SolutionItems) = preProject
+		experiment_9_output\figures\correlation_matrix.png = experiment_9_output\figures\correlation_matrix.png
+		experiment_9_output\figures\h1_reliability.png = experiment_9_output\figures\h1_reliability.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,6 +133,27 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{BD32EFAA-4F9D-4DB9-B097-28DFBA98F29C} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{25F926D4-0F7B-4F9E-9DBD-6300C1A0F545} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{45FE1AC4-B4AD-46AA-8CEF-833D6FEA2E07} = {25F926D4-0F7B-4F9E-9DBD-6300C1A0F545}
+		{BE80FF7F-D321-4589-9EB7-9A5136AF4ABD} = {25F926D4-0F7B-4F9E-9DBD-6300C1A0F545}
+		{C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{A793A21C-9530-4D83-A650-035A5D2858C4} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{817E1FFC-AC49-40D1-9F10-7F7A66BE9746} = {C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C}
+		{47D1D699-4808-4715-88B2-E5E3834CE426} = {C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C}
+		{64EBBE24-3D7F-4E42-83F2-800919E39262} = {C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C}
+		{033A2E0F-F48A-456A-B045-69C6A71BE1B6} = {C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C}
+		{312B6932-E606-4C58-BE97-D00AE265E184} = {817E1FFC-AC49-40D1-9F10-7F7A66BE9746}
+		{1495CF43-A8F1-4176-A742-560F5FF91EEB} = {817E1FFC-AC49-40D1-9F10-7F7A66BE9746}
+		{C11AB758-8D96-4CAE-88B6-8700498B5400} = {47D1D699-4808-4715-88B2-E5E3834CE426}
+		{F5497477-9ACD-4E28-A6C1-34D9BE1E684E} = {47D1D699-4808-4715-88B2-E5E3834CE426}
+		{F33A4118-94B9-42F4-A993-5B1DF58A6542} = {64EBBE24-3D7F-4E42-83F2-800919E39262}
+		{206BDA5E-7911-4188-A835-7813159B27CF} = {64EBBE24-3D7F-4E42-83F2-800919E39262}
+		{6F65A51E-B669-4F96-994D-7E568A6E7C4B} = {033A2E0F-F48A-456A-B045-69C6A71BE1B6}
+		{BD9BFF78-15B7-44F3-8AFF-5732CD13766E} = {033A2E0F-F48A-456A-B045-69C6A71BE1B6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FE4FC209-7247-495D-9480-F82C37265BEA}

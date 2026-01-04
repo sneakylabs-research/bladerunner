@@ -1,0 +1,114 @@
+instrument,question_number,factor,question_text,mean_r,sd_r,n_pairs,n_observations
+bfi,1,extraversion,Is talkative,0.9657545676501657,0.01308197794529012,6,114
+bfi,2,agreeableness,Tends to find fault with others,0.918839152173477,0.04201988644671178,6,114
+bfi,3,conscientiousness,Does a thorough job,0.9660881094455309,0.008308812957228118,6,114
+bfi,4,neuroticism,"Is depressed, blue",0.7295871422347844,0.029069320288967325,6,111
+bfi,5,openness,"Is original, comes up with new ideas",0.8847268978527785,0.029377977908562385,6,111
+bfi,6,extraversion,Is reserved,0.9606871866035095,0.010591229699324424,6,114
+bfi,7,agreeableness,Is helpful and unselfish with others,0.9506428138302452,0.016067700386969842,6,114
+bfi,8,conscientiousness,Can be somewhat careless,0.9281553454975281,0.014817727185636254,6,113
+bfi,9,neuroticism,"Is relaxed, handles stress well",0.6192138388164932,0.06142282225083845,6,111
+bfi,10,openness,Is curious about many different things,0.8569387880649741,0.021358684049735798,6,111
+bfi,11,extraversion,Is full of energy,0.9286862859331363,0.03567832704378105,6,114
+bfi,12,agreeableness,Starts quarrels with others,0.8369700610135254,0.07655614727110296,6,114
+bfi,13,conscientiousness,Is a reliable worker,0.9052262642697846,0.06320495408569711,6,112
+bfi,14,neuroticism,Can be tense,0.7304233954235592,0.024598131114289087,6,111
+bfi,15,openness,"Is ingenious, a deep thinker",0.8735921946101867,0.009984114252167687,6,111
+bfi,16,extraversion,Generates a lot of enthusiasm,0.9089951566241335,0.049486605242035485,6,114
+bfi,17,agreeableness,Has a forgiving nature,0.9544178353934698,0.009222007704757899,6,114
+bfi,18,conscientiousness,Tends to be disorganized,0.9548509781770987,0.012421259370204508,6,112
+bfi,19,neuroticism,Worries a lot,0.8391632906884854,0.025388445369046195,6,111
+bfi,20,openness,Has an active imagination,0.8681879241471346,0.02419658992242685,6,111
+bfi,21,extraversion,Tends to be quiet,0.9590077486467655,0.014697045198884737,6,114
+bfi,22,agreeableness,Is generally trusting,0.9597716910647186,0.009641779852247952,6,114
+bfi,23,conscientiousness,Tends to be lazy,0.9340677976585549,0.006878094444034785,6,112
+bfi,24,neuroticism,"Is emotionally stable, not easily upset",0.5778458738337722,0.21164775255131568,6,111
+bfi,25,openness,Is inventive,0.8704175154120927,0.044529962789664,6,111
+bfi,26,extraversion,Has an assertive personality,0.9558907209836249,0.005293959474718293,6,114
+bfi,27,agreeableness,Can be cold and aloof,0.8774822064343276,0.016387997364114438,6,114
+bfi,28,conscientiousness,Perseveres until the task is finished,0.9642086729745896,0.008136238570502687,6,112
+bfi,29,neuroticism,Can be moody,0.6195983977311423,0.09766907994199747,6,111
+bfi,30,openness,"Values artistic, aesthetic experiences",0.875378261318,0.03231159520640898,6,111
+bfi,31,extraversion,"Is sometimes shy, inhibited",0.908077140838202,0.015284353431654655,6,114
+bfi,32,agreeableness,Is considerate and kind to almost everyone,0.9452249478462477,0.015763213013268766,6,114
+bfi,33,conscientiousness,Does things efficiently,0.9222561646155406,0.02461405196000973,6,112
+bfi,34,neuroticism,Remains calm in tense situations,0.7191778054058063,0.1136778755244157,6,111
+bfi,35,openness,Prefers work that is routine,0.7103127374898927,0.05669250584326876,6,111
+bfi,36,extraversion,"Is outgoing, sociable",0.9755528524929654,0.008300583208865255,6,114
+bfi,37,agreeableness,Is sometimes rude to others,0.9048499797981454,0.017959861805212297,6,114
+bfi,38,conscientiousness,Makes plans and follows through with them,0.961988520606123,0.008308782864065828,6,112
+bfi,39,neuroticism,Gets nervous easily,0.7929684613809459,0.05292420525973634,6,111
+bfi,40,openness,"Likes to reflect, play with ideas",0.7656958354175196,0.07728749840989493,6,111
+bfi,41,openness,Has few artistic interests,0.6981168881955351,0.08792811112244739,6,111
+bfi,42,agreeableness,Likes to cooperate with others,0.9555864424513132,0.015472140750243191,6,114
+bfi,43,conscientiousness,Is easily distracted,0.8414008400441194,0.057982421922026094,6,112
+bfi,44,openness,"Is sophisticated in art, music, or literature",0.8694348704886471,0.03507033993385375,6,111
+dark_triad,1,machiavellianism,It's not wise to tell your secrets,0.551165232435511,0.12381166997704832,6,114
+dark_triad,2,machiavellianism,I like to use clever manipulation to get my way,0.8963008909637566,0.027627732186846436,6,114
+dark_triad,3,machiavellianism,"Whatever it takes, you must get the important people on your side",0.7578659681822338,0.04664747662616279,6,114
+dark_triad,4,machiavellianism,Avoid direct conflict with others because they may be useful in the future,0.5240726958583084,0.09427843928882847,6,114
+dark_triad,5,machiavellianism,It's wise to keep track of information that you can use against people later,0.8590023158363258,0.03711754003922371,6,114
+dark_triad,6,machiavellianism,You should wait for the right time to get back at people,0.5943017599507735,0.12369950718142887,6,114
+dark_triad,7,machiavellianism,There are things you should hide from other people to preserve your reputation,0.6128732874068682,0.08252980863624858,6,114
+dark_triad,8,machiavellianism,"Make sure your plans benefit yourself, not others",0.9343648806044689,0.015288783304741174,6,114
+dark_triad,9,machiavellianism,Most people can be manipulated,0.7837041570818789,0.03524360117833323,6,114
+dark_triad,10,narcissism,People see me as a natural leader,0.9090713354233785,0.023935205754279633,6,114
+dark_triad,11,narcissism,I hate being the center of attention,0.9411923013367383,0.01375708365927788,6,114
+dark_triad,12,narcissism,Many group activities tend to be dull without me,0.895186669030512,0.019959085963334677,6,114
+dark_triad,13,narcissism,I know that I am special because everyone keeps telling me so,0.6563868707910084,0.08976347093067068,6,114
+dark_triad,14,narcissism,I like to get acquainted with important people,0.817702761511172,0.06765780437708308,6,114
+dark_triad,15,narcissism,I feel embarrassed if someone compliments me,0.5505489510373054,0.10908510865857894,6,114
+dark_triad,16,narcissism,I have been compared to famous people,0.8161894988426849,0.04430538267593978,6,114
+dark_triad,17,narcissism,I am an average person,0.7098632441129955,0.06280663236727149,6,114
+dark_triad,18,narcissism,I insist on getting the respect I deserve,0.8013450554522298,0.053964316937266506,6,114
+dark_triad,19,psychopathy,I like to get revenge on authorities,0.8720427146041451,0.025536985401320593,6,114
+dark_triad,20,psychopathy,I avoid dangerous situations,0.6064882571606267,0.07588755972837306,6,114
+dark_triad,21,psychopathy,Payback needs to be quick and nasty,0.8363088667394208,0.04203571673668337,6,114
+dark_triad,22,psychopathy,People often say I'm out of control,0.7769651540924901,0.05057367687461355,6,114
+dark_triad,23,psychopathy,It's true that I can be mean to others,0.9095709696333877,0.012757572525364727,6,114
+dark_triad,24,psychopathy,People who mess with me always regret it,0.8430704971134383,0.03156053351410008,6,113
+dark_triad,25,psychopathy,I have never gotten into trouble with the law,0.6297710666136624,0.03768315484428929,6,113
+dark_triad,26,psychopathy,I enjoy having sex with people I hardly know,0.7997625473885086,0.03427513939794804,6,113
+dark_triad,27,psychopathy,I'll say anything to get what I want,0.9247701061997926,0.012117464940549627,6,113
+gad7,1,anxiety,"Feeling nervous, anxious, or on edge",0.7940318982147069,0.05539513009356554,6,114
+gad7,2,anxiety,Not being able to stop or control worrying,0.7409068604406435,0.07680633130023552,6,114
+gad7,3,anxiety,Worrying too much about different things,0.7151658088785718,0.0698442137602776,6,114
+gad7,4,anxiety,Trouble relaxing,0.5650599703652703,0.12786350015063314,6,114
+gad7,5,anxiety,Being so restless that it is hard to sit still,0.6777056938357607,0.0391674790786478,6,114
+gad7,6,anxiety,Becoming easily annoyed or irritable,0.7862562737355233,0.06883316660785344,6,114
+gad7,7,anxiety,Feeling afraid as if something awful might happen,0.7130701362137998,0.060368317610117454,6,113
+levenson,1,primary,Success is based on survival of the fittest; I am not concerned about the losers,0.9394121558774429,0.015136811274728879,6,114
+levenson,2,primary,"For me, what's right is whatever I can get away with",0.9143199887873843,0.019584288220771746,6,114
+levenson,3,primary,"In today's world, I feel justified in doing anything I can get away with to succ",0.9118056511968701,0.024268716147102885,6,113
+levenson,4,primary,My main purpose in life is getting as many goodies as possible,0.8713946394869408,0.03744959739265723,6,113
+levenson,5,primary,Making a lot of money is my most important goal,0.8476655267579178,0.027382956689175255,6,113
+levenson,6,primary,I let others worry about higher values; my main concern is with the bottom line,0.8967767631033717,0.020132160314487096,6,113
+levenson,7,primary,People who are stupid enough to get ripped off usually deserve it,0.7567712652112505,0.08235613044972628,6,113
+levenson,8,primary,Looking out for myself is my top priority,0.9423444252323921,0.012691412549300075,6,113
+levenson,9,primary,I tell other people what they want to hear so that they will do what I want them,0.8641732655036666,0.05358117067073187,6,113
+levenson,10,primary,I would be upset if my success came at someone else's expense,0.935166596779378,0.02825629153129995,6,113
+levenson,11,primary,I often admire a really clever scam,0.8835381808041455,0.03254281981488437,6,113
+levenson,12,primary,I make a point of trying not to hurt others in pursuit of my goals,0.9578722927036054,0.011474360849832062,6,113
+levenson,13,primary,I enjoy manipulating other people's feelings,0.9072729134154053,0.017623696806141537,6,113
+levenson,14,primary,I feel bad if my words hurt someone,0.9397804402412642,0.015277721962012759,6,113
+levenson,15,primary,"Even if I were trying very hard to sell something, I wouldn't lie about it",0.8658334005185768,0.046759566311322526,6,113
+levenson,16,primary,Cheating is not justified because it is unfair to others,0.8963266010787353,0.03903025104701779,6,113
+levenson,17,secondary,"I find myself in the same kinds of trouble, time after time",0.6933710209639142,0.12199777185997576,6,113
+levenson,18,secondary,I am often bored,0.5464746873611147,0.07914372243135556,6,113
+levenson,19,secondary,I find that I am able to pursue one goal for a long time,0.9182104485000039,0.015348541095428419,6,113
+levenson,20,secondary,I don't plan anything very far in advance,0.9224682971004645,0.023202594541072295,6,113
+levenson,21,secondary,I quickly lose interest in tasks I start,0.8654623464136536,0.05022326007607083,6,113
+levenson,22,secondary,Most of my problems are due to the fact that other people just don't understand ,0.6732448391311906,0.09005756920285071,6,113
+levenson,23,secondary,"Before I do anything, I carefully consider the possible consequences",0.9371959344793604,0.013579012825780239,6,113
+levenson,24,secondary,I have been in a lot of shouting matches with other people,0.8794136330648391,0.032011877242334674,6,112
+levenson,25,secondary,"When I get frustrated, I often let off steam by blowing my top",0.8557436608069403,0.05098342308405513,6,112
+levenson,26,secondary,Love is overrated,0.6847497699994419,0.11882662980001961,6,112
+phq9,1,depression,Little interest or pleasure in doing things,0.6558610801592092,0.14315129936853266,6,114
+phq9,2,depression,"Feeling down, depressed, or hopeless",0.6692243044317853,0.07729058353647104,6,114
+phq9,3,depression,"Trouble falling or staying asleep, or sleeping too much",0.5074807547628813,0.1647728367946331,6,114
+phq9,4,depression,Feeling tired or having little energy,0.4058415610110954,0.11392759241519257,6,114
+phq9,5,depression,Poor appetite or overeating,0.6351176798036725,0.0528534439699978,6,114
+phq9,6,depression,"Feeling bad about yourself, or that you are a failure, or have let yourself or y",0.6800990828060139,0.08821925745426239,6,113
+phq9,7,depression,"Trouble concentrating on things, such as reading the newspaper or watching telev",0.5544924280298201,0.09173287447728473,6,113
+phq9,8,depression,Moving or speaking so slowly that other people could have noticed. Or the opposi,0.5294202666044002,0.09630420039117579,6,113
+phq9,9,depression,"Thoughts that you would be better off dead, or of hurting yourself in some way",0.48314272653430174,0.13332077529916353,6,113

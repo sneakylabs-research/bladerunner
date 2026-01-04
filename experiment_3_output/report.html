@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Bladerunner Experiment Report</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; 
+               max-width: 900px; margin: 40px auto; padding: 20px; line-height: 1.6; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #4CAF50; color: white; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        code { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; }
+        h1, h2, h3 { color: #333; }
+        h1 { border-bottom: 2px solid #4CAF50; padding-bottom: 10px; }
+    </style>
+</head>
+<body>
+<p><h1>Bladerunner Experiment Report: Longitudinal Full</h1></p><p><strong>Generated:</strong> 2025-12-29 11:14:44
+<strong>Experiment:</strong> 3</p><p><h2>Executive Summary</h2></p><p><strong>H1 Result:</strong> NOT SUPPORTED</p><p><li>Clinical instruments mean r = 0.753</li>
+<li>Normal instruments mean r = 0.962</li>
+<li>Difference: t = -8.62, p < .001</li>
+<li>Effect size: Cohen's d = -0.98 (Large)</li></p><p><h2>Methods</h2></p><p><h3>Design</h3></p><p><li><strong>Providers:</strong> 4 (claude, deepseek, gemini, openai)</li>
+<li><strong>Instruments:</strong> 5 (bfi, dark_triad, gad7, levenson, phq9)</li>
+<li><strong>Input Systems:</strong> 6 (behavioral, exemplar, hexaco, narrative, ocean_direct, scenario)</li>
+<li><strong>Personality Profiles:</strong> 19</li>
+<li><strong>Total Test Cases:</strong> 2280</li>
+<li><strong>Total Completions:</strong> 51,528</li></p><p><h3>Instruments</h3></p><p><table>
+<tr><th>Instrument</th><th>Type</th><th>Questions</th></tr>
+<tr><td>bfi</td><td>Normal</td><td>44</td></tr>
+<tr><td>dark_triad</td><td>Mixed</td><td>27</td></tr>
+<tr><td>gad7</td><td>Clinical</td><td>7</td></tr>
+<tr><td>levenson</td><td>Clinical</td><td>26</td></tr>
+<tr><td>phq9</td><td>Clinical</td><td>9</td></tr>
+</table></p><p><h3>Hypothesis</h3></p><p><strong>H1:</strong> Clinical/dark personality traits form discrete attractors in LLM parameter space,
+while normal personality variation represents noise.</p><p><strong>Predictions:</strong>
+<li>Clinical instruments (Levenson, PHQ9, GAD7): r > 0.8</li>
+<li>Mixed instruments (Dark Triad): r ≈ 0.6</li>
+<li>Normal instruments (BFI): r < 0.4</li></p><p><h2>Results</h2></p><p><h3>Table 1: Descriptive Statistics by Instrument</h3></p><p><table>
+<tr><th>Instrument</th><th>Type</th><th>N</th><th>Mean</th><th>SD</th><th>Min</th><th>Max</th></tr>
+<tr><td>bfi</td><td>Normal</td><td>456</td><td>57.1</td><td>18.9</td><td>0.0</td><td>100.0</td></tr>
+<tr><td>dark_triad</td><td>Mixed</td><td>456</td><td>47.5</td><td>21.9</td><td>5.6</td><td>100.0</td></tr>
+<tr><td>gad7</td><td>Clinical</td><td>456</td><td>38.2</td><td>24.5</td><td>0.0</td><td>100.0</td></tr>
+<tr><td>levenson</td><td>Clinical</td><td>456</td><td>40.3</td><td>29.9</td><td>0.0</td><td>100.0</td></tr>
+<tr><td>phq9</td><td>Clinical</td><td>456</td><td>21.9</td><td>21.8</td><td>0.0</td><td>100.0</td></tr>
+</table></p><p><h3>Table 2: Cross-Model Reliability by Instrument (H1 Test)</h3></p><p><table>
+<tr><th>Instrument</th><th>Type</th><th>Mean r</th><th>SD</th><th>Range</th><th>Prediction</th><th>Result</th></tr>
+<tr><td>bfi</td><td>Normal</td><td>0.962</td><td>0.033</td><td>0.88-1.00</td><td>< 0.4</td><td>✗</td></tr>
+<tr><td>levenson</td><td>Clinical</td><td>0.958</td><td>0.035</td><td>0.85-0.99</td><td>> 0.8</td><td>✓</td></tr>
+<tr><td>dark_triad</td><td>Mixed</td><td>0.926</td><td>0.054</td><td>0.73-0.99</td><td>≈ 0.6</td><td>○</td></tr>
+<tr><td>gad7</td><td>Clinical</td><td>0.739</td><td>0.244</td><td>-0.02-0.98</td><td>> 0.8</td><td>○</td></tr>
+<tr><td>phq9</td><td>Clinical</td><td>0.562</td><td>0.208</td><td>0.07-0.92</td><td>> 0.8</td><td>✗</td></tr>
+</table></p><p><h3>Table 3: Reliability by Input System</h3></p><p><table>
+<tr><th>Input System</th><th>Mean r</th><th>SD</th><th>N</th></tr>
+<tr><td>narrative</td><td>0.884</td><td>0.131</td><td>30</td></tr>
+<tr><td>exemplar</td><td>0.853</td><td>0.145</td><td>30</td></tr>
+<tr><td>scenario</td><td>0.842</td><td>0.175</td><td>30</td></tr>
+<tr><td>behavioral</td><td>0.827</td><td>0.283</td><td>30</td></tr>
+<tr><td>ocean_direct</td><td>0.797</td><td>0.201</td><td>30</td></tr>
+<tr><td>hexaco</td><td>0.774</td><td>0.294</td><td>30</td></tr>
+</table></p><p><h3>Table 4: Cross-Provider Correlations by Instrument</h3></p><p><table>
+<tr><th>Provider Pair</th><th>bfi</th><th>dark_triad</th><th>gad7</th><th>levenson</th><th>phq9</th></tr>
+<tr><td>claude × deepseek</td><td>0.963</td><td>0.943</td><td>0.698</td><td>0.952</td><td>0.574</td></tr>
+<tr><td>claude × gemini</td><td>0.958</td><td>0.937</td><td>0.770</td><td>0.956</td><td>0.513</td></tr>
+<tr><td>claude × openai</td><td>0.956</td><td>0.941</td><td>0.817</td><td>0.960</td><td>0.671</td></tr>
+<tr><td>deepseek × gemini</td><td>0.956</td><td>0.913</td><td>0.627</td><td>0.952</td><td>0.495</td></tr>
+<tr><td>deepseek × openai</td><td>0.967</td><td>0.905</td><td>0.625</td><td>0.969</td><td>0.536</td></tr>
+<tr><td>gemini × openai</td><td>0.974</td><td>0.917</td><td>0.895</td><td>0.960</td><td>0.581</td></tr>
+</table></p><p><h3>Statistical Tests</h3></p><p><strong>H1 Test: Clinical vs Normal Reliability</strong></p><p><li>t(2) = -8.615, p < .001</li>
+<li>Cohen's d = -0.977 (Large effect)</li>
+<li>Clinical mean r = 0.753 (n = 3)</li>
+<li>Normal mean r = 0.962 (n = 1)</li></p><p><h2>Conclusion</h2></p><p><strong>H1 is not supported.</strong> The predicted pattern of clinical > normal reliability 
+was not observed in this experiment.</p><p><h2>Appendix: Technical Details</h2></p><p><h3>Correlation Calculation</h3>
+Pearson correlation coefficients were calculated between provider pairs for each 
+instrument × input system combination. Scores were aligned by personality profile.</p><p><h3>Statistical Significance</h3>
+P-values calculated using t-distribution. Effect sizes reported as Cohen's d.</p><p>---
+*Report generated by Bladerunner Analytics v1.0*</p>
+</body>
+</html>

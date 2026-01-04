@@ -1,0 +1,1081 @@
+test_case_id,provider,instrument,input_system,O,C,E,A,N,profile_label,total_score,factor_scores,questions_answered,questions_total
+7112,claude,bfi,behavioral,100,50,50,50,100,high_O_high_N,69.31,"{""extraversion"": 46.875, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 96.875, ""openness"": 100.0}",44,44
+7172,deepseek,bfi,behavioral,100,50,50,50,100,high_O_high_N,67.21,"{""extraversion"": 46.875, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 38.888888888888886, ""neuroticism"": 100.0, ""openness"": 97.50000000000001}",44,44
+7202,gemini,bfi,behavioral,100,50,50,50,100,high_O_high_N,69.36,"{""extraversion"": 46.875, ""agreeableness"": 61.111111111111114, ""conscientiousness"": 44.44444444444444, ""neuroticism"": 96.875, ""openness"": 97.50000000000001}",44,44
+7142,openai,bfi,behavioral,100,50,50,50,100,high_O_high_N,68.26,"{""extraversion"": 50.0, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 96.875, ""openness"": 100.0}",44,44
+6872,claude,bfi,behavioral,100,50,50,50,0,high_O_low_N,55.07,"{""extraversion"": 53.125, ""agreeableness"": 58.333333333333336, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 0.0, ""openness"": 100.0}",44,44
+6932,deepseek,bfi,behavioral,100,50,50,50,0,high_O_low_N,52.92,"{""extraversion"": 56.25, ""agreeableness"": 58.333333333333336, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 100.0}",44,44
+6962,gemini,bfi,behavioral,100,50,50,50,0,high_O_low_N,52.97,"{""extraversion"": 56.25, ""agreeableness"": 61.111111111111114, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 97.50000000000001}",44,44
+6902,openai,bfi,behavioral,100,50,50,50,0,high_O_low_N,53.96,"{""extraversion"": 53.125, ""agreeableness"": 61.111111111111114, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 0.0, ""openness"": 100.0}",44,44
+7592,claude,bfi,behavioral,100,50,50,50,50,high_O_mid_N,65.68,"{""extraversion"": 50.0, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 61.111111111111114, ""neuroticism"": 53.125, ""openness"": 97.50000000000001}",44,44
+7652,deepseek,bfi,behavioral,100,50,50,50,50,high_O_mid_N,61.24,"{""extraversion"": 50.0, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 50.0, ""neuroticism"": 53.125, ""openness"": 97.50000000000001}",44,44
+7682,gemini,bfi,behavioral,100,50,50,50,50,high_O_mid_N,62.4,"{""extraversion"": 50.0, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 50.0, ""neuroticism"": 53.125, ""openness"": 95.0}",44,44
+7622,openai,bfi,behavioral,100,50,50,50,50,high_O_mid_N,63.39,"{""extraversion"": 53.125, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 46.875, ""openness"": 97.50000000000001}",44,44
+6992,claude,bfi,behavioral,0,50,50,50,100,low_O_high_N,51.63,"{""extraversion"": 40.625, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 100.0, ""openness"": 17.5}",44,44
+7052,deepseek,bfi,behavioral,0,50,50,50,100,low_O_high_N,50.56,"{""extraversion"": 37.5, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 100.0, ""openness"": 12.5}",44,44
+7082,gemini,bfi,behavioral,0,50,50,50,100,low_O_high_N,51.56,"{""extraversion"": 40.625, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 50.0, ""neuroticism"": 96.875, ""openness"": 17.5}",44,44
+7022,openai,bfi,behavioral,0,50,50,50,100,low_O_high_N,47.64,"{""extraversion"": 43.75, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 100.0, ""openness"": 0.0}",44,44
+7232,claude,bfi,behavioral,0,50,50,50,0,low_O_low_N,37.38,"{""extraversion"": 46.875, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 0.0, ""openness"": 15.000000000000002}",44,44
+7292,deepseek,bfi,behavioral,0,50,50,50,0,low_O_low_N,32.67,"{""extraversion"": 50.0, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 0.0, ""openness"": 4.999999999999999}",44,44
+7322,gemini,bfi,behavioral,0,50,50,50,0,low_O_low_N,35.21,"{""extraversion"": 46.875, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 0.0, ""openness"": 12.5}",44,44
+7262,openai,bfi,behavioral,0,50,50,50,0,low_O_low_N,33.28,"{""extraversion"": 50.0, ""agreeableness"": 58.333333333333336, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 0.0, ""openness"": 2.500000000000002}",44,44
+7712,claude,bfi,behavioral,0,50,50,50,50,low_O_mid_N,48.25,"{""extraversion"": 46.875, ""agreeableness"": 58.333333333333336, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 46.875, ""openness"": 22.499999999999996}",44,44
+7772,deepseek,bfi,behavioral,0,50,50,50,50,low_O_mid_N,46.72,"{""extraversion"": 50.0, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 50.0, ""openness"": 22.499999999999996}",44,44
+7802,gemini,bfi,behavioral,0,50,50,50,50,low_O_mid_N,46.28,"{""extraversion"": 43.75, ""agreeableness"": 61.111111111111114, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 56.25, ""openness"": 17.5}",44,44
+7742,openai,bfi,behavioral,0,50,50,50,50,low_O_mid_N,43.36,"{""extraversion"": 50.0, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 43.75, ""openness"": 17.5}",44,44
+7352,claude,bfi,behavioral,50,50,50,50,100,mid_O_high_N,59.0,"{""extraversion"": 40.625, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 44.44444444444444, ""neuroticism"": 96.875, ""openness"": 57.49999999999999}",44,44
+7412,deepseek,bfi,behavioral,50,50,50,50,100,mid_O_high_N,57.07,"{""extraversion"": 40.625, ""agreeableness"": 50.0, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 100.0, ""openness"": 47.5}",44,44
+7442,gemini,bfi,behavioral,50,50,50,50,100,mid_O_high_N,62.4,"{""extraversion"": 43.75, ""agreeableness"": 61.111111111111114, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 96.875, ""openness"": 57.49999999999999}",44,44
+7382,openai,bfi,behavioral,50,50,50,50,100,mid_O_high_N,58.26,"{""extraversion"": 46.875, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 100.0, ""openness"": 50.0}",44,44
+7472,claude,bfi,behavioral,50,50,50,50,0,mid_O_low_N,47.11,"{""extraversion"": 50.0, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 0.0, ""openness"": 55.00000000000001}",44,44
+7532,deepseek,bfi,behavioral,50,50,50,50,0,mid_O_low_N,43.89,"{""extraversion"": 50.0, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 0.0, ""openness"": 50.0}",44,44
+7562,gemini,bfi,behavioral,50,50,50,50,0,mid_O_low_N,41.92,"{""extraversion"": 43.75, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 0.0, ""openness"": 57.49999999999999}",44,44
+7502,openai,bfi,behavioral,50,50,50,50,0,mid_O_low_N,43.89,"{""extraversion"": 50.0, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 0.0, ""openness"": 50.0}",44,44
+7832,claude,bfi,behavioral,50,50,50,50,50,mid_O_mid_N,58.17,"{""extraversion"": 46.875, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 53.125, ""openness"": 57.49999999999999}",44,44
+7892,deepseek,bfi,behavioral,50,50,50,50,50,mid_O_mid_N,52.58,"{""extraversion"": 46.875, ""agreeableness"": 61.111111111111114, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 46.875, ""openness"": 52.5}",44,44
+7922,gemini,bfi,behavioral,50,50,50,50,50,mid_O_mid_N,54.33,"{""extraversion"": 43.75, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 56.25, ""openness"": 55.00000000000001}",44,44
+7862,openai,bfi,behavioral,50,50,50,50,50,mid_O_mid_N,51.04,"{""extraversion"": 50.0, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 46.875, ""openness"": 50.0}",44,44
+7114,claude,bfi,exemplar,100,50,50,50,100,high_O_high_N,62.17,"{""extraversion"": 37.5, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 36.111111111111114, ""neuroticism"": 100.0, ""openness"": 89.99999999999999}",44,44
+7174,deepseek,bfi,exemplar,100,50,50,50,100,high_O_high_N,55.94,"{""extraversion"": 25.0, ""agreeableness"": 36.111111111111114, ""conscientiousness"": 36.111111111111114, ""neuroticism"": 100.0, ""openness"": 82.5}",44,44
+7204,gemini,bfi,exemplar,100,50,50,50,100,high_O_high_N,52.53,"{""extraversion"": 31.25, ""agreeableness"": 25.0, ""conscientiousness"": 13.88888888888889, ""neuroticism"": 100.0, ""openness"": 92.5}",44,44
+7144,openai,bfi,exemplar,100,50,50,50,100,high_O_high_N,63.54,"{""extraversion"": 46.875, ""agreeableness"": 50.0, ""conscientiousness"": 33.333333333333336, ""neuroticism"": 100.0, ""openness"": 87.5}",44,44
+6874,claude,bfi,exemplar,100,50,50,50,0,high_O_low_N,72.15,"{""extraversion"": 100.0, ""agreeableness"": 36.111111111111114, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 46.875, ""openness"": 100.0}",44,44
+6934,deepseek,bfi,exemplar,100,50,50,50,0,high_O_low_N,69.89,"{""extraversion"": 96.875, ""agreeableness"": 38.888888888888886, ""conscientiousness"": 80.55555555555556, ""neuroticism"": 40.625, ""openness"": 92.5}",44,44
+6964,gemini,bfi,exemplar,100,50,50,50,0,high_O_low_N,64.01,"{""extraversion"": 100.0, ""agreeableness"": 11.11111111111111, ""conscientiousness"": 58.333333333333336, ""neuroticism"": 53.125, ""openness"": 97.50000000000001}",44,44
+6904,openai,bfi,exemplar,100,50,50,50,0,high_O_low_N,65.25,"{""extraversion"": 100.0, ""agreeableness"": 33.333333333333336, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 31.25, ""openness"": 95.0}",44,44
+7594,claude,bfi,exemplar,100,50,50,50,50,high_O_mid_N,73.6,"{""extraversion"": 96.875, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 62.5, ""openness"": 97.50000000000001}",44,44
+7654,deepseek,bfi,exemplar,100,50,50,50,50,high_O_mid_N,67.61,"{""extraversion"": 84.375, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 53.125, ""openness"": 95.0}",44,44
+7684,gemini,bfi,exemplar,100,50,50,50,50,high_O_mid_N,67.81,"{""extraversion"": 87.5, ""agreeableness"": 61.111111111111114, ""conscientiousness"": 41.666666666666664, ""neuroticism"": 56.25, ""openness"": 92.5}",44,44
+7624,openai,bfi,exemplar,100,50,50,50,50,high_O_mid_N,67.42,"{""extraversion"": 90.625, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 44.44444444444444, ""neuroticism"": 40.625, ""openness"": 97.50000000000001}",44,44
+6994,claude,bfi,exemplar,0,50,50,50,100,low_O_high_N,68.25,"{""extraversion"": 25.0, ""agreeableness"": 86.11111111111111, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 93.75, ""openness"": 72.5}",44,44
+7054,deepseek,bfi,exemplar,0,50,50,50,100,low_O_high_N,57.97,"{""extraversion"": 31.25, ""agreeableness"": 61.111111111111114, ""conscientiousness"": 50.0, ""neuroticism"": 87.5, ""openness"": 60.0}",44,44
+7084,gemini,bfi,exemplar,0,50,50,50,100,low_O_high_N,65.56,"{""extraversion"": 34.375, ""agreeableness"": 75.0, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 90.625, ""openness"": 75.0}",44,44
+7024,openai,bfi,exemplar,0,50,50,50,100,low_O_high_N,61.07,"{""extraversion"": 28.125, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 87.5, ""openness"": 67.5}",44,44
+7234,claude,bfi,exemplar,0,50,50,50,0,low_O_low_N,73.1,"{""extraversion"": 96.875, ""agreeableness"": 36.111111111111114, ""conscientiousness"": 100.0, ""neuroticism"": 50.0, ""openness"": 82.5}",44,44
+7294,deepseek,bfi,exemplar,0,50,50,50,0,low_O_low_N,67.25,"{""extraversion"": 93.75, ""agreeableness"": 0.0, ""conscientiousness"": 100.0, ""neuroticism"": 50.0, ""openness"": 92.5}",44,44
+7324,gemini,bfi,exemplar,0,50,50,50,0,low_O_low_N,60.44,"{""extraversion"": 100.0, ""agreeableness"": 0.0, ""conscientiousness"": 72.22222222222221, ""neuroticism"": 50.0, ""openness"": 80.0}",44,44
+7264,openai,bfi,exemplar,0,50,50,50,0,low_O_low_N,60.58,"{""extraversion"": 84.375, ""agreeableness"": 5.555555555555558, ""conscientiousness"": 86.11111111111111, ""neuroticism"": 46.875, ""openness"": 80.0}",44,44
+7714,claude,bfi,exemplar,0,50,50,50,50,low_O_mid_N,59.15,"{""extraversion"": 46.875, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 50.0, ""openness"": 60.0}",44,44
+7774,deepseek,bfi,exemplar,0,50,50,50,50,low_O_mid_N,58.65,"{""extraversion"": 46.875, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 61.111111111111114, ""neuroticism"": 50.0, ""openness"": 57.49999999999999}",44,44
+7804,gemini,bfi,exemplar,0,50,50,50,50,low_O_mid_N,56.49,"{""extraversion"": 50.0, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 46.875, ""openness"": 55.00000000000001}",44,44
+7744,openai,bfi,exemplar,0,50,50,50,50,low_O_mid_N,54.32,"{""extraversion"": 50.0, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 46.875, ""openness"": 52.5}",44,44
+7354,claude,bfi,exemplar,50,50,50,50,100,mid_O_high_N,62.17,"{""extraversion"": 37.5, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 36.111111111111114, ""neuroticism"": 100.0, ""openness"": 89.99999999999999}",44,44
+7414,deepseek,bfi,exemplar,50,50,50,50,100,mid_O_high_N,56.5,"{""extraversion"": 25.0, ""agreeableness"": 38.888888888888886, ""conscientiousness"": 36.111111111111114, ""neuroticism"": 100.0, ""openness"": 82.5}",44,44
+7444,gemini,bfi,exemplar,50,50,50,50,100,mid_O_high_N,51.47,"{""extraversion"": 31.25, ""agreeableness"": 22.22222222222222, ""conscientiousness"": 13.88888888888889, ""neuroticism"": 100.0, ""openness"": 89.99999999999999}",44,44
+7384,openai,bfi,exemplar,50,50,50,50,100,mid_O_high_N,65.1,"{""extraversion"": 46.875, ""agreeableness"": 50.0, ""conscientiousness"": 36.111111111111114, ""neuroticism"": 100.0, ""openness"": 92.5}",44,44
+7474,claude,bfi,exemplar,50,50,50,50,0,mid_O_low_N,80.39,"{""extraversion"": 100.0, ""agreeableness"": 100.0, ""conscientiousness"": 94.44444444444444, ""neuroticism"": 12.5, ""openness"": 95.0}",44,44
+7534,deepseek,bfi,exemplar,50,50,50,50,0,mid_O_low_N,78.83,"{""extraversion"": 100.0, ""agreeableness"": 100.0, ""conscientiousness"": 91.66666666666667, ""neuroticism"": 12.5, ""openness"": 89.99999999999999}",44,44
+7564,gemini,bfi,exemplar,50,50,50,50,0,mid_O_low_N,76.6,"{""extraversion"": 100.0, ""agreeableness"": 100.0, ""conscientiousness"": 86.11111111111111, ""neuroticism"": 9.375, ""openness"": 87.5}",44,44
+7504,openai,bfi,exemplar,50,50,50,50,0,mid_O_low_N,79.65,"{""extraversion"": 100.0, ""agreeableness"": 100.0, ""conscientiousness"": 88.88888888888889, ""neuroticism"": 21.875, ""openness"": 87.5}",44,44
+7834,claude,bfi,exemplar,50,50,50,50,50,mid_O_mid_N,59.15,"{""extraversion"": 46.875, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 50.0, ""openness"": 60.0}",44,44
+7894,deepseek,bfi,exemplar,50,50,50,50,50,mid_O_mid_N,59.21,"{""extraversion"": 46.875, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 50.0, ""openness"": 57.49999999999999}",44,44
+7924,gemini,bfi,exemplar,50,50,50,50,50,mid_O_mid_N,56.49,"{""extraversion"": 50.0, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 46.875, ""openness"": 55.00000000000001}",44,44
+7864,openai,bfi,exemplar,50,50,50,50,50,mid_O_mid_N,54.94,"{""extraversion"": 50.0, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 50.0, ""openness"": 52.5}",44,44
+7111,claude,bfi,hexaco,100,50,50,50,100,high_O_high_N,68.13,"{""extraversion"": 43.75, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 44.44444444444444, ""neuroticism"": 96.875, ""openness"": 100.0}",44,44
+7171,deepseek,bfi,hexaco,100,50,50,50,100,high_O_high_N,71.46,"{""extraversion"": 43.75, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 96.875, ""openness"": 100.0}",44,44
+7201,gemini,bfi,hexaco,100,50,50,50,100,high_O_high_N,70.0,"{""extraversion"": 50.0, ""agreeableness"": 58.333333333333336, ""conscientiousness"": 41.666666666666664, ""neuroticism"": 100.0, ""openness"": 100.0}",44,44
+7141,openai,bfi,hexaco,100,50,50,50,100,high_O_high_N,71.11,"{""extraversion"": 50.0, ""agreeableness"": 58.333333333333336, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 100.0, ""openness"": 100.0}",44,44
+6871,claude,bfi,hexaco,100,50,50,50,0,high_O_low_N,50.07,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 3.125, ""openness"": 100.0}",44,44
+6931,deepseek,bfi,hexaco,100,50,50,50,0,high_O_low_N,54.79,"{""extraversion"": 53.125, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 12.5, ""openness"": 100.0}",44,44
+6961,gemini,bfi,hexaco,100,50,50,50,0,high_O_low_N,51.32,"{""extraversion"": 53.125, ""agreeableness"": 50.0, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 6.25, ""openness"": 100.0}",44,44
+6901,openai,bfi,hexaco,100,50,50,50,0,high_O_low_N,51.25,"{""extraversion"": 56.25, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 100.0}",44,44
+7591,claude,bfi,hexaco,100,50,50,50,50,high_O_mid_N,60.0,"{""extraversion"": 50.0, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 50.0, ""openness"": 100.0}",44,44
+7651,deepseek,bfi,hexaco,100,50,50,50,50,high_O_mid_N,61.6,"{""extraversion"": 50.0, ""agreeableness"": 58.333333333333336, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 46.875, ""openness"": 100.0}",44,44
+7681,gemini,bfi,hexaco,100,50,50,50,50,high_O_mid_N,61.74,"{""extraversion"": 53.125, ""agreeableness"": 58.333333333333336, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 50.0, ""openness"": 100.0}",44,44
+7621,openai,bfi,hexaco,100,50,50,50,50,high_O_mid_N,60.0,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 100.0}",44,44
+6991,claude,bfi,hexaco,0,50,50,50,100,low_O_high_N,46.25,"{""extraversion"": 31.25, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 100.0, ""openness"": 0.0}",44,44
+7051,deepseek,bfi,hexaco,0,50,50,50,100,low_O_high_N,47.43,"{""extraversion"": 37.5, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 50.0, ""neuroticism"": 96.875, ""openness"": 0.0}",44,44
+7081,gemini,bfi,hexaco,0,50,50,50,100,low_O_high_N,48.01,"{""extraversion"": 40.625, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 41.666666666666664, ""neuroticism"": 100.0, ""openness"": 4.999999999999999}",44,44
+7021,openai,bfi,hexaco,0,50,50,50,100,low_O_high_N,48.13,"{""extraversion"": 40.625, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 100.0, ""openness"": 0.0}",44,44
+7231,claude,bfi,hexaco,0,50,50,50,0,low_O_low_N,28.82,"{""extraversion"": 46.875, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 0.0}",44,44
+7291,deepseek,bfi,hexaco,0,50,50,50,0,low_O_low_N,31.75,"{""extraversion"": 56.25, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 2.500000000000002}",44,44
+7321,gemini,bfi,hexaco,0,50,50,50,0,low_O_low_N,31.19,"{""extraversion"": 50.0, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 50.0, ""neuroticism"": 6.25, ""openness"": 2.500000000000002}",44,44
+7261,openai,bfi,hexaco,0,50,50,50,0,low_O_low_N,28.89,"{""extraversion"": 50.0, ""agreeableness"": 44.44444444444444, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 0.0}",44,44
+7711,claude,bfi,hexaco,0,50,50,50,50,low_O_mid_N,39.38,"{""extraversion"": 46.875, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 0.0}",44,44
+7771,deepseek,bfi,hexaco,0,50,50,50,50,low_O_mid_N,40.56,"{""extraversion"": 50.0, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 0.0}",44,44
+7801,gemini,bfi,hexaco,0,50,50,50,50,low_O_mid_N,41.63,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 53.125, ""openness"": 4.999999999999999}",44,44
+7741,openai,bfi,hexaco,0,50,50,50,50,low_O_mid_N,40.0,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 0.0}",44,44
+7351,claude,bfi,hexaco,50,50,50,50,100,mid_O_high_N,58.11,"{""extraversion"": 40.625, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 50.0, ""neuroticism"": 96.875, ""openness"": 47.5}",44,44
+7411,deepseek,bfi,hexaco,50,50,50,50,100,mid_O_high_N,60.42,"{""extraversion"": 46.875, ""agreeableness"": 58.333333333333336, ""conscientiousness"": 50.0, ""neuroticism"": 96.875, ""openness"": 50.0}",44,44
+7441,gemini,bfi,hexaco,50,50,50,50,100,mid_O_high_N,58.26,"{""extraversion"": 46.875, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 41.666666666666664, ""neuroticism"": 100.0, ""openness"": 50.0}",44,44
+7381,openai,bfi,hexaco,50,50,50,50,100,mid_O_high_N,61.11,"{""extraversion"": 50.0, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 50.0, ""neuroticism"": 100.0, ""openness"": 50.0}",44,44
+7471,claude,bfi,hexaco,50,50,50,50,0,mid_O_low_N,40.0,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 50.0}",44,44
+7531,deepseek,bfi,hexaco,50,50,50,50,0,mid_O_low_N,43.68,"{""extraversion"": 53.125, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 50.0, ""neuroticism"": 12.5, ""openness"": 50.0}",44,44
+7561,gemini,bfi,hexaco,50,50,50,50,0,mid_O_low_N,40.69,"{""extraversion"": 50.0, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 50.0, ""neuroticism"": 6.25, ""openness"": 50.0}",44,44
+7501,openai,bfi,hexaco,50,50,50,50,0,mid_O_low_N,39.44,"{""extraversion"": 50.0, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 50.0}",44,44
+7831,claude,bfi,hexaco,50,50,50,50,50,mid_O_mid_N,50.0,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 50.0}",44,44
+7891,deepseek,bfi,hexaco,50,50,50,50,50,mid_O_mid_N,50.56,"{""extraversion"": 50.0, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 50.0}",44,44
+7921,gemini,bfi,hexaco,50,50,50,50,50,mid_O_mid_N,50.0,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 50.0}",44,44
+7861,openai,bfi,hexaco,50,50,50,50,50,mid_O_mid_N,50.0,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 50.0}",44,44
+7110,claude,bfi,narrative,100,50,50,50,100,high_O_high_N,72.07,"{""extraversion"": 46.875, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 93.75, ""openness"": 97.50000000000001}",44,44
+7170,deepseek,bfi,narrative,100,50,50,50,100,high_O_high_N,74.36,"{""extraversion"": 50.0, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 93.75, ""openness"": 97.50000000000001}",44,44
+7200,gemini,bfi,narrative,100,50,50,50,100,high_O_high_N,72.89,"{""extraversion"": 56.25, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 93.75, ""openness"": 95.0}",44,44
+7140,openai,bfi,narrative,100,50,50,50,100,high_O_high_N,73.82,"{""extraversion"": 53.125, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 93.75, ""openness"": 100.0}",44,44
+6870,claude,bfi,narrative,100,50,50,50,0,high_O_low_N,63.25,"{""extraversion"": 62.5, ""agreeableness"": 75.0, ""conscientiousness"": 75.0, ""neuroticism"": 6.25, ""openness"": 97.50000000000001}",44,44
+6930,deepseek,bfi,narrative,100,50,50,50,0,high_O_low_N,64.85,"{""extraversion"": 65.625, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 83.33333333333333, ""neuroticism"": 0.0, ""openness"": 97.50000000000001}",44,44
+6960,gemini,bfi,narrative,100,50,50,50,0,high_O_low_N,66.78,"{""extraversion"": 71.875, ""agreeableness"": 83.33333333333333, ""conscientiousness"": 80.55555555555556, ""neuroticism"": 3.125, ""openness"": 95.0}",44,44
+6900,openai,bfi,narrative,100,50,50,50,0,high_O_low_N,64.79,"{""extraversion"": 65.625, ""agreeableness"": 80.55555555555556, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 0.0, ""openness"": 100.0}",44,44
+7590,claude,bfi,narrative,100,50,50,50,50,high_O_mid_N,69.21,"{""extraversion"": 56.25, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 53.125, ""openness"": 95.0}",44,44
+7650,deepseek,bfi,narrative,100,50,50,50,50,high_O_mid_N,68.58,"{""extraversion"": 59.375, ""agreeableness"": 75.0, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 46.875, ""openness"": 95.0}",44,44
+7680,gemini,bfi,narrative,100,50,50,50,50,high_O_mid_N,68.79,"{""extraversion"": 59.375, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 56.25, ""openness"": 95.0}",44,44
+7620,openai,bfi,narrative,100,50,50,50,50,high_O_mid_N,70.63,"{""extraversion"": 56.25, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 72.22222222222221, ""neuroticism"": 46.875, ""openness"": 100.0}",44,44
+6990,claude,bfi,narrative,0,50,50,50,100,low_O_high_N,54.71,"{""extraversion"": 40.625, ""agreeableness"": 61.111111111111114, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 93.75, ""openness"": 22.499999999999996}",44,44
+7050,deepseek,bfi,narrative,0,50,50,50,100,low_O_high_N,56.42,"{""extraversion"": 37.5, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 93.75, ""openness"": 17.5}",44,44
+7080,gemini,bfi,narrative,0,50,50,50,100,low_O_high_N,55.82,"{""extraversion"": 40.625, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 58.333333333333336, ""neuroticism"": 93.75, ""openness"": 22.499999999999996}",44,44
+7020,openai,bfi,narrative,0,50,50,50,100,low_O_high_N,57.85,"{""extraversion"": 43.75, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 72.22222222222221, ""neuroticism"": 96.875, ""openness"": 12.5}",44,44
+7230,claude,bfi,narrative,0,50,50,50,0,low_O_low_N,46.37,"{""extraversion"": 53.125, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 6.25, ""openness"": 22.499999999999996}",44,44
+7290,deepseek,bfi,narrative,0,50,50,50,0,low_O_low_N,47.35,"{""extraversion"": 53.125, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 83.33333333333333, ""neuroticism"": 0.0, ""openness"": 22.499999999999996}",44,44
+7320,gemini,bfi,narrative,0,50,50,50,0,low_O_low_N,47.06,"{""extraversion"": 53.125, ""agreeableness"": 75.0, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 9.375, ""openness"": 20.0}",44,44
+7260,openai,bfi,narrative,0,50,50,50,0,low_O_low_N,45.29,"{""extraversion"": 53.125, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 80.55555555555556, ""neuroticism"": 0.0, ""openness"": 15.000000000000002}",44,44
+7710,claude,bfi,narrative,0,50,50,50,50,low_O_mid_N,51.79,"{""extraversion"": 50.0, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 53.125, ""openness"": 22.499999999999996}",44,44
+7770,deepseek,bfi,narrative,0,50,50,50,50,low_O_mid_N,54.94,"{""extraversion"": 50.0, ""agreeableness"": 75.0, ""conscientiousness"": 72.22222222222221, ""neuroticism"": 50.0, ""openness"": 27.500000000000004}",44,44
+7800,gemini,bfi,narrative,0,50,50,50,50,low_O_mid_N,52.85,"{""extraversion"": 50.0, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 53.125, ""openness"": 25.0}",44,44
+7740,openai,bfi,narrative,0,50,50,50,50,low_O_mid_N,51.08,"{""extraversion"": 53.125, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 40.625, ""openness"": 20.0}",44,44
+7350,claude,bfi,narrative,50,50,50,50,100,mid_O_high_N,67.24,"{""extraversion"": 46.875, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 93.75, ""openness"": 65.0}",44,44
+7410,deepseek,bfi,narrative,50,50,50,50,100,mid_O_high_N,68.24,"{""extraversion"": 46.875, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 61.111111111111114, ""neuroticism"": 93.75, ""openness"": 70.0}",44,44
+7440,gemini,bfi,narrative,50,50,50,50,100,mid_O_high_N,68.61,"{""extraversion"": 46.875, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 61.111111111111114, ""neuroticism"": 90.625, ""openness"": 75.0}",44,44
+7380,openai,bfi,narrative,50,50,50,50,100,mid_O_high_N,68.85,"{""extraversion"": 46.875, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 93.75, ""openness"": 67.5}",44,44
+7470,claude,bfi,narrative,50,50,50,50,0,mid_O_low_N,57.31,"{""extraversion"": 59.375, ""agreeableness"": 75.0, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 9.375, ""openness"": 65.0}",44,44
+7530,deepseek,bfi,narrative,50,50,50,50,0,mid_O_low_N,57.47,"{""extraversion"": 56.25, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 83.33333333333333, ""neuroticism"": 0.0, ""openness"": 70.0}",44,44
+7560,gemini,bfi,narrative,50,50,50,50,0,mid_O_low_N,62.71,"{""extraversion"": 62.5, ""agreeableness"": 80.55555555555556, ""conscientiousness"": 86.11111111111111, ""neuroticism"": 9.375, ""openness"": 75.0}",44,44
+7500,openai,bfi,narrative,50,50,50,50,0,mid_O_low_N,57.04,"{""extraversion"": 59.375, ""agreeableness"": 80.55555555555556, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 0.0, ""openness"": 67.5}",44,44
+7830,claude,bfi,narrative,50,50,50,50,50,mid_O_mid_N,62.08,"{""extraversion"": 53.125, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 53.125, ""openness"": 62.5}",44,44
+7890,deepseek,bfi,narrative,50,50,50,50,50,mid_O_mid_N,63.51,"{""extraversion"": 56.25, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 72.22222222222221, ""neuroticism"": 46.875, ""openness"": 70.0}",44,44
+7920,gemini,bfi,narrative,50,50,50,50,50,mid_O_mid_N,64.65,"{""extraversion"": 53.125, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 56.25, ""openness"": 75.0}",44,44
+7860,openai,bfi,narrative,50,50,50,50,50,mid_O_mid_N,61.26,"{""extraversion"": 50.0, ""agreeableness"": 75.0, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 46.875, ""openness"": 65.0}",44,44
+7109,claude,bfi,ocean_direct,100,50,50,50,100,high_O_high_N,65.97,"{""extraversion"": 43.75, ""agreeableness"": 50.0, ""conscientiousness"": 36.111111111111114, ""neuroticism"": 100.0, ""openness"": 100.0}",44,44
+7169,deepseek,bfi,ocean_direct,100,50,50,50,100,high_O_high_N,66.6,"{""extraversion"": 46.875, ""agreeableness"": 50.0, ""conscientiousness"": 36.111111111111114, ""neuroticism"": 100.0, ""openness"": 100.0}",44,44
+7199,gemini,bfi,ocean_direct,100,50,50,50,100,high_O_high_N,65.61,"{""extraversion"": 50.0, ""agreeableness"": 41.666666666666664, ""conscientiousness"": 38.888888888888886, ""neuroticism"": 100.0, ""openness"": 97.50000000000001}",44,44
+7139,openai,bfi,ocean_direct,100,50,50,50,100,high_O_high_N,63.19,"{""extraversion"": 43.75, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 25.0, ""neuroticism"": 100.0, ""openness"": 100.0}",44,44
+6869,claude,bfi,ocean_direct,100,50,50,50,0,high_O_low_N,51.11,"{""extraversion"": 50.0, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 100.0}",44,44
+6929,deepseek,bfi,ocean_direct,100,50,50,50,0,high_O_low_N,55.76,"{""extraversion"": 59.375, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 100.0}",44,44
+6959,gemini,bfi,ocean_direct,100,50,50,50,0,high_O_low_N,52.9,"{""extraversion"": 53.125, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 44.44444444444444, ""neuroticism"": 0.0, ""openness"": 97.50000000000001}",44,44
+6899,openai,bfi,ocean_direct,100,50,50,50,0,high_O_low_N,56.25,"{""extraversion"": 56.25, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 0.0, ""openness"": 100.0}",44,44
+7589,claude,bfi,ocean_direct,100,50,50,50,50,high_O_mid_N,60.0,"{""extraversion"": 50.0, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 50.0, ""openness"": 100.0}",44,44
+7649,deepseek,bfi,ocean_direct,100,50,50,50,50,high_O_mid_N,64.03,"{""extraversion"": 56.25, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 50.0, ""openness"": 100.0}",44,44
+7679,gemini,bfi,ocean_direct,100,50,50,50,50,high_O_mid_N,61.29,"{""extraversion"": 53.125, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 44.44444444444444, ""neuroticism"": 50.0, ""openness"": 95.0}",44,44
+7619,openai,bfi,ocean_direct,100,50,50,50,50,high_O_mid_N,61.18,"{""extraversion"": 50.0, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 50.0, ""neuroticism"": 53.125, ""openness"": 100.0}",44,44
+6989,claude,bfi,ocean_direct,0,50,50,50,100,low_O_high_N,41.81,"{""extraversion"": 31.25, ""agreeableness"": 36.111111111111114, ""conscientiousness"": 41.666666666666664, ""neuroticism"": 100.0, ""openness"": 0.0}",44,44
+7049,deepseek,bfi,ocean_direct,0,50,50,50,100,low_O_high_N,35.56,"{""extraversion"": 25.0, ""agreeableness"": 13.88888888888889, ""conscientiousness"": 38.888888888888886, ""neuroticism"": 100.0, ""openness"": 0.0}",44,44
+7079,gemini,bfi,ocean_direct,0,50,50,50,100,low_O_high_N,44.18,"{""extraversion"": 40.625, ""agreeableness"": 30.555555555555557, ""conscientiousness"": 47.22222222222222, ""neuroticism"": 100.0, ""openness"": 2.500000000000002}",44,44
+7019,openai,bfi,ocean_direct,0,50,50,50,100,low_O_high_N,48.33,"{""extraversion"": 50.0, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 44.44444444444444, ""neuroticism"": 100.0, ""openness"": 0.0}",44,44
+7229,claude,bfi,ocean_direct,0,50,50,50,0,low_O_low_N,31.67,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 58.333333333333336, ""neuroticism"": 0.0, ""openness"": 0.0}",44,44
+7289,deepseek,bfi,ocean_direct,0,50,50,50,0,low_O_low_N,32.22,"{""extraversion"": 50.0, ""agreeableness"": 55.55555555555556, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 0.0, ""openness"": 0.0}",44,44
+7319,gemini,bfi,ocean_direct,0,50,50,50,0,low_O_low_N,37.72,"{""extraversion"": 50.0, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 0.0, ""openness"": 2.500000000000002}",44,44
+7259,openai,bfi,ocean_direct,0,50,50,50,0,low_O_low_N,38.47,"{""extraversion"": 56.25, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 72.22222222222221, ""neuroticism"": 0.0, ""openness"": 0.0}",44,44
+7709,claude,bfi,ocean_direct,0,50,50,50,50,low_O_mid_N,39.44,"{""extraversion"": 50.0, ""agreeableness"": 47.22222222222222, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 0.0}",44,44
+7769,deepseek,bfi,ocean_direct,0,50,50,50,50,low_O_mid_N,40.9,"{""extraversion"": 40.625, ""agreeableness"": 63.888888888888886, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 0.0}",44,44
+7799,gemini,bfi,ocean_direct,0,50,50,50,50,low_O_mid_N,44.83,"{""extraversion"": 50.0, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 50.0, ""openness"": 7.500000000000001}",44,44
+7739,openai,bfi,ocean_direct,0,50,50,50,50,low_O_mid_N,42.22,"{""extraversion"": 50.0, ""agreeableness"": 58.333333333333336, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 50.0, ""openness"": 0.0}",44,44
+7349,claude,bfi,ocean_direct,50,50,50,50,100,mid_O_high_N,54.22,"{""extraversion"": 37.5, ""agreeableness"": 41.666666666666664, ""conscientiousness"": 44.44444444444444, ""neuroticism"": 100.0, ""openness"": 47.5}",44,44
+7409,deepseek,bfi,ocean_direct,50,50,50,50,100,mid_O_high_N,48.18,"{""extraversion"": 40.625, ""agreeableness"": 19.444444444444443, ""conscientiousness"": 33.333333333333336, ""neuroticism"": 100.0, ""openness"": 47.5}",44,44
+7439,gemini,bfi,ocean_direct,50,50,50,50,100,mid_O_high_N,52.94,"{""extraversion"": 37.5, ""agreeableness"": 36.111111111111114, ""conscientiousness"": 36.111111111111114, ""neuroticism"": 100.0, ""openness"": 55.00000000000001}",44,44
+7379,openai,bfi,ocean_direct,50,50,50,50,100,mid_O_high_N,55.97,"{""extraversion"": 43.75, ""agreeableness"": 41.666666666666664, ""conscientiousness"": 44.44444444444444, ""neuroticism"": 100.0, ""openness"": 50.0}",44,44
+7469,claude,bfi,ocean_direct,50,50,50,50,0,mid_O_low_N,44.44,"{""extraversion"": 50.0, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 0.0, ""openness"": 50.0}",44,44
+7529,deepseek,bfi,ocean_direct,50,50,50,50,0,mid_O_low_N,46.74,"{""extraversion"": 53.125, ""agreeableness"": 75.0, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 0.0, ""openness"": 50.0}",44,44
+7559,gemini,bfi,ocean_direct,50,50,50,50,0,mid_O_low_N,43.33,"{""extraversion"": 50.0, ""agreeableness"": 66.66666666666666, ""conscientiousness"": 50.0, ""neuroticism"": 0.0, ""openness"": 50.0}",44,44
+7499,openai,bfi,ocean_direct,50,50,50,50,0,mid_O_low_N,45.0,"{""extraversion"": 50.0, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 0.0, ""openness"": 50.0}",44,44
+7829,claude,bfi,ocean_direct,50,50,50,50,50,mid_O_mid_N,50.56,"{""extraversion"": 50.0, ""agreeableness"": 52.77777777777778, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 50.0}",44,44
+7889,deepseek,bfi,ocean_direct,50,50,50,50,50,mid_O_mid_N,52.22,"{""extraversion"": 50.0, ""agreeableness"": 61.111111111111114, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 50.0}",44,44
+7919,gemini,bfi,ocean_direct,50,50,50,50,50,mid_O_mid_N,50.0,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 50.0}",44,44
+7859,openai,bfi,ocean_direct,50,50,50,50,50,mid_O_mid_N,50.0,"{""extraversion"": 50.0, ""agreeableness"": 50.0, ""conscientiousness"": 50.0, ""neuroticism"": 50.0, ""openness"": 50.0}",44,44
+7113,claude,bfi,scenario,100,50,50,50,100,high_O_high_N,66.43,"{""extraversion"": 46.875, ""agreeableness"": 75.0, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 87.5, ""openness"": 70.0}",44,44
+7173,deepseek,bfi,scenario,100,50,50,50,100,high_O_high_N,65.13,"{""extraversion"": 46.875, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 52.77777777777778, ""neuroticism"": 81.25, ""openness"": 72.5}",44,44
+7203,gemini,bfi,scenario,100,50,50,50,100,high_O_high_N,68.15,"{""extraversion"": 43.75, ""agreeableness"": 80.55555555555556, ""conscientiousness"": 58.333333333333336, ""neuroticism"": 78.125, ""openness"": 80.0}",44,44
+7143,openai,bfi,scenario,100,50,50,50,100,high_O_high_N,69.03,"{""extraversion"": 43.75, ""agreeableness"": 80.55555555555556, ""conscientiousness"": 58.333333333333336, ""neuroticism"": 87.5, ""openness"": 75.0}",44,44
+6873,claude,bfi,scenario,100,50,50,50,0,high_O_low_N,60.68,"{""extraversion"": 65.625, ""agreeableness"": 80.55555555555556, ""conscientiousness"": 72.22222222222221, ""neuroticism"": 12.5, ""openness"": 72.5}",44,44
+6933,deepseek,bfi,scenario,100,50,50,50,0,high_O_low_N,62.18,"{""extraversion"": 65.625, ""agreeableness"": 83.33333333333333, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 12.5, ""openness"": 80.0}",44,44
+6963,gemini,bfi,scenario,100,50,50,50,0,high_O_low_N,63.43,"{""extraversion"": 62.5, ""agreeableness"": 83.33333333333333, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 21.875, ""openness"": 80.0}",44,44
+6903,openai,bfi,scenario,100,50,50,50,0,high_O_low_N,62.33,"{""extraversion"": 53.125, ""agreeableness"": 88.88888888888889, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 9.375, ""openness"": 82.5}",44,44
+7593,claude,bfi,scenario,100,50,50,50,50,high_O_mid_N,62.33,"{""extraversion"": 50.0, ""agreeableness"": 75.0, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 50.0, ""openness"": 70.0}",44,44
+7653,deepseek,bfi,scenario,100,50,50,50,50,high_O_mid_N,60.74,"{""extraversion"": 56.25, ""agreeableness"": 75.0, ""conscientiousness"": 55.55555555555556, ""neuroticism"": 46.875, ""openness"": 70.0}",44,44
+7683,gemini,bfi,scenario,100,50,50,50,50,high_O_mid_N,65.71,"{""extraversion"": 53.125, ""agreeableness"": 80.55555555555556, ""conscientiousness"": 61.111111111111114, ""neuroticism"": 56.25, ""openness"": 77.49999999999999}",44,44
+7623,openai,bfi,scenario,100,50,50,50,50,high_O_mid_N,66.68,"{""extraversion"": 50.0, ""agreeableness"": 86.11111111111111, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 53.125, ""openness"": 77.49999999999999}",44,44
+6993,claude,bfi,scenario,0,50,50,50,100,low_O_high_N,56.29,"{""extraversion"": 25.0, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 90.625, ""openness"": 32.49999999999999}",44,44
+7053,deepseek,bfi,scenario,0,50,50,50,100,low_O_high_N,53.92,"{""extraversion"": 25.0, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 61.111111111111114, ""neuroticism"": 81.25, ""openness"": 30.000000000000004}",44,44
+7083,gemini,bfi,scenario,0,50,50,50,100,low_O_high_N,55.76,"{""extraversion"": 25.0, ""agreeableness"": 75.0, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 84.375, ""openness"": 25.0}",44,44
+7023,openai,bfi,scenario,0,50,50,50,100,low_O_high_N,55.83,"{""extraversion"": 25.0, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 87.5, ""openness"": 25.0}",44,44
+7233,claude,bfi,scenario,0,50,50,50,0,low_O_low_N,49.24,"{""extraversion"": 40.625, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 12.5, ""openness"": 37.5}",44,44
+7293,deepseek,bfi,scenario,0,50,50,50,0,low_O_low_N,46.57,"{""extraversion"": 40.625, ""agreeableness"": 75.0, ""conscientiousness"": 72.22222222222221, ""neuroticism"": 12.5, ""openness"": 32.49999999999999}",44,44
+7323,gemini,bfi,scenario,0,50,50,50,0,low_O_low_N,48.24,"{""extraversion"": 31.25, ""agreeableness"": 80.55555555555556, ""conscientiousness"": 75.0, ""neuroticism"": 21.875, ""openness"": 32.49999999999999}",44,44
+7263,openai,bfi,scenario,0,50,50,50,0,low_O_low_N,49.35,"{""extraversion"": 40.625, ""agreeableness"": 83.33333333333333, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 12.5, ""openness"": 32.49999999999999}",44,44
+7713,claude,bfi,scenario,0,50,50,50,50,low_O_mid_N,52.21,"{""extraversion"": 31.25, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 53.125, ""openness"": 35.0}",44,44
+7773,deepseek,bfi,scenario,0,50,50,50,50,low_O_mid_N,51.28,"{""extraversion"": 34.375, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 53.125, ""openness"": 30.000000000000004}",44,44
+7803,gemini,bfi,scenario,0,50,50,50,50,low_O_mid_N,52.74,"{""extraversion"": 28.125, ""agreeableness"": 80.55555555555556, ""conscientiousness"": 75.0, ""neuroticism"": 50.0, ""openness"": 30.000000000000004}",44,44
+7743,openai,bfi,scenario,0,50,50,50,50,low_O_mid_N,54.61,"{""extraversion"": 34.375, ""agreeableness"": 83.33333333333333, ""conscientiousness"": 72.22222222222221, ""neuroticism"": 53.125, ""openness"": 30.000000000000004}",44,44
+7353,claude,bfi,scenario,50,50,50,50,100,mid_O_high_N,60.22,"{""extraversion"": 31.25, ""agreeableness"": 69.44444444444444, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 81.25, ""openness"": 52.5}",44,44
+7413,deepseek,bfi,scenario,50,50,50,50,100,mid_O_high_N,59.72,"{""extraversion"": 31.25, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 63.888888888888886, ""neuroticism"": 81.25, ""openness"": 50.0}",44,44
+7443,gemini,bfi,scenario,50,50,50,50,100,mid_O_high_N,61.83,"{""extraversion"": 31.25, ""agreeableness"": 75.0, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 81.25, ""openness"": 55.00000000000001}",44,44
+7383,openai,bfi,scenario,50,50,50,50,100,mid_O_high_N,62.22,"{""extraversion"": 37.5, ""agreeableness"": 75.0, ""conscientiousness"": 61.111111111111114, ""neuroticism"": 87.5, ""openness"": 50.0}",44,44
+7473,claude,bfi,scenario,50,50,50,50,0,mid_O_low_N,55.86,"{""extraversion"": 53.125, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 15.625, ""openness"": 55.00000000000001}",44,44
+7533,deepseek,bfi,scenario,50,50,50,50,0,mid_O_low_N,55.6,"{""extraversion"": 46.875, ""agreeableness"": 83.33333333333333, ""conscientiousness"": 77.77777777777777, ""neuroticism"": 12.5, ""openness"": 57.49999999999999}",44,44
+7563,gemini,bfi,scenario,50,50,50,50,0,mid_O_low_N,56.93,"{""extraversion"": 46.875, ""agreeableness"": 77.77777777777777, ""conscientiousness"": 75.0, ""neuroticism"": 25.0, ""openness"": 60.0}",44,44
+7503,openai,bfi,scenario,50,50,50,50,0,mid_O_low_N,55.04,"{""extraversion"": 46.875, ""agreeableness"": 83.33333333333333, ""conscientiousness"": 75.0, ""neuroticism"": 12.5, ""openness"": 57.49999999999999}",44,44
+7833,claude,bfi,scenario,50,50,50,50,50,mid_O_mid_N,58.07,"{""extraversion"": 40.625, ""agreeableness"": 75.0, ""conscientiousness"": 72.22222222222221, ""neuroticism"": 50.0, ""openness"": 52.5}",44,44
+7893,deepseek,bfi,scenario,50,50,50,50,50,mid_O_mid_N,57.96,"{""extraversion"": 40.625, ""agreeableness"": 72.22222222222221, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 50.0, ""openness"": 57.49999999999999}",44,44
+7923,gemini,bfi,scenario,50,50,50,50,50,mid_O_mid_N,56.21,"{""extraversion"": 37.5, ""agreeableness"": 75.0, ""conscientiousness"": 66.66666666666666, ""neuroticism"": 46.875, ""openness"": 55.00000000000001}",44,44
+7863,openai,bfi,scenario,50,50,50,50,50,mid_O_mid_N,62.68,"{""extraversion"": 46.875, ""agreeableness"": 83.33333333333333, ""conscientiousness"": 69.44444444444444, ""neuroticism"": 56.25, ""openness"": 57.49999999999999}",44,44
+7118,claude,dark_triad,behavioral,100,50,50,50,100,high_O_high_N,43.52,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 41.666666666666664, ""psychopathy"": 36.111111111111114}",27,27
+7178,deepseek,dark_triad,behavioral,100,50,50,50,100,high_O_high_N,55.56,"{""machiavellianism"": 63.888888888888886, ""narcissism"": 55.55555555555556, ""psychopathy"": 47.22222222222222}",27,27
+7208,gemini,dark_triad,behavioral,100,50,50,50,100,high_O_high_N,51.85,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 50.0, ""psychopathy"": 47.22222222222222}",27,27
+7148,openai,dark_triad,behavioral,100,50,50,50,100,high_O_high_N,50.93,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 50.0, ""psychopathy"": 50.0}",27,27
+6878,claude,dark_triad,behavioral,100,50,50,50,0,high_O_low_N,40.74,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 50.0, ""psychopathy"": 30.555555555555557}",27,27
+6938,deepseek,dark_triad,behavioral,100,50,50,50,0,high_O_low_N,52.78,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 58.333333333333336, ""psychopathy"": 47.22222222222222}",27,27
+6968,gemini,dark_triad,behavioral,100,50,50,50,0,high_O_low_N,44.44,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 52.77777777777778, ""psychopathy"": 36.111111111111114}",27,27
+6908,openai,dark_triad,behavioral,100,50,50,50,0,high_O_low_N,48.15,"{""machiavellianism"": 50.0, ""narcissism"": 58.333333333333336, ""psychopathy"": 36.111111111111114}",27,27
+7598,claude,dark_triad,behavioral,100,50,50,50,50,high_O_mid_N,43.52,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 50.0, ""psychopathy"": 36.111111111111114}",27,27
+7658,deepseek,dark_triad,behavioral,100,50,50,50,50,high_O_mid_N,48.15,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 55.55555555555556, ""psychopathy"": 41.666666666666664}",27,27
+7688,gemini,dark_triad,behavioral,100,50,50,50,50,high_O_mid_N,47.22,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 52.77777777777778, ""psychopathy"": 36.111111111111114}",27,27
+7628,openai,dark_triad,behavioral,100,50,50,50,50,high_O_mid_N,45.37,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 52.77777777777778, ""psychopathy"": 38.888888888888886}",27,27
+6998,claude,dark_triad,behavioral,0,50,50,50,100,low_O_high_N,41.67,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 33.333333333333336, ""psychopathy"": 36.111111111111114}",27,27
+7058,deepseek,dark_triad,behavioral,0,50,50,50,100,low_O_high_N,52.78,"{""machiavellianism"": 72.22222222222221, ""narcissism"": 44.44444444444444, ""psychopathy"": 41.666666666666664}",27,27
+7088,gemini,dark_triad,behavioral,0,50,50,50,100,low_O_high_N,48.15,"{""machiavellianism"": 61.111111111111114, ""narcissism"": 41.666666666666664, ""psychopathy"": 41.666666666666664}",27,27
+7028,openai,dark_triad,behavioral,0,50,50,50,100,low_O_high_N,48.15,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 41.666666666666664, ""psychopathy"": 44.44444444444444}",27,27
+7238,claude,dark_triad,behavioral,0,50,50,50,0,low_O_low_N,37.04,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 44.44444444444444, ""psychopathy"": 27.77777777777778}",27,27
+7298,deepseek,dark_triad,behavioral,0,50,50,50,0,low_O_low_N,44.44,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 50.0, ""psychopathy"": 25.0}",27,27
+7328,gemini,dark_triad,behavioral,0,50,50,50,0,low_O_low_N,45.37,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 47.22222222222222, ""psychopathy"": 36.111111111111114}",27,27
+7268,openai,dark_triad,behavioral,0,50,50,50,0,low_O_low_N,44.44,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 47.22222222222222, ""psychopathy"": 30.555555555555557}",27,27
+7718,claude,dark_triad,behavioral,0,50,50,50,50,low_O_mid_N,38.89,"{""machiavellianism"": 50.0, ""narcissism"": 41.666666666666664, ""psychopathy"": 25.0}",27,27
+7778,deepseek,dark_triad,behavioral,0,50,50,50,50,low_O_mid_N,45.37,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 47.22222222222222, ""psychopathy"": 33.333333333333336}",27,27
+7808,gemini,dark_triad,behavioral,0,50,50,50,50,low_O_mid_N,44.44,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 47.22222222222222, ""psychopathy"": 33.333333333333336}",27,27
+7748,openai,dark_triad,behavioral,0,50,50,50,50,low_O_mid_N,41.67,"{""machiavellianism"": 50.0, ""narcissism"": 44.44444444444444, ""psychopathy"": 30.555555555555557}",27,27
+7358,claude,dark_triad,behavioral,50,50,50,50,100,mid_O_high_N,43.52,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 36.111111111111114, ""psychopathy"": 38.888888888888886}",27,27
+7418,deepseek,dark_triad,behavioral,50,50,50,50,100,mid_O_high_N,52.78,"{""machiavellianism"": 66.66666666666666, ""narcissism"": 47.22222222222222, ""psychopathy"": 44.44444444444444}",27,27
+7448,gemini,dark_triad,behavioral,50,50,50,50,100,mid_O_high_N,47.22,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 44.44444444444444, ""psychopathy"": 38.888888888888886}",27,27
+7388,openai,dark_triad,behavioral,50,50,50,50,100,mid_O_high_N,48.15,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 47.22222222222222, ""psychopathy"": 41.666666666666664}",27,27
+7478,claude,dark_triad,behavioral,50,50,50,50,0,mid_O_low_N,39.81,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 47.22222222222222, ""psychopathy"": 30.555555555555557}",27,27
+7538,deepseek,dark_triad,behavioral,50,50,50,50,0,mid_O_low_N,45.37,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 47.22222222222222, ""psychopathy"": 33.333333333333336}",27,27
+7568,gemini,dark_triad,behavioral,50,50,50,50,0,mid_O_low_N,46.3,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 47.22222222222222, ""psychopathy"": 36.111111111111114}",27,27
+7508,openai,dark_triad,behavioral,50,50,50,50,0,mid_O_low_N,44.44,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 50.0, ""psychopathy"": 30.555555555555557}",27,27
+7838,claude,dark_triad,behavioral,50,50,50,50,50,mid_O_mid_N,38.89,"{""machiavellianism"": 50.0, ""narcissism"": 41.666666666666664, ""psychopathy"": 25.0}",27,27
+7898,deepseek,dark_triad,behavioral,50,50,50,50,50,mid_O_mid_N,44.44,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 47.22222222222222, ""psychopathy"": 33.333333333333336}",27,27
+7928,gemini,dark_triad,behavioral,50,50,50,50,50,mid_O_mid_N,44.44,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 47.22222222222222, ""psychopathy"": 33.333333333333336}",27,27
+7868,openai,dark_triad,behavioral,50,50,50,50,50,mid_O_mid_N,43.52,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 47.22222222222222, ""psychopathy"": 38.888888888888886}",27,27
+7120,claude,dark_triad,exemplar,100,50,50,50,100,high_O_high_N,42.59,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 33.333333333333336, ""psychopathy"": 36.111111111111114}",27,27
+7180,deepseek,dark_triad,exemplar,100,50,50,50,100,high_O_high_N,40.74,"{""machiavellianism"": 50.0, ""narcissism"": 33.333333333333336, ""psychopathy"": 38.888888888888886}",27,27
+7210,gemini,dark_triad,exemplar,100,50,50,50,100,high_O_high_N,50.0,"{""machiavellianism"": 75.0, ""narcissism"": 36.111111111111114, ""psychopathy"": 38.888888888888886}",27,27
+7150,openai,dark_triad,exemplar,100,50,50,50,100,high_O_high_N,48.15,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 50.0, ""psychopathy"": 36.111111111111114}",27,27
+6880,claude,dark_triad,exemplar,100,50,50,50,0,high_O_low_N,73.15,"{""machiavellianism"": 50.0, ""narcissism"": 91.66666666666667, ""psychopathy"": 77.77777777777777}",27,27
+6940,deepseek,dark_triad,exemplar,100,50,50,50,0,high_O_low_N,71.3,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 86.11111111111111, ""psychopathy"": 86.11111111111111}",27,27
+6970,gemini,dark_triad,exemplar,100,50,50,50,0,high_O_low_N,78.7,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 100.0, ""psychopathy"": 91.66666666666667}",27,27
+6910,openai,dark_triad,exemplar,100,50,50,50,0,high_O_low_N,75.0,"{""machiavellianism"": 50.0, ""narcissism"": 100.0, ""psychopathy"": 75.0}",27,27
+7600,claude,dark_triad,exemplar,100,50,50,50,50,high_O_mid_N,45.37,"{""machiavellianism"": 30.555555555555557, ""narcissism"": 55.55555555555556, ""psychopathy"": 50.0}",27,27
+7660,deepseek,dark_triad,exemplar,100,50,50,50,50,high_O_mid_N,46.3,"{""machiavellianism"": 25.0, ""narcissism"": 58.333333333333336, ""psychopathy"": 55.55555555555556}",27,27
+7690,gemini,dark_triad,exemplar,100,50,50,50,50,high_O_mid_N,52.78,"{""machiavellianism"": 33.333333333333336, ""narcissism"": 69.44444444444444, ""psychopathy"": 55.55555555555556}",27,27
+7630,openai,dark_triad,exemplar,100,50,50,50,50,high_O_mid_N,47.22,"{""machiavellianism"": 27.77777777777778, ""narcissism"": 61.111111111111114, ""psychopathy"": 52.77777777777778}",27,27
+7000,claude,dark_triad,exemplar,0,50,50,50,100,low_O_high_N,14.81,"{""machiavellianism"": 19.444444444444443, ""narcissism"": 22.22222222222222, ""psychopathy"": 2.777777777777779}",27,27
+7060,deepseek,dark_triad,exemplar,0,50,50,50,100,low_O_high_N,33.33,"{""machiavellianism"": 30.555555555555557, ""narcissism"": 41.666666666666664, ""psychopathy"": 27.77777777777778}",27,27
+7090,gemini,dark_triad,exemplar,0,50,50,50,100,low_O_high_N,26.85,"{""machiavellianism"": 27.77777777777778, ""narcissism"": 36.111111111111114, ""psychopathy"": 16.666666666666668}",27,27
+7030,openai,dark_triad,exemplar,0,50,50,50,100,low_O_high_N,28.7,"{""machiavellianism"": 30.555555555555557, ""narcissism"": 38.888888888888886, ""psychopathy"": 16.666666666666668}",27,27
+7240,claude,dark_triad,exemplar,0,50,50,50,0,low_O_low_N,87.04,"{""machiavellianism"": 94.44444444444444, ""narcissism"": 100.0, ""psychopathy"": 66.66666666666666}",27,27
+7300,deepseek,dark_triad,exemplar,0,50,50,50,0,low_O_low_N,86.11,"{""machiavellianism"": 80.55555555555556, ""narcissism"": 88.88888888888889, ""psychopathy"": 88.88888888888889}",27,27
+7330,gemini,dark_triad,exemplar,0,50,50,50,0,low_O_low_N,96.3,"{""machiavellianism"": 88.88888888888889, ""narcissism"": 100.0, ""psychopathy"": 100.0}",27,27
+7270,openai,dark_triad,exemplar,0,50,50,50,0,low_O_low_N,97.22,"{""machiavellianism"": 94.44444444444444, ""narcissism"": 100.0, ""psychopathy"": 97.22222222222223}",27,27
+7720,claude,dark_triad,exemplar,0,50,50,50,50,low_O_mid_N,41.67,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 44.44444444444444, ""psychopathy"": 27.77777777777778}",27,27
+7780,deepseek,dark_triad,exemplar,0,50,50,50,50,low_O_mid_N,42.59,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 47.22222222222222, ""psychopathy"": 27.77777777777778}",27,27
+7810,gemini,dark_triad,exemplar,0,50,50,50,50,low_O_mid_N,48.15,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 52.77777777777778, ""psychopathy"": 38.888888888888886}",27,27
+7750,openai,dark_triad,exemplar,0,50,50,50,50,low_O_mid_N,41.67,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 50.0, ""psychopathy"": 30.555555555555557}",27,27
+7360,claude,dark_triad,exemplar,50,50,50,50,100,mid_O_high_N,40.74,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 33.333333333333336, ""psychopathy"": 30.555555555555557}",27,27
+7420,deepseek,dark_triad,exemplar,50,50,50,50,100,mid_O_high_N,42.59,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 33.333333333333336, ""psychopathy"": 38.888888888888886}",27,27
+7450,gemini,dark_triad,exemplar,50,50,50,50,100,mid_O_high_N,50.0,"{""machiavellianism"": 75.0, ""narcissism"": 36.111111111111114, ""psychopathy"": 38.888888888888886}",27,27
+7390,openai,dark_triad,exemplar,50,50,50,50,100,mid_O_high_N,46.3,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 47.22222222222222, ""psychopathy"": 36.111111111111114}",27,27
+7480,claude,dark_triad,exemplar,50,50,50,50,0,mid_O_low_N,45.37,"{""machiavellianism"": 25.0, ""narcissism"": 94.44444444444444, ""psychopathy"": 16.666666666666668}",27,27
+7540,deepseek,dark_triad,exemplar,50,50,50,50,0,mid_O_low_N,47.22,"{""machiavellianism"": 27.77777777777778, ""narcissism"": 83.33333333333333, ""psychopathy"": 30.555555555555557}",27,27
+7570,gemini,dark_triad,exemplar,50,50,50,50,0,mid_O_low_N,49.07,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 77.77777777777777, ""psychopathy"": 25.0}",27,27
+7510,openai,dark_triad,exemplar,50,50,50,50,0,mid_O_low_N,47.22,"{""machiavellianism"": 33.333333333333336, ""narcissism"": 83.33333333333333, ""psychopathy"": 25.0}",27,27
+7840,claude,dark_triad,exemplar,50,50,50,50,50,mid_O_mid_N,42.59,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 47.22222222222222, ""psychopathy"": 27.77777777777778}",27,27
+7900,deepseek,dark_triad,exemplar,50,50,50,50,50,mid_O_mid_N,42.59,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 47.22222222222222, ""psychopathy"": 27.77777777777778}",27,27
+7930,gemini,dark_triad,exemplar,50,50,50,50,50,mid_O_mid_N,47.22,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 50.0, ""psychopathy"": 38.888888888888886}",27,27
+7870,openai,dark_triad,exemplar,50,50,50,50,50,mid_O_mid_N,39.81,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 47.22222222222222, ""psychopathy"": 30.555555555555557}",27,27
+7117,claude,dark_triad,hexaco,100,50,50,50,100,high_O_high_N,39.81,"{""machiavellianism"": 50.0, ""narcissism"": 41.666666666666664, ""psychopathy"": 27.77777777777778}",27,27
+7177,deepseek,dark_triad,hexaco,100,50,50,50,100,high_O_high_N,42.59,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 50.0, ""psychopathy"": 36.111111111111114}",27,27
+7207,gemini,dark_triad,hexaco,100,50,50,50,100,high_O_high_N,42.59,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 47.22222222222222, ""psychopathy"": 33.333333333333336}",27,27
+7147,openai,dark_triad,hexaco,100,50,50,50,100,high_O_high_N,36.11,"{""machiavellianism"": 33.333333333333336, ""narcissism"": 47.22222222222222, ""psychopathy"": 27.77777777777778}",27,27
+6877,claude,dark_triad,hexaco,100,50,50,50,0,high_O_low_N,49.07,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 55.55555555555556, ""psychopathy"": 44.44444444444444}",27,27
+6937,deepseek,dark_triad,hexaco,100,50,50,50,0,high_O_low_N,48.15,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 52.77777777777778, ""psychopathy"": 50.0}",27,27
+6967,gemini,dark_triad,hexaco,100,50,50,50,0,high_O_low_N,40.74,"{""machiavellianism"": 36.111111111111114, ""narcissism"": 50.0, ""psychopathy"": 36.111111111111114}",27,27
+6907,openai,dark_triad,hexaco,100,50,50,50,0,high_O_low_N,41.67,"{""machiavellianism"": 30.555555555555557, ""narcissism"": 52.77777777777778, ""psychopathy"": 41.666666666666664}",27,27
+7597,claude,dark_triad,hexaco,100,50,50,50,50,high_O_mid_N,42.59,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 50.0, ""psychopathy"": 36.111111111111114}",27,27
+7657,deepseek,dark_triad,hexaco,100,50,50,50,50,high_O_mid_N,46.3,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 52.77777777777778, ""psychopathy"": 44.44444444444444}",27,27
+7687,gemini,dark_triad,hexaco,100,50,50,50,50,high_O_mid_N,43.52,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 47.22222222222222, ""psychopathy"": 41.666666666666664}",27,27
+7627,openai,dark_triad,hexaco,100,50,50,50,50,high_O_mid_N,46.3,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 50.0, ""psychopathy"": 44.44444444444444}",27,27
+6997,claude,dark_triad,hexaco,0,50,50,50,100,low_O_high_N,37.96,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 33.333333333333336, ""psychopathy"": 22.22222222222222}",27,27
+7057,deepseek,dark_triad,hexaco,0,50,50,50,100,low_O_high_N,39.81,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 38.888888888888886, ""psychopathy"": 33.333333333333336}",27,27
+7087,gemini,dark_triad,hexaco,0,50,50,50,100,low_O_high_N,42.59,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 38.888888888888886, ""psychopathy"": 36.111111111111114}",27,27
+7027,openai,dark_triad,hexaco,0,50,50,50,100,low_O_high_N,35.19,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 33.333333333333336, ""psychopathy"": 30.555555555555557}",27,27
+7237,claude,dark_triad,hexaco,0,50,50,50,0,low_O_low_N,49.07,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 41.666666666666664, ""psychopathy"": 47.22222222222222}",27,27
+7297,deepseek,dark_triad,hexaco,0,50,50,50,0,low_O_low_N,50.93,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 52.77777777777778, ""psychopathy"": 47.22222222222222}",27,27
+7327,gemini,dark_triad,hexaco,0,50,50,50,0,low_O_low_N,50.0,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 52.77777777777778, ""psychopathy"": 38.888888888888886}",27,27
+7267,openai,dark_triad,hexaco,0,50,50,50,0,low_O_low_N,44.44,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 47.22222222222222, ""psychopathy"": 41.666666666666664}",27,27
+7717,claude,dark_triad,hexaco,0,50,50,50,50,low_O_mid_N,42.59,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 38.888888888888886, ""psychopathy"": 41.666666666666664}",27,27
+7777,deepseek,dark_triad,hexaco,0,50,50,50,50,low_O_mid_N,47.22,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 44.44444444444444, ""psychopathy"": 44.44444444444444}",27,27
+7807,gemini,dark_triad,hexaco,0,50,50,50,50,low_O_mid_N,47.22,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 47.22222222222222, ""psychopathy"": 41.666666666666664}",27,27
+7747,openai,dark_triad,hexaco,0,50,50,50,50,low_O_mid_N,46.3,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 41.666666666666664, ""psychopathy"": 50.0}",27,27
+7357,claude,dark_triad,hexaco,50,50,50,50,100,mid_O_high_N,35.19,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 33.333333333333336, ""psychopathy"": 19.444444444444443}",27,27
+7417,deepseek,dark_triad,hexaco,50,50,50,50,100,mid_O_high_N,42.59,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 44.44444444444444, ""psychopathy"": 36.111111111111114}",27,27
+7447,gemini,dark_triad,hexaco,50,50,50,50,100,mid_O_high_N,39.81,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 38.888888888888886, ""psychopathy"": 36.111111111111114}",27,27
+7387,openai,dark_triad,hexaco,50,50,50,50,100,mid_O_high_N,36.11,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 41.666666666666664, ""psychopathy"": 27.77777777777778}",27,27
+7477,claude,dark_triad,hexaco,50,50,50,50,0,mid_O_low_N,48.15,"{""machiavellianism"": 50.0, ""narcissism"": 50.0, ""psychopathy"": 44.44444444444444}",27,27
+7537,deepseek,dark_triad,hexaco,50,50,50,50,0,mid_O_low_N,48.15,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 50.0, ""psychopathy"": 50.0}",27,27
+7567,gemini,dark_triad,hexaco,50,50,50,50,0,mid_O_low_N,45.37,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 50.0, ""psychopathy"": 38.888888888888886}",27,27
+7507,openai,dark_triad,hexaco,50,50,50,50,0,mid_O_low_N,41.67,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 44.44444444444444, ""psychopathy"": 38.888888888888886}",27,27
+7837,claude,dark_triad,hexaco,50,50,50,50,50,mid_O_mid_N,48.15,"{""machiavellianism"": 50.0, ""narcissism"": 44.44444444444444, ""psychopathy"": 50.0}",27,27
+7897,deepseek,dark_triad,hexaco,50,50,50,50,50,mid_O_mid_N,45.37,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 47.22222222222222, ""psychopathy"": 47.22222222222222}",27,27
+7927,gemini,dark_triad,hexaco,50,50,50,50,50,mid_O_mid_N,49.07,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 50.0, ""psychopathy"": 50.0}",27,27
+7867,openai,dark_triad,hexaco,50,50,50,50,50,mid_O_mid_N,48.15,"{""machiavellianism"": 50.0, ""narcissism"": 44.44444444444444, ""psychopathy"": 50.0}",27,27
+7116,claude,dark_triad,narrative,100,50,50,50,100,high_O_high_N,40.74,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 41.666666666666664, ""psychopathy"": 27.77777777777778}",27,27
+7176,deepseek,dark_triad,narrative,100,50,50,50,100,high_O_high_N,45.37,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 55.55555555555556, ""psychopathy"": 33.333333333333336}",27,27
+7206,gemini,dark_triad,narrative,100,50,50,50,100,high_O_high_N,40.74,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 44.44444444444444, ""psychopathy"": 30.555555555555557}",27,27
+7146,openai,dark_triad,narrative,100,50,50,50,100,high_O_high_N,43.52,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 52.77777777777778, ""psychopathy"": 33.333333333333336}",27,27
+6876,claude,dark_triad,narrative,100,50,50,50,0,high_O_low_N,39.81,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 52.77777777777778, ""psychopathy"": 25.0}",27,27
+6936,deepseek,dark_triad,narrative,100,50,50,50,0,high_O_low_N,41.67,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 55.55555555555556, ""psychopathy"": 30.555555555555557}",27,27
+6966,gemini,dark_triad,narrative,100,50,50,50,0,high_O_low_N,41.67,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 58.333333333333336, ""psychopathy"": 27.77777777777778}",27,27
+6906,openai,dark_triad,narrative,100,50,50,50,0,high_O_low_N,38.89,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 52.77777777777778, ""psychopathy"": 25.0}",27,27
+7596,claude,dark_triad,narrative,100,50,50,50,50,high_O_mid_N,39.81,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 50.0, ""psychopathy"": 27.77777777777778}",27,27
+7656,deepseek,dark_triad,narrative,100,50,50,50,50,high_O_mid_N,43.52,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 55.55555555555556, ""psychopathy"": 36.111111111111114}",27,27
+7686,gemini,dark_triad,narrative,100,50,50,50,50,high_O_mid_N,42.59,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 50.0, ""psychopathy"": 36.111111111111114}",27,27
+7626,openai,dark_triad,narrative,100,50,50,50,50,high_O_mid_N,42.59,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 58.333333333333336, ""psychopathy"": 30.555555555555557}",27,27
+6996,claude,dark_triad,narrative,0,50,50,50,100,low_O_high_N,37.04,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 33.333333333333336, ""psychopathy"": 25.0}",27,27
+7056,deepseek,dark_triad,narrative,0,50,50,50,100,low_O_high_N,37.96,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 36.111111111111114, ""psychopathy"": 22.22222222222222}",27,27
+7086,gemini,dark_triad,narrative,0,50,50,50,100,low_O_high_N,37.04,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 27.77777777777778, ""psychopathy"": 27.77777777777778}",27,27
+7026,openai,dark_triad,narrative,0,50,50,50,100,low_O_high_N,40.74,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 38.888888888888886, ""psychopathy"": 30.555555555555557}",27,27
+7236,claude,dark_triad,narrative,0,50,50,50,0,low_O_low_N,35.19,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 41.666666666666664, ""psychopathy"": 19.444444444444443}",27,27
+7296,deepseek,dark_triad,narrative,0,50,50,50,0,low_O_low_N,37.04,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 47.22222222222222, ""psychopathy"": 19.444444444444443}",27,27
+7326,gemini,dark_triad,narrative,0,50,50,50,0,low_O_low_N,36.11,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 38.888888888888886, ""psychopathy"": 22.22222222222222}",27,27
+7266,openai,dark_triad,narrative,0,50,50,50,0,low_O_low_N,38.89,"{""machiavellianism"": 50.0, ""narcissism"": 44.44444444444444, ""psychopathy"": 22.22222222222222}",27,27
+7716,claude,dark_triad,narrative,0,50,50,50,50,low_O_mid_N,38.89,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 44.44444444444444, ""psychopathy"": 25.0}",27,27
+7776,deepseek,dark_triad,narrative,0,50,50,50,50,low_O_mid_N,39.81,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 47.22222222222222, ""psychopathy"": 27.77777777777778}",27,27
+7806,gemini,dark_triad,narrative,0,50,50,50,50,low_O_mid_N,37.96,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 44.44444444444444, ""psychopathy"": 22.22222222222222}",27,27
+7746,openai,dark_triad,narrative,0,50,50,50,50,low_O_mid_N,42.59,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 44.44444444444444, ""psychopathy"": 30.555555555555557}",27,27
+7356,claude,dark_triad,narrative,50,50,50,50,100,mid_O_high_N,37.96,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 33.333333333333336, ""psychopathy"": 27.77777777777778}",27,27
+7416,deepseek,dark_triad,narrative,50,50,50,50,100,mid_O_high_N,45.37,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 44.44444444444444, ""psychopathy"": 36.111111111111114}",27,27
+7446,gemini,dark_triad,narrative,50,50,50,50,100,mid_O_high_N,39.81,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 41.666666666666664, ""psychopathy"": 30.555555555555557}",27,27
+7386,openai,dark_triad,narrative,50,50,50,50,100,mid_O_high_N,40.74,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 47.22222222222222, ""psychopathy"": 30.555555555555557}",27,27
+7476,claude,dark_triad,narrative,50,50,50,50,0,mid_O_low_N,39.81,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 50.0, ""psychopathy"": 22.22222222222222}",27,27
+7536,deepseek,dark_triad,narrative,50,50,50,50,0,mid_O_low_N,37.96,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 52.77777777777778, ""psychopathy"": 22.22222222222222}",27,27
+7566,gemini,dark_triad,narrative,50,50,50,50,0,mid_O_low_N,38.89,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 47.22222222222222, ""psychopathy"": 25.0}",27,27
+7506,openai,dark_triad,narrative,50,50,50,50,0,mid_O_low_N,41.67,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 55.55555555555556, ""psychopathy"": 25.0}",27,27
+7836,claude,dark_triad,narrative,50,50,50,50,50,mid_O_mid_N,39.81,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 47.22222222222222, ""psychopathy"": 25.0}",27,27
+7896,deepseek,dark_triad,narrative,50,50,50,50,50,mid_O_mid_N,41.67,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 52.77777777777778, ""psychopathy"": 30.555555555555557}",27,27
+7926,gemini,dark_triad,narrative,50,50,50,50,50,mid_O_mid_N,41.67,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 47.22222222222222, ""psychopathy"": 30.555555555555557}",27,27
+7866,openai,dark_triad,narrative,50,50,50,50,50,mid_O_mid_N,41.67,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 52.77777777777778, ""psychopathy"": 27.77777777777778}",27,27
+7115,claude,dark_triad,ocean_direct,100,50,50,50,100,high_O_high_N,46.3,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 41.666666666666664, ""psychopathy"": 44.44444444444444}",27,27
+7175,deepseek,dark_triad,ocean_direct,100,50,50,50,100,high_O_high_N,62.04,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 69.44444444444444, ""psychopathy"": 69.44444444444444}",27,27
+7205,gemini,dark_triad,ocean_direct,100,50,50,50,100,high_O_high_N,56.48,"{""machiavellianism"": 52.77777777777778, ""narcissism"": 55.55555555555556, ""psychopathy"": 61.111111111111114}",27,27
+7145,openai,dark_triad,ocean_direct,100,50,50,50,100,high_O_high_N,47.22,"{""machiavellianism"": 30.555555555555557, ""narcissism"": 58.333333333333336, ""psychopathy"": 52.77777777777778}",27,27
+6875,claude,dark_triad,ocean_direct,100,50,50,50,0,high_O_low_N,42.59,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 50.0, ""psychopathy"": 36.111111111111114}",27,27
+6935,deepseek,dark_triad,ocean_direct,100,50,50,50,0,high_O_low_N,41.67,"{""machiavellianism"": 33.333333333333336, ""narcissism"": 58.333333333333336, ""psychopathy"": 33.333333333333336}",27,27
+6965,gemini,dark_triad,ocean_direct,100,50,50,50,0,high_O_low_N,46.3,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 63.888888888888886, ""psychopathy"": 33.333333333333336}",27,27
+6905,openai,dark_triad,ocean_direct,100,50,50,50,0,high_O_low_N,36.11,"{""machiavellianism"": 27.77777777777778, ""narcissism"": 52.77777777777778, ""psychopathy"": 27.77777777777778}",27,27
+7595,claude,dark_triad,ocean_direct,100,50,50,50,50,high_O_mid_N,43.52,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 50.0, ""psychopathy"": 38.888888888888886}",27,27
+7655,deepseek,dark_triad,ocean_direct,100,50,50,50,50,high_O_mid_N,42.59,"{""machiavellianism"": 36.111111111111114, ""narcissism"": 52.77777777777778, ""psychopathy"": 38.888888888888886}",27,27
+7685,gemini,dark_triad,ocean_direct,100,50,50,50,50,high_O_mid_N,53.7,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 58.333333333333336, ""psychopathy"": 47.22222222222222}",27,27
+7625,openai,dark_triad,ocean_direct,100,50,50,50,50,high_O_mid_N,41.67,"{""machiavellianism"": 30.555555555555557, ""narcissism"": 55.55555555555556, ""psychopathy"": 38.888888888888886}",27,27
+6995,claude,dark_triad,ocean_direct,0,50,50,50,100,low_O_high_N,57.41,"{""machiavellianism"": 83.33333333333333, ""narcissism"": 36.111111111111114, ""psychopathy"": 52.77777777777778}",27,27
+7055,deepseek,dark_triad,ocean_direct,0,50,50,50,100,low_O_high_N,68.52,"{""machiavellianism"": 86.11111111111111, ""narcissism"": 55.55555555555556, ""psychopathy"": 63.888888888888886}",27,27
+7085,gemini,dark_triad,ocean_direct,0,50,50,50,100,low_O_high_N,50.93,"{""machiavellianism"": 63.888888888888886, ""narcissism"": 36.111111111111114, ""psychopathy"": 52.77777777777778}",27,27
+7025,openai,dark_triad,ocean_direct,0,50,50,50,100,low_O_high_N,45.37,"{""machiavellianism"": 61.111111111111114, ""narcissism"": 38.888888888888886, ""psychopathy"": 36.111111111111114}",27,27
+7235,claude,dark_triad,ocean_direct,0,50,50,50,0,low_O_low_N,42.59,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 50.0, ""psychopathy"": 33.333333333333336}",27,27
+7295,deepseek,dark_triad,ocean_direct,0,50,50,50,0,low_O_low_N,42.59,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 52.77777777777778, ""psychopathy"": 27.77777777777778}",27,27
+7325,gemini,dark_triad,ocean_direct,0,50,50,50,0,low_O_low_N,40.74,"{""machiavellianism"": 50.0, ""narcissism"": 47.22222222222222, ""psychopathy"": 25.0}",27,27
+7265,openai,dark_triad,ocean_direct,0,50,50,50,0,low_O_low_N,34.26,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 41.666666666666664, ""psychopathy"": 16.666666666666668}",27,27
+7715,claude,dark_triad,ocean_direct,0,50,50,50,50,low_O_mid_N,37.04,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 38.888888888888886, ""psychopathy"": 27.77777777777778}",27,27
+7775,deepseek,dark_triad,ocean_direct,0,50,50,50,50,low_O_mid_N,46.3,"{""machiavellianism"": 50.0, ""narcissism"": 50.0, ""psychopathy"": 38.888888888888886}",27,27
+7805,gemini,dark_triad,ocean_direct,0,50,50,50,50,low_O_mid_N,50.0,"{""machiavellianism"": 55.55555555555556, ""narcissism"": 47.22222222222222, ""psychopathy"": 47.22222222222222}",27,27
+7745,openai,dark_triad,ocean_direct,0,50,50,50,50,low_O_mid_N,38.89,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 38.888888888888886, ""psychopathy"": 30.555555555555557}",27,27
+7355,claude,dark_triad,ocean_direct,50,50,50,50,100,mid_O_high_N,53.7,"{""machiavellianism"": 77.77777777777777, ""narcissism"": 38.888888888888886, ""psychopathy"": 44.44444444444444}",27,27
+7415,deepseek,dark_triad,ocean_direct,50,50,50,50,100,mid_O_high_N,72.22,"{""machiavellianism"": 91.66666666666667, ""narcissism"": 52.77777777777778, ""psychopathy"": 72.22222222222221}",27,27
+7445,gemini,dark_triad,ocean_direct,50,50,50,50,100,mid_O_high_N,51.85,"{""machiavellianism"": 66.66666666666666, ""narcissism"": 36.111111111111114, ""psychopathy"": 52.77777777777778}",27,27
+7385,openai,dark_triad,ocean_direct,50,50,50,50,100,mid_O_high_N,48.15,"{""machiavellianism"": 58.333333333333336, ""narcissism"": 44.44444444444444, ""psychopathy"": 41.666666666666664}",27,27
+7475,claude,dark_triad,ocean_direct,50,50,50,50,0,mid_O_low_N,41.67,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 50.0, ""psychopathy"": 33.333333333333336}",27,27
+7535,deepseek,dark_triad,ocean_direct,50,50,50,50,0,mid_O_low_N,40.74,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 50.0, ""psychopathy"": 33.333333333333336}",27,27
+7565,gemini,dark_triad,ocean_direct,50,50,50,50,0,mid_O_low_N,40.74,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 47.22222222222222, ""psychopathy"": 27.77777777777778}",27,27
+7505,openai,dark_triad,ocean_direct,50,50,50,50,0,mid_O_low_N,38.89,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 47.22222222222222, ""psychopathy"": 27.77777777777778}",27,27
+7835,claude,dark_triad,ocean_direct,50,50,50,50,50,mid_O_mid_N,47.22,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 44.44444444444444, ""psychopathy"": 50.0}",27,27
+7895,deepseek,dark_triad,ocean_direct,50,50,50,50,50,mid_O_mid_N,49.07,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 50.0, ""psychopathy"": 50.0}",27,27
+7925,gemini,dark_triad,ocean_direct,50,50,50,50,50,mid_O_mid_N,50.0,"{""machiavellianism"": 50.0, ""narcissism"": 50.0, ""psychopathy"": 50.0}",27,27
+7865,openai,dark_triad,ocean_direct,50,50,50,50,50,mid_O_mid_N,50.0,"{""machiavellianism"": 50.0, ""narcissism"": 50.0, ""psychopathy"": 50.0}",27,27
+7119,claude,dark_triad,scenario,100,50,50,50,100,high_O_high_N,33.33,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 36.111111111111114, ""psychopathy"": 22.22222222222222}",27,27
+7179,deepseek,dark_triad,scenario,100,50,50,50,100,high_O_high_N,37.96,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 44.44444444444444, ""psychopathy"": 30.555555555555557}",27,27
+7209,gemini,dark_triad,scenario,100,50,50,50,100,high_O_high_N,29.63,"{""machiavellianism"": 33.333333333333336, ""narcissism"": 41.666666666666664, ""psychopathy"": 13.88888888888889}",27,27
+7149,openai,dark_triad,scenario,100,50,50,50,100,high_O_high_N,37.04,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 41.666666666666664, ""psychopathy"": 27.77777777777778}",27,27
+6879,claude,dark_triad,scenario,100,50,50,50,0,high_O_low_N,27.78,"{""machiavellianism"": 22.22222222222222, ""narcissism"": 50.0, ""psychopathy"": 11.11111111111111}",27,27
+6939,deepseek,dark_triad,scenario,100,50,50,50,0,high_O_low_N,38.89,"{""machiavellianism"": 30.555555555555557, ""narcissism"": 58.333333333333336, ""psychopathy"": 27.77777777777778}",27,27
+6969,gemini,dark_triad,scenario,100,50,50,50,0,high_O_low_N,32.41,"{""machiavellianism"": 27.77777777777778, ""narcissism"": 52.77777777777778, ""psychopathy"": 16.666666666666668}",27,27
+6909,openai,dark_triad,scenario,100,50,50,50,0,high_O_low_N,38.89,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 55.55555555555556, ""psychopathy"": 19.444444444444443}",27,27
+7599,claude,dark_triad,scenario,100,50,50,50,50,high_O_mid_N,30.56,"{""machiavellianism"": 30.555555555555557, ""narcissism"": 44.44444444444444, ""psychopathy"": 16.666666666666668}",27,27
+7659,deepseek,dark_triad,scenario,100,50,50,50,50,high_O_mid_N,37.04,"{""machiavellianism"": 33.333333333333336, ""narcissism"": 50.0, ""psychopathy"": 27.77777777777778}",27,27
+7689,gemini,dark_triad,scenario,100,50,50,50,50,high_O_mid_N,30.56,"{""machiavellianism"": 30.555555555555557, ""narcissism"": 44.44444444444444, ""psychopathy"": 16.666666666666668}",27,27
+7629,openai,dark_triad,scenario,100,50,50,50,50,high_O_mid_N,42.59,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 55.55555555555556, ""psychopathy"": 30.555555555555557}",27,27
+6999,claude,dark_triad,scenario,0,50,50,50,100,low_O_high_N,29.63,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 30.555555555555557, ""psychopathy"": 11.11111111111111}",27,27
+7059,deepseek,dark_triad,scenario,0,50,50,50,100,low_O_high_N,34.26,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 33.333333333333336, ""psychopathy"": 22.22222222222222}",27,27
+7089,gemini,dark_triad,scenario,0,50,50,50,100,low_O_high_N,27.78,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 33.333333333333336, ""psychopathy"": 11.11111111111111}",27,27
+7029,openai,dark_triad,scenario,0,50,50,50,100,low_O_high_N,34.26,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 33.333333333333336, ""psychopathy"": 22.22222222222222}",27,27
+7239,claude,dark_triad,scenario,0,50,50,50,0,low_O_low_N,25.93,"{""machiavellianism"": 27.77777777777778, ""narcissism"": 44.44444444444444, ""psychopathy"": 5.555555555555558}",27,27
+7299,deepseek,dark_triad,scenario,0,50,50,50,0,low_O_low_N,34.26,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 41.666666666666664, ""psychopathy"": 22.22222222222222}",27,27
+7329,gemini,dark_triad,scenario,0,50,50,50,0,low_O_low_N,29.63,"{""machiavellianism"": 36.111111111111114, ""narcissism"": 41.666666666666664, ""psychopathy"": 11.11111111111111}",27,27
+7269,openai,dark_triad,scenario,0,50,50,50,0,low_O_low_N,36.11,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 44.44444444444444, ""psychopathy"": 19.444444444444443}",27,27
+7719,claude,dark_triad,scenario,0,50,50,50,50,low_O_mid_N,28.7,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 33.333333333333336, ""psychopathy"": 11.11111111111111}",27,27
+7779,deepseek,dark_triad,scenario,0,50,50,50,50,low_O_mid_N,33.33,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 36.111111111111114, ""psychopathy"": 22.22222222222222}",27,27
+7809,gemini,dark_triad,scenario,0,50,50,50,50,low_O_mid_N,31.48,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 38.888888888888886, ""psychopathy"": 13.88888888888889}",27,27
+7749,openai,dark_triad,scenario,0,50,50,50,50,low_O_mid_N,34.26,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 38.888888888888886, ""psychopathy"": 19.444444444444443}",27,27
+7359,claude,dark_triad,scenario,50,50,50,50,100,mid_O_high_N,29.63,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 30.555555555555557, ""psychopathy"": 13.88888888888889}",27,27
+7419,deepseek,dark_triad,scenario,50,50,50,50,100,mid_O_high_N,36.11,"{""machiavellianism"": 41.666666666666664, ""narcissism"": 41.666666666666664, ""psychopathy"": 25.0}",27,27
+7449,gemini,dark_triad,scenario,50,50,50,50,100,mid_O_high_N,34.26,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 36.111111111111114, ""psychopathy"": 19.444444444444443}",27,27
+7389,openai,dark_triad,scenario,50,50,50,50,100,mid_O_high_N,36.11,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 38.888888888888886, ""psychopathy"": 25.0}",27,27
+7479,claude,dark_triad,scenario,50,50,50,50,0,mid_O_low_N,31.48,"{""machiavellianism"": 33.333333333333336, ""narcissism"": 47.22222222222222, ""psychopathy"": 13.88888888888889}",27,27
+7539,deepseek,dark_triad,scenario,50,50,50,50,0,mid_O_low_N,36.11,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 50.0, ""psychopathy"": 19.444444444444443}",27,27
+7569,gemini,dark_triad,scenario,50,50,50,50,0,mid_O_low_N,31.48,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 38.888888888888886, ""psychopathy"": 11.11111111111111}",27,27
+7509,openai,dark_triad,scenario,50,50,50,50,0,mid_O_low_N,37.96,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 52.77777777777778, ""psychopathy"": 16.666666666666668}",27,27
+7839,claude,dark_triad,scenario,50,50,50,50,50,mid_O_mid_N,31.48,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 41.666666666666664, ""psychopathy"": 13.88888888888889}",27,27
+7899,deepseek,dark_triad,scenario,50,50,50,50,50,mid_O_mid_N,36.11,"{""machiavellianism"": 38.888888888888886, ""narcissism"": 41.666666666666664, ""psychopathy"": 27.77777777777778}",27,27
+7929,gemini,dark_triad,scenario,50,50,50,50,50,mid_O_mid_N,34.26,"{""machiavellianism"": 47.22222222222222, ""narcissism"": 38.888888888888886, ""psychopathy"": 16.666666666666668}",27,27
+7869,openai,dark_triad,scenario,50,50,50,50,50,mid_O_mid_N,37.96,"{""machiavellianism"": 44.44444444444444, ""narcissism"": 44.44444444444444, ""psychopathy"": 25.0}",27,27
+7130,claude,gad7,behavioral,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7190,deepseek,gad7,behavioral,100,50,50,50,100,high_O_high_N,90.48,"{""anxiety"": 90.47619047619048}",7,7
+7220,gemini,gad7,behavioral,100,50,50,50,100,high_O_high_N,95.24,"{""anxiety"": 95.23809523809523}",7,7
+7160,openai,gad7,behavioral,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+6890,claude,gad7,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+6950,deepseek,gad7,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+6980,gemini,gad7,behavioral,100,50,50,50,0,high_O_low_N,4.76,"{""anxiety"": 4.761904761904762}",7,7
+6920,openai,gad7,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7610,claude,gad7,behavioral,100,50,50,50,50,high_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7670,deepseek,gad7,behavioral,100,50,50,50,50,high_O_mid_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+7700,gemini,gad7,behavioral,100,50,50,50,50,high_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7640,openai,gad7,behavioral,100,50,50,50,50,high_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7010,claude,gad7,behavioral,0,50,50,50,100,low_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7070,deepseek,gad7,behavioral,0,50,50,50,100,low_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7100,gemini,gad7,behavioral,0,50,50,50,100,low_O_high_N,95.24,"{""anxiety"": 95.23809523809523}",7,7
+7040,openai,gad7,behavioral,0,50,50,50,100,low_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7250,claude,gad7,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7310,deepseek,gad7,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7340,gemini,gad7,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7280,openai,gad7,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7730,claude,gad7,behavioral,0,50,50,50,50,low_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7790,deepseek,gad7,behavioral,0,50,50,50,50,low_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7820,gemini,gad7,behavioral,0,50,50,50,50,low_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7760,openai,gad7,behavioral,0,50,50,50,50,low_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7370,claude,gad7,behavioral,50,50,50,50,100,mid_O_high_N,95.24,"{""anxiety"": 95.23809523809523}",7,7
+7430,deepseek,gad7,behavioral,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7460,gemini,gad7,behavioral,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7400,openai,gad7,behavioral,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7490,claude,gad7,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7550,deepseek,gad7,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7580,gemini,gad7,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7520,openai,gad7,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7850,claude,gad7,behavioral,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7910,deepseek,gad7,behavioral,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7940,gemini,gad7,behavioral,50,50,50,50,50,mid_O_mid_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+7880,openai,gad7,behavioral,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7132,claude,gad7,exemplar,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7192,deepseek,gad7,exemplar,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7222,gemini,gad7,exemplar,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7162,openai,gad7,exemplar,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+6892,claude,gad7,exemplar,100,50,50,50,0,high_O_low_N,61.9,"{""anxiety"": 61.904761904761905}",7,7
+6952,deepseek,gad7,exemplar,100,50,50,50,0,high_O_low_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+6982,gemini,gad7,exemplar,100,50,50,50,0,high_O_low_N,47.62,"{""anxiety"": 47.61904761904761}",7,7
+6922,openai,gad7,exemplar,100,50,50,50,0,high_O_low_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7612,claude,gad7,exemplar,100,50,50,50,50,high_O_mid_N,90.48,"{""anxiety"": 90.47619047619048}",7,7
+7672,deepseek,gad7,exemplar,100,50,50,50,50,high_O_mid_N,61.9,"{""anxiety"": 61.904761904761905}",7,7
+7702,gemini,gad7,exemplar,100,50,50,50,50,high_O_mid_N,52.38,"{""anxiety"": 52.38095238095239}",7,7
+7642,openai,gad7,exemplar,100,50,50,50,50,high_O_mid_N,42.86,"{""anxiety"": 42.857142857142854}",7,7
+7012,claude,gad7,exemplar,0,50,50,50,100,low_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7072,deepseek,gad7,exemplar,0,50,50,50,100,low_O_high_N,90.48,"{""anxiety"": 90.47619047619048}",7,7
+7102,gemini,gad7,exemplar,0,50,50,50,100,low_O_high_N,95.24,"{""anxiety"": 95.23809523809523}",7,7
+7042,openai,gad7,exemplar,0,50,50,50,100,low_O_high_N,90.48,"{""anxiety"": 90.47619047619048}",7,7
+7252,claude,gad7,exemplar,0,50,50,50,0,low_O_low_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7312,deepseek,gad7,exemplar,0,50,50,50,0,low_O_low_N,42.86,"{""anxiety"": 42.857142857142854}",7,7
+7342,gemini,gad7,exemplar,0,50,50,50,0,low_O_low_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7282,openai,gad7,exemplar,0,50,50,50,0,low_O_low_N,9.52,"{""anxiety"": 9.523809523809524}",7,7
+7732,claude,gad7,exemplar,0,50,50,50,50,low_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7792,deepseek,gad7,exemplar,0,50,50,50,50,low_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7822,gemini,gad7,exemplar,0,50,50,50,50,low_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7762,openai,gad7,exemplar,0,50,50,50,50,low_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7372,claude,gad7,exemplar,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7432,deepseek,gad7,exemplar,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7462,gemini,gad7,exemplar,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7402,openai,gad7,exemplar,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7492,claude,gad7,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7552,deepseek,gad7,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7582,gemini,gad7,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7522,openai,gad7,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7852,claude,gad7,exemplar,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7912,deepseek,gad7,exemplar,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7942,gemini,gad7,exemplar,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7882,openai,gad7,exemplar,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7129,claude,gad7,hexaco,100,50,50,50,100,high_O_high_N,95.24,"{""anxiety"": 95.23809523809523}",7,7
+7189,deepseek,gad7,hexaco,100,50,50,50,100,high_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+7219,gemini,gad7,hexaco,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7159,openai,gad7,hexaco,100,50,50,50,100,high_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+6889,claude,gad7,hexaco,100,50,50,50,0,high_O_low_N,4.76,"{""anxiety"": 4.761904761904762}",7,7
+6949,deepseek,gad7,hexaco,100,50,50,50,0,high_O_low_N,14.29,"{""anxiety"": 14.285714285714285}",7,7
+6979,gemini,gad7,hexaco,100,50,50,50,0,high_O_low_N,9.52,"{""anxiety"": 9.523809523809524}",7,7
+6919,openai,gad7,hexaco,100,50,50,50,0,high_O_low_N,4.76,"{""anxiety"": 4.761904761904762}",7,7
+7609,claude,gad7,hexaco,100,50,50,50,50,high_O_mid_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+7669,deepseek,gad7,hexaco,100,50,50,50,50,high_O_mid_N,57.14,"{""anxiety"": 57.14285714285714}",7,7
+7699,gemini,gad7,hexaco,100,50,50,50,50,high_O_mid_N,47.62,"{""anxiety"": 47.61904761904761}",7,7
+7639,openai,gad7,hexaco,100,50,50,50,50,high_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7009,claude,gad7,hexaco,0,50,50,50,100,low_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7069,deepseek,gad7,hexaco,0,50,50,50,100,low_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+7099,gemini,gad7,hexaco,0,50,50,50,100,low_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7039,openai,gad7,hexaco,0,50,50,50,100,low_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+7249,claude,gad7,hexaco,0,50,50,50,0,low_O_low_N,4.76,"{""anxiety"": 4.761904761904762}",7,7
+7309,deepseek,gad7,hexaco,0,50,50,50,0,low_O_low_N,14.29,"{""anxiety"": 14.285714285714285}",7,7
+7339,gemini,gad7,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7279,openai,gad7,hexaco,0,50,50,50,0,low_O_low_N,4.76,"{""anxiety"": 4.761904761904762}",7,7
+7729,claude,gad7,hexaco,0,50,50,50,50,low_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7789,deepseek,gad7,hexaco,0,50,50,50,50,low_O_mid_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+7819,gemini,gad7,hexaco,0,50,50,50,50,low_O_mid_N,61.9,"{""anxiety"": 61.904761904761905}",7,7
+7759,openai,gad7,hexaco,0,50,50,50,50,low_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7369,claude,gad7,hexaco,50,50,50,50,100,mid_O_high_N,95.24,"{""anxiety"": 95.23809523809523}",7,7
+7429,deepseek,gad7,hexaco,50,50,50,50,100,mid_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+7459,gemini,gad7,hexaco,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7399,openai,gad7,hexaco,50,50,50,50,100,mid_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+7489,claude,gad7,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7549,deepseek,gad7,hexaco,50,50,50,50,0,mid_O_low_N,14.29,"{""anxiety"": 14.285714285714285}",7,7
+7579,gemini,gad7,hexaco,50,50,50,50,0,mid_O_low_N,14.29,"{""anxiety"": 14.285714285714285}",7,7
+7519,openai,gad7,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7849,claude,gad7,hexaco,50,50,50,50,50,mid_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7909,deepseek,gad7,hexaco,50,50,50,50,50,mid_O_mid_N,47.62,"{""anxiety"": 47.61904761904761}",7,7
+7939,gemini,gad7,hexaco,50,50,50,50,50,mid_O_mid_N,66.67,"{""anxiety"": 66.66666666666666}",7,7
+7879,openai,gad7,hexaco,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7128,claude,gad7,narrative,100,50,50,50,100,high_O_high_N,90.48,"{""anxiety"": 90.47619047619048}",7,7
+7188,deepseek,gad7,narrative,100,50,50,50,100,high_O_high_N,76.19,"{""anxiety"": 76.19047619047619}",7,7
+7218,gemini,gad7,narrative,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7158,openai,gad7,narrative,100,50,50,50,100,high_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+6888,claude,gad7,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+6948,deepseek,gad7,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+6978,gemini,gad7,narrative,100,50,50,50,0,high_O_low_N,4.76,"{""anxiety"": 4.761904761904762}",7,7
+6918,openai,gad7,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7608,claude,gad7,narrative,100,50,50,50,50,high_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7668,deepseek,gad7,narrative,100,50,50,50,50,high_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7698,gemini,gad7,narrative,100,50,50,50,50,high_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7638,openai,gad7,narrative,100,50,50,50,50,high_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7008,claude,gad7,narrative,0,50,50,50,100,low_O_high_N,90.48,"{""anxiety"": 90.47619047619048}",7,7
+7068,deepseek,gad7,narrative,0,50,50,50,100,low_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+7098,gemini,gad7,narrative,0,50,50,50,100,low_O_high_N,95.24,"{""anxiety"": 95.23809523809523}",7,7
+7038,openai,gad7,narrative,0,50,50,50,100,low_O_high_N,90.48,"{""anxiety"": 90.47619047619048}",7,7
+7248,claude,gad7,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7308,deepseek,gad7,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7338,gemini,gad7,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7278,openai,gad7,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7728,claude,gad7,narrative,0,50,50,50,50,low_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7788,deepseek,gad7,narrative,0,50,50,50,50,low_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7818,gemini,gad7,narrative,0,50,50,50,50,low_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7758,openai,gad7,narrative,0,50,50,50,50,low_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7368,claude,gad7,narrative,50,50,50,50,100,mid_O_high_N,80.95,"{""anxiety"": 80.95238095238095}",7,7
+7428,deepseek,gad7,narrative,50,50,50,50,100,mid_O_high_N,80.95,"{""anxiety"": 80.95238095238095}",7,7
+7458,gemini,gad7,narrative,50,50,50,50,100,mid_O_high_N,95.24,"{""anxiety"": 95.23809523809523}",7,7
+7398,openai,gad7,narrative,50,50,50,50,100,mid_O_high_N,80.95,"{""anxiety"": 80.95238095238095}",7,7
+7488,claude,gad7,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7548,deepseek,gad7,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7578,gemini,gad7,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7518,openai,gad7,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7848,claude,gad7,narrative,50,50,50,50,50,mid_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7908,deepseek,gad7,narrative,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7938,gemini,gad7,narrative,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7878,openai,gad7,narrative,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7127,claude,gad7,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7187,deepseek,gad7,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7217,gemini,gad7,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7157,openai,gad7,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+6887,claude,gad7,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+6947,deepseek,gad7,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+6977,gemini,gad7,ocean_direct,100,50,50,50,0,high_O_low_N,4.76,"{""anxiety"": 4.761904761904762}",7,7
+6917,openai,gad7,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7607,claude,gad7,ocean_direct,100,50,50,50,50,high_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7667,deepseek,gad7,ocean_direct,100,50,50,50,50,high_O_mid_N,61.9,"{""anxiety"": 61.904761904761905}",7,7
+7697,gemini,gad7,ocean_direct,100,50,50,50,50,high_O_mid_N,42.86,"{""anxiety"": 42.857142857142854}",7,7
+7637,openai,gad7,ocean_direct,100,50,50,50,50,high_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7007,claude,gad7,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7067,deepseek,gad7,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7097,gemini,gad7,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7037,openai,gad7,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7247,claude,gad7,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7307,deepseek,gad7,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7337,gemini,gad7,ocean_direct,0,50,50,50,0,low_O_low_N,4.76,"{""anxiety"": 4.761904761904762}",7,7
+7277,openai,gad7,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7727,claude,gad7,ocean_direct,0,50,50,50,50,low_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7787,deepseek,gad7,ocean_direct,0,50,50,50,50,low_O_mid_N,47.62,"{""anxiety"": 47.61904761904761}",7,7
+7817,gemini,gad7,ocean_direct,0,50,50,50,50,low_O_mid_N,52.38,"{""anxiety"": 52.38095238095239}",7,7
+7757,openai,gad7,ocean_direct,0,50,50,50,50,low_O_mid_N,42.86,"{""anxiety"": 42.857142857142854}",7,7
+7367,claude,gad7,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7427,deepseek,gad7,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7457,gemini,gad7,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7397,openai,gad7,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""anxiety"": 100.0}",7,7
+7487,claude,gad7,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7547,deepseek,gad7,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7577,gemini,gad7,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7517,openai,gad7,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7847,claude,gad7,ocean_direct,50,50,50,50,50,mid_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7907,deepseek,gad7,ocean_direct,50,50,50,50,50,mid_O_mid_N,57.14,"{""anxiety"": 57.14285714285714}",7,7
+7937,gemini,gad7,ocean_direct,50,50,50,50,50,mid_O_mid_N,66.67,"{""anxiety"": 66.66666666666666}",7,7
+7877,openai,gad7,ocean_direct,50,50,50,50,50,mid_O_mid_N,42.86,"{""anxiety"": 42.857142857142854}",7,7
+7131,claude,gad7,scenario,100,50,50,50,100,high_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+7191,deepseek,gad7,scenario,100,50,50,50,100,high_O_high_N,71.43,"{""anxiety"": 71.42857142857143}",7,7
+7221,gemini,gad7,scenario,100,50,50,50,100,high_O_high_N,80.95,"{""anxiety"": 80.95238095238095}",7,7
+7161,openai,gad7,scenario,100,50,50,50,100,high_O_high_N,66.67,"{""anxiety"": 66.66666666666666}",7,7
+6891,claude,gad7,scenario,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+6951,deepseek,gad7,scenario,100,50,50,50,0,high_O_low_N,9.52,"{""anxiety"": 9.523809523809524}",7,7
+6981,gemini,gad7,scenario,100,50,50,50,0,high_O_low_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+6921,openai,gad7,scenario,100,50,50,50,0,high_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7611,claude,gad7,scenario,100,50,50,50,50,high_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7671,deepseek,gad7,scenario,100,50,50,50,50,high_O_mid_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+7701,gemini,gad7,scenario,100,50,50,50,50,high_O_mid_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+7641,openai,gad7,scenario,100,50,50,50,50,high_O_mid_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7011,claude,gad7,scenario,0,50,50,50,100,low_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+7071,deepseek,gad7,scenario,0,50,50,50,100,low_O_high_N,85.71,"{""anxiety"": 85.71428571428571}",7,7
+7101,gemini,gad7,scenario,0,50,50,50,100,low_O_high_N,80.95,"{""anxiety"": 80.95238095238095}",7,7
+7041,openai,gad7,scenario,0,50,50,50,100,low_O_high_N,71.43,"{""anxiety"": 71.42857142857143}",7,7
+7251,claude,gad7,scenario,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7311,deepseek,gad7,scenario,0,50,50,50,0,low_O_low_N,14.29,"{""anxiety"": 14.285714285714285}",7,7
+7341,gemini,gad7,scenario,0,50,50,50,0,low_O_low_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7281,openai,gad7,scenario,0,50,50,50,0,low_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7731,claude,gad7,scenario,0,50,50,50,50,low_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7791,deepseek,gad7,scenario,0,50,50,50,50,low_O_mid_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+7821,gemini,gad7,scenario,0,50,50,50,50,low_O_mid_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+7761,openai,gad7,scenario,0,50,50,50,50,low_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7371,claude,gad7,scenario,50,50,50,50,100,mid_O_high_N,76.19,"{""anxiety"": 76.19047619047619}",7,7
+7431,deepseek,gad7,scenario,50,50,50,50,100,mid_O_high_N,76.19,"{""anxiety"": 76.19047619047619}",7,7
+7461,gemini,gad7,scenario,50,50,50,50,100,mid_O_high_N,71.43,"{""anxiety"": 71.42857142857143}",7,7
+7401,openai,gad7,scenario,50,50,50,50,100,mid_O_high_N,80.95,"{""anxiety"": 80.95238095238095}",7,7
+7491,claude,gad7,scenario,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7551,deepseek,gad7,scenario,50,50,50,50,0,mid_O_low_N,19.05,"{""anxiety"": 19.047619047619047}",7,7
+7581,gemini,gad7,scenario,50,50,50,50,0,mid_O_low_N,33.33,"{""anxiety"": 33.33333333333333}",7,7
+7521,openai,gad7,scenario,50,50,50,50,0,mid_O_low_N,0.0,"{""anxiety"": 0.0}",7,7
+7851,claude,gad7,scenario,50,50,50,50,50,mid_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7911,deepseek,gad7,scenario,50,50,50,50,50,mid_O_mid_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+7941,gemini,gad7,scenario,50,50,50,50,50,mid_O_mid_N,38.1,"{""anxiety"": 38.095238095238095}",7,7
+7881,openai,gad7,scenario,50,50,50,50,50,mid_O_mid_N,28.57,"{""anxiety"": 28.57142857142857}",7,7
+7106,claude,levenson,behavioral,100,50,50,50,100,high_O_high_N,46.88,"{""primary"": 31.25, ""secondary"": 62.5}",26,26
+7166,deepseek,levenson,behavioral,100,50,50,50,100,high_O_high_N,60.47,"{""primary"": 48.4375, ""secondary"": 72.5}",26,26
+7196,gemini,levenson,behavioral,100,50,50,50,100,high_O_high_N,48.91,"{""primary"": 32.8125, ""secondary"": 65.0}",26,26
+7136,openai,levenson,behavioral,100,50,50,50,100,high_O_high_N,52.19,"{""primary"": 34.375, ""secondary"": 70.0}",26,26
+6866,claude,levenson,behavioral,100,50,50,50,0,high_O_low_N,32.66,"{""primary"": 32.8125, ""secondary"": 32.49999999999999}",26,26
+6926,deepseek,levenson,behavioral,100,50,50,50,0,high_O_low_N,39.06,"{""primary"": 40.625, ""secondary"": 37.5}",26,26
+6956,gemini,levenson,behavioral,100,50,50,50,0,high_O_low_N,37.66,"{""primary"": 32.8125, ""secondary"": 42.50000000000001}",26,26
+6896,openai,levenson,behavioral,100,50,50,50,0,high_O_low_N,35.47,"{""primary"": 35.9375, ""secondary"": 35.0}",26,26
+7586,claude,levenson,behavioral,100,50,50,50,50,high_O_mid_N,32.34,"{""primary"": 29.6875, ""secondary"": 35.0}",26,26
+7646,deepseek,levenson,behavioral,100,50,50,50,50,high_O_mid_N,43.75,"{""primary"": 37.5, ""secondary"": 50.0}",26,26
+7676,gemini,levenson,behavioral,100,50,50,50,50,high_O_mid_N,41.09,"{""primary"": 29.6875, ""secondary"": 52.5}",26,26
+7616,openai,levenson,behavioral,100,50,50,50,50,high_O_mid_N,39.38,"{""primary"": 31.25, ""secondary"": 47.5}",26,26
+6986,claude,levenson,behavioral,0,50,50,50,100,low_O_high_N,45.94,"{""primary"": 34.375, ""secondary"": 57.49999999999999}",26,26
+7046,deepseek,levenson,behavioral,0,50,50,50,100,low_O_high_N,62.5,"{""primary"": 50.0, ""secondary"": 75.0}",26,26
+7076,gemini,levenson,behavioral,0,50,50,50,100,low_O_high_N,51.56,"{""primary"": 40.625, ""secondary"": 62.5}",26,26
+7016,openai,levenson,behavioral,0,50,50,50,100,low_O_high_N,56.25,"{""primary"": 50.0, ""secondary"": 62.5}",26,26
+7226,claude,levenson,behavioral,0,50,50,50,0,low_O_low_N,33.75,"{""primary"": 37.5, ""secondary"": 30.000000000000004}",26,26
+7286,deepseek,levenson,behavioral,0,50,50,50,0,low_O_low_N,42.19,"{""primary"": 46.875, ""secondary"": 37.5}",26,26
+7316,gemini,levenson,behavioral,0,50,50,50,0,low_O_low_N,35.47,"{""primary"": 35.9375, ""secondary"": 35.0}",26,26
+7256,openai,levenson,behavioral,0,50,50,50,0,low_O_low_N,39.69,"{""primary"": 46.875, ""secondary"": 32.49999999999999}",26,26
+7706,claude,levenson,behavioral,0,50,50,50,50,low_O_mid_N,35.16,"{""primary"": 32.8125, ""secondary"": 37.5}",26,26
+7766,deepseek,levenson,behavioral,0,50,50,50,50,low_O_mid_N,43.75,"{""primary"": 37.5, ""secondary"": 50.0}",26,26
+7796,gemini,levenson,behavioral,0,50,50,50,50,low_O_mid_N,39.38,"{""primary"": 31.25, ""secondary"": 47.5}",26,26
+7736,openai,levenson,behavioral,0,50,50,50,50,low_O_mid_N,41.72,"{""primary"": 35.9375, ""secondary"": 47.5}",26,26
+7346,claude,levenson,behavioral,50,50,50,50,100,mid_O_high_N,46.41,"{""primary"": 32.8125, ""secondary"": 60.0}",26,26
+7406,deepseek,levenson,behavioral,50,50,50,50,100,mid_O_high_N,58.13,"{""primary"": 43.75, ""secondary"": 72.5}",26,26
+7436,gemini,levenson,behavioral,50,50,50,50,100,mid_O_high_N,46.72,"{""primary"": 35.9375, ""secondary"": 57.49999999999999}",26,26
+7376,openai,levenson,behavioral,50,50,50,50,100,mid_O_high_N,50.0,"{""primary"": 37.5, ""secondary"": 62.5}",26,26
+7466,claude,levenson,behavioral,50,50,50,50,0,mid_O_low_N,30.16,"{""primary"": 32.8125, ""secondary"": 27.500000000000004}",26,26
+7526,deepseek,levenson,behavioral,50,50,50,50,0,mid_O_low_N,42.19,"{""primary"": 46.875, ""secondary"": 37.5}",26,26
+7556,gemini,levenson,behavioral,50,50,50,50,0,mid_O_low_N,36.25,"{""primary"": 37.5, ""secondary"": 35.0}",26,26
+7496,openai,levenson,behavioral,50,50,50,50,0,mid_O_low_N,39.06,"{""primary"": 40.625, ""secondary"": 37.5}",26,26
+7826,claude,levenson,behavioral,50,50,50,50,50,mid_O_mid_N,35.63,"{""primary"": 31.25, ""secondary"": 40.0}",26,26
+7886,deepseek,levenson,behavioral,50,50,50,50,50,mid_O_mid_N,39.69,"{""primary"": 34.375, ""secondary"": 44.99999999999999}",26,26
+7916,gemini,levenson,behavioral,50,50,50,50,50,mid_O_mid_N,38.59,"{""primary"": 29.6875, ""secondary"": 47.5}",26,26
+7856,openai,levenson,behavioral,50,50,50,50,50,mid_O_mid_N,40.94,"{""primary"": 34.375, ""secondary"": 47.5}",26,26
+7108,claude,levenson,exemplar,100,50,50,50,100,high_O_high_N,30.94,"{""primary"": 21.875, ""secondary"": 40.0}",26,26
+7168,deepseek,levenson,exemplar,100,50,50,50,100,high_O_high_N,43.75,"{""primary"": 25.0, ""secondary"": 62.5}",26,26
+7198,gemini,levenson,exemplar,100,50,50,50,100,high_O_high_N,52.34,"{""primary"": 29.6875, ""secondary"": 75.0}",26,26
+7138,openai,levenson,exemplar,100,50,50,50,100,high_O_high_N,36.88,"{""primary"": 18.75, ""secondary"": 55.00000000000001}",26,26
+6868,claude,levenson,exemplar,100,50,50,50,0,high_O_low_N,40.47,"{""primary"": 35.9375, ""secondary"": 44.99999999999999}",26,26
+6928,deepseek,levenson,exemplar,100,50,50,50,0,high_O_low_N,56.88,"{""primary"": 43.75, ""secondary"": 70.0}",26,26
+6958,gemini,levenson,exemplar,100,50,50,50,0,high_O_low_N,54.06,"{""primary"": 40.625, ""secondary"": 67.5}",26,26
+6898,openai,levenson,exemplar,100,50,50,50,0,high_O_low_N,42.03,"{""primary"": 39.0625, ""secondary"": 44.99999999999999}",26,26
+7588,claude,levenson,exemplar,100,50,50,50,50,high_O_mid_N,35.78,"{""primary"": 14.0625, ""secondary"": 57.49999999999999}",26,26
+7648,deepseek,levenson,exemplar,100,50,50,50,50,high_O_mid_N,44.22,"{""primary"": 23.4375, ""secondary"": 65.0}",26,26
+7678,gemini,levenson,exemplar,100,50,50,50,50,high_O_mid_N,29.53,"{""primary"": 14.0625, ""secondary"": 44.99999999999999}",26,26
+7618,openai,levenson,exemplar,100,50,50,50,50,high_O_mid_N,37.34,"{""primary"": 17.1875, ""secondary"": 57.49999999999999}",26,26
+6988,claude,levenson,exemplar,0,50,50,50,100,low_O_high_N,12.5,"{""primary"": 0.0, ""secondary"": 25.0}",26,26
+7048,deepseek,levenson,exemplar,0,50,50,50,100,low_O_high_N,24.38,"{""primary"": 6.25, ""secondary"": 42.50000000000001}",26,26
+7078,gemini,levenson,exemplar,0,50,50,50,100,low_O_high_N,15.0,"{""primary"": 0.0, ""secondary"": 30.000000000000004}",26,26
+7018,openai,levenson,exemplar,0,50,50,50,100,low_O_high_N,18.13,"{""primary"": 6.25, ""secondary"": 30.000000000000004}",26,26
+7228,claude,levenson,exemplar,0,50,50,50,0,low_O_low_N,84.38,"{""primary"": 93.75, ""secondary"": 75.0}",26,26
+7288,deepseek,levenson,exemplar,0,50,50,50,0,low_O_low_N,86.09,"{""primary"": 92.1875, ""secondary"": 80.0}",26,26
+7318,gemini,levenson,exemplar,0,50,50,50,0,low_O_low_N,93.75,"{""primary"": 100.0, ""secondary"": 87.5}",26,26
+7258,openai,levenson,exemplar,0,50,50,50,0,low_O_low_N,82.5,"{""primary"": 100.0, ""secondary"": 65.0}",26,26
+7708,claude,levenson,exemplar,0,50,50,50,50,low_O_mid_N,32.03,"{""primary"": 26.5625, ""secondary"": 37.5}",26,26
+7768,deepseek,levenson,exemplar,0,50,50,50,50,low_O_mid_N,35.78,"{""primary"": 26.5625, ""secondary"": 44.99999999999999}",26,26
+7798,gemini,levenson,exemplar,0,50,50,50,50,low_O_mid_N,40.94,"{""primary"": 34.375, ""secondary"": 47.5}",26,26
+7738,openai,levenson,exemplar,0,50,50,50,50,low_O_mid_N,39.38,"{""primary"": 31.25, ""secondary"": 47.5}",26,26
+7348,claude,levenson,exemplar,50,50,50,50,100,mid_O_high_N,32.19,"{""primary"": 21.875, ""secondary"": 42.50000000000001}",26,26
+7408,deepseek,levenson,exemplar,50,50,50,50,100,mid_O_high_N,45.0,"{""primary"": 25.0, ""secondary"": 65.0}",26,26
+7438,gemini,levenson,exemplar,50,50,50,50,100,mid_O_high_N,52.34,"{""primary"": 29.6875, ""secondary"": 75.0}",26,26
+7378,openai,levenson,exemplar,50,50,50,50,100,mid_O_high_N,38.13,"{""primary"": 18.75, ""secondary"": 57.49999999999999}",26,26
+7468,claude,levenson,exemplar,50,50,50,50,0,mid_O_low_N,11.41,"{""primary"": 7.8125, ""secondary"": 15.000000000000002}",26,26
+7528,deepseek,levenson,exemplar,50,50,50,50,0,mid_O_low_N,18.44,"{""primary"": 9.375, ""secondary"": 27.500000000000004}",26,26
+7558,gemini,levenson,exemplar,50,50,50,50,0,mid_O_low_N,8.59,"{""primary"": 4.6875, ""secondary"": 12.5}",26,26
+7498,openai,levenson,exemplar,50,50,50,50,0,mid_O_low_N,13.44,"{""primary"": 9.375, ""secondary"": 17.5}",26,26
+7828,claude,levenson,exemplar,50,50,50,50,50,mid_O_mid_N,32.03,"{""primary"": 26.5625, ""secondary"": 37.5}",26,26
+7888,deepseek,levenson,exemplar,50,50,50,50,50,mid_O_mid_N,35.78,"{""primary"": 26.5625, ""secondary"": 44.99999999999999}",26,26
+7918,gemini,levenson,exemplar,50,50,50,50,50,mid_O_mid_N,41.72,"{""primary"": 35.9375, ""secondary"": 47.5}",26,26
+7858,openai,levenson,exemplar,50,50,50,50,50,mid_O_mid_N,39.38,"{""primary"": 31.25, ""secondary"": 47.5}",26,26
+7105,claude,levenson,hexaco,100,50,50,50,100,high_O_high_N,41.09,"{""primary"": 29.6875, ""secondary"": 52.5}",26,26
+7165,deepseek,levenson,hexaco,100,50,50,50,100,high_O_high_N,37.34,"{""primary"": 29.6875, ""secondary"": 44.99999999999999}",26,26
+7195,gemini,levenson,hexaco,100,50,50,50,100,high_O_high_N,37.66,"{""primary"": 20.3125, ""secondary"": 55.00000000000001}",26,26
+7135,openai,levenson,hexaco,100,50,50,50,100,high_O_high_N,39.06,"{""primary"": 28.125, ""secondary"": 50.0}",26,26
+6865,claude,levenson,hexaco,100,50,50,50,0,high_O_low_N,41.09,"{""primary"": 42.1875, ""secondary"": 40.0}",26,26
+6925,deepseek,levenson,hexaco,100,50,50,50,0,high_O_low_N,48.59,"{""primary"": 42.1875, ""secondary"": 55.00000000000001}",26,26
+6955,gemini,levenson,hexaco,100,50,50,50,0,high_O_low_N,37.03,"{""primary"": 26.5625, ""secondary"": 47.5}",26,26
+6895,openai,levenson,hexaco,100,50,50,50,0,high_O_low_N,39.22,"{""primary"": 35.9375, ""secondary"": 42.50000000000001}",26,26
+7585,claude,levenson,hexaco,100,50,50,50,50,high_O_mid_N,42.03,"{""primary"": 39.0625, ""secondary"": 44.99999999999999}",26,26
+7645,deepseek,levenson,hexaco,100,50,50,50,50,high_O_mid_N,41.72,"{""primary"": 35.9375, ""secondary"": 47.5}",26,26
+7675,gemini,levenson,hexaco,100,50,50,50,50,high_O_mid_N,37.5,"{""primary"": 25.0, ""secondary"": 50.0}",26,26
+7615,openai,levenson,hexaco,100,50,50,50,50,high_O_mid_N,44.53,"{""primary"": 39.0625, ""secondary"": 50.0}",26,26
+6985,claude,levenson,hexaco,0,50,50,50,100,low_O_high_N,43.91,"{""primary"": 32.8125, ""secondary"": 55.00000000000001}",26,26
+7045,deepseek,levenson,hexaco,0,50,50,50,100,low_O_high_N,57.03,"{""primary"": 39.0625, ""secondary"": 75.0}",26,26
+7075,gemini,levenson,hexaco,0,50,50,50,100,low_O_high_N,46.56,"{""primary"": 28.125, ""secondary"": 65.0}",26,26
+7015,openai,levenson,hexaco,0,50,50,50,100,low_O_high_N,48.13,"{""primary"": 31.25, ""secondary"": 65.0}",26,26
+7225,claude,levenson,hexaco,0,50,50,50,0,low_O_low_N,52.03,"{""primary"": 51.5625, ""secondary"": 52.5}",26,26
+7285,deepseek,levenson,hexaco,0,50,50,50,0,low_O_low_N,54.69,"{""primary"": 59.375, ""secondary"": 50.0}",26,26
+7315,gemini,levenson,hexaco,0,50,50,50,0,low_O_low_N,42.5,"{""primary"": 37.5, ""secondary"": 47.5}",26,26
+7255,openai,levenson,hexaco,0,50,50,50,0,low_O_low_N,49.84,"{""primary"": 42.1875, ""secondary"": 57.49999999999999}",26,26
+7705,claude,levenson,hexaco,0,50,50,50,50,low_O_mid_N,50.16,"{""primary"": 45.3125, ""secondary"": 55.00000000000001}",26,26
+7765,deepseek,levenson,hexaco,0,50,50,50,50,low_O_mid_N,55.78,"{""primary"": 51.5625, ""secondary"": 60.0}",26,26
+7795,gemini,levenson,hexaco,0,50,50,50,50,low_O_mid_N,45.0,"{""primary"": 37.5, ""secondary"": 52.5}",26,26
+7735,openai,levenson,hexaco,0,50,50,50,50,low_O_mid_N,52.5,"{""primary"": 50.0, ""secondary"": 55.00000000000001}",26,26
+7345,claude,levenson,hexaco,50,50,50,50,100,mid_O_high_N,36.56,"{""primary"": 28.125, ""secondary"": 44.99999999999999}",26,26
+7405,deepseek,levenson,hexaco,50,50,50,50,100,mid_O_high_N,40.31,"{""primary"": 28.125, ""secondary"": 52.5}",26,26
+7435,gemini,levenson,hexaco,50,50,50,50,100,mid_O_high_N,40.0,"{""primary"": 25.0, ""secondary"": 55.00000000000001}",26,26
+7375,openai,levenson,hexaco,50,50,50,50,100,mid_O_high_N,38.91,"{""primary"": 32.8125, ""secondary"": 44.99999999999999}",26,26
+7465,claude,levenson,hexaco,50,50,50,50,0,mid_O_low_N,43.91,"{""primary"": 45.3125, ""secondary"": 42.50000000000001}",26,26
+7525,deepseek,levenson,hexaco,50,50,50,50,0,mid_O_low_N,46.41,"{""primary"": 45.3125, ""secondary"": 47.5}",26,26
+7555,gemini,levenson,hexaco,50,50,50,50,0,mid_O_low_N,44.06,"{""primary"": 40.625, ""secondary"": 47.5}",26,26
+7495,openai,levenson,hexaco,50,50,50,50,0,mid_O_low_N,41.56,"{""primary"": 40.625, ""secondary"": 42.50000000000001}",26,26
+7825,claude,levenson,hexaco,50,50,50,50,50,mid_O_mid_N,47.66,"{""primary"": 45.3125, ""secondary"": 50.0}",26,26
+7885,deepseek,levenson,hexaco,50,50,50,50,50,mid_O_mid_N,43.75,"{""primary"": 37.5, ""secondary"": 50.0}",26,26
+7915,gemini,levenson,hexaco,50,50,50,50,50,mid_O_mid_N,44.53,"{""primary"": 39.0625, ""secondary"": 50.0}",26,26
+7855,openai,levenson,hexaco,50,50,50,50,50,mid_O_mid_N,50.0,"{""primary"": 50.0, ""secondary"": 50.0}",26,26
+7104,claude,levenson,narrative,100,50,50,50,100,high_O_high_N,32.5,"{""primary"": 25.0, ""secondary"": 40.0}",26,26
+7164,deepseek,levenson,narrative,100,50,50,50,100,high_O_high_N,37.5,"{""primary"": 25.0, ""secondary"": 50.0}",26,26
+7194,gemini,levenson,narrative,100,50,50,50,100,high_O_high_N,36.72,"{""primary"": 23.4375, ""secondary"": 50.0}",26,26
+7134,openai,levenson,narrative,100,50,50,50,100,high_O_high_N,35.0,"{""primary"": 25.0, ""secondary"": 44.99999999999999}",26,26
+6864,claude,levenson,narrative,100,50,50,50,0,high_O_low_N,20.78,"{""primary"": 26.5625, ""secondary"": 15.000000000000002}",26,26
+6924,deepseek,levenson,narrative,100,50,50,50,0,high_O_low_N,28.28,"{""primary"": 26.5625, ""secondary"": 30.000000000000004}",26,26
+6954,gemini,levenson,narrative,100,50,50,50,0,high_O_low_N,20.31,"{""primary"": 15.625, ""secondary"": 25.0}",26,26
+6894,openai,levenson,narrative,100,50,50,50,0,high_O_low_N,25.78,"{""primary"": 26.5625, ""secondary"": 25.0}",26,26
+7584,claude,levenson,narrative,100,50,50,50,50,high_O_mid_N,28.28,"{""primary"": 26.5625, ""secondary"": 30.000000000000004}",26,26
+7644,deepseek,levenson,narrative,100,50,50,50,50,high_O_mid_N,28.75,"{""primary"": 25.0, ""secondary"": 32.49999999999999}",26,26
+7674,gemini,levenson,narrative,100,50,50,50,50,high_O_mid_N,30.47,"{""primary"": 23.4375, ""secondary"": 37.5}",26,26
+7614,openai,levenson,narrative,100,50,50,50,50,high_O_mid_N,30.31,"{""primary"": 28.125, ""secondary"": 32.49999999999999}",26,26
+6984,claude,levenson,narrative,0,50,50,50,100,low_O_high_N,39.84,"{""primary"": 29.6875, ""secondary"": 50.0}",26,26
+7044,deepseek,levenson,narrative,0,50,50,50,100,low_O_high_N,40.63,"{""primary"": 31.25, ""secondary"": 50.0}",26,26
+7074,gemini,levenson,narrative,0,50,50,50,100,low_O_high_N,37.5,"{""primary"": 25.0, ""secondary"": 50.0}",26,26
+7014,openai,levenson,narrative,0,50,50,50,100,low_O_high_N,38.13,"{""primary"": 31.25, ""secondary"": 44.99999999999999}",26,26
+7224,claude,levenson,narrative,0,50,50,50,0,low_O_low_N,25.63,"{""primary"": 31.25, ""secondary"": 20.0}",26,26
+7284,deepseek,levenson,narrative,0,50,50,50,0,low_O_low_N,27.81,"{""primary"": 28.125, ""secondary"": 27.500000000000004}",26,26
+7314,gemini,levenson,narrative,0,50,50,50,0,low_O_low_N,25.94,"{""primary"": 21.875, ""secondary"": 30.000000000000004}",26,26
+7254,openai,levenson,narrative,0,50,50,50,0,low_O_low_N,28.59,"{""primary"": 29.6875, ""secondary"": 27.500000000000004}",26,26
+7704,claude,levenson,narrative,0,50,50,50,50,low_O_mid_N,32.66,"{""primary"": 32.8125, ""secondary"": 32.49999999999999}",26,26
+7764,deepseek,levenson,narrative,0,50,50,50,50,low_O_mid_N,31.56,"{""primary"": 28.125, ""secondary"": 35.0}",26,26
+7794,gemini,levenson,narrative,0,50,50,50,50,low_O_mid_N,29.22,"{""primary"": 23.4375, ""secondary"": 35.0}",26,26
+7734,openai,levenson,narrative,0,50,50,50,50,low_O_mid_N,32.34,"{""primary"": 29.6875, ""secondary"": 35.0}",26,26
+7344,claude,levenson,narrative,50,50,50,50,100,mid_O_high_N,32.5,"{""primary"": 25.0, ""secondary"": 40.0}",26,26
+7404,deepseek,levenson,narrative,50,50,50,50,100,mid_O_high_N,35.47,"{""primary"": 23.4375, ""secondary"": 47.5}",26,26
+7434,gemini,levenson,narrative,50,50,50,50,100,mid_O_high_N,35.47,"{""primary"": 23.4375, ""secondary"": 47.5}",26,26
+7374,openai,levenson,narrative,50,50,50,50,100,mid_O_high_N,35.78,"{""primary"": 26.5625, ""secondary"": 44.99999999999999}",26,26
+7464,claude,levenson,narrative,50,50,50,50,0,mid_O_low_N,23.28,"{""primary"": 26.5625, ""secondary"": 20.0}",26,26
+7524,deepseek,levenson,narrative,50,50,50,50,0,mid_O_low_N,26.72,"{""primary"": 23.4375, ""secondary"": 30.000000000000004}",26,26
+7554,gemini,levenson,narrative,50,50,50,50,0,mid_O_low_N,23.13,"{""primary"": 18.75, ""secondary"": 27.500000000000004}",26,26
+7494,openai,levenson,narrative,50,50,50,50,0,mid_O_low_N,27.03,"{""primary"": 26.5625, ""secondary"": 27.500000000000004}",26,26
+7824,claude,levenson,narrative,50,50,50,50,50,mid_O_mid_N,24.22,"{""primary"": 23.4375, ""secondary"": 25.0}",26,26
+7884,deepseek,levenson,narrative,50,50,50,50,50,mid_O_mid_N,31.25,"{""primary"": 25.0, ""secondary"": 37.5}",26,26
+7914,gemini,levenson,narrative,50,50,50,50,50,mid_O_mid_N,29.22,"{""primary"": 23.4375, ""secondary"": 35.0}",26,26
+7854,openai,levenson,narrative,50,50,50,50,50,mid_O_mid_N,32.34,"{""primary"": 29.6875, ""secondary"": 35.0}",26,26
+7103,claude,levenson,ocean_direct,100,50,50,50,100,high_O_high_N,47.34,"{""primary"": 29.6875, ""secondary"": 65.0}",26,26
+7163,deepseek,levenson,ocean_direct,100,50,50,50,100,high_O_high_N,66.56,"{""primary"": 40.625, ""secondary"": 92.5}",26,26
+7193,gemini,levenson,ocean_direct,100,50,50,50,100,high_O_high_N,56.72,"{""primary"": 35.9375, ""secondary"": 77.49999999999999}",26,26
+7133,openai,levenson,ocean_direct,100,50,50,50,100,high_O_high_N,53.13,"{""primary"": 31.25, ""secondary"": 75.0}",26,26
+6863,claude,levenson,ocean_direct,100,50,50,50,0,high_O_low_N,33.91,"{""primary"": 32.8125, ""secondary"": 35.0}",26,26
+6923,deepseek,levenson,ocean_direct,100,50,50,50,0,high_O_low_N,34.69,"{""primary"": 34.375, ""secondary"": 35.0}",26,26
+6953,gemini,levenson,ocean_direct,100,50,50,50,0,high_O_low_N,32.97,"{""primary"": 23.4375, ""secondary"": 42.50000000000001}",26,26
+6893,openai,levenson,ocean_direct,100,50,50,50,0,high_O_low_N,29.53,"{""primary"": 26.5625, ""secondary"": 32.49999999999999}",26,26
+7583,claude,levenson,ocean_direct,100,50,50,50,50,high_O_mid_N,35.63,"{""primary"": 31.25, ""secondary"": 40.0}",26,26
+7643,deepseek,levenson,ocean_direct,100,50,50,50,50,high_O_mid_N,45.16,"{""primary"": 32.8125, ""secondary"": 57.49999999999999}",26,26
+7673,gemini,levenson,ocean_direct,100,50,50,50,50,high_O_mid_N,45.47,"{""primary"": 35.9375, ""secondary"": 55.00000000000001}",26,26
+7613,openai,levenson,ocean_direct,100,50,50,50,50,high_O_mid_N,48.28,"{""primary"": 39.0625, ""secondary"": 57.49999999999999}",26,26
+6983,claude,levenson,ocean_direct,0,50,50,50,100,low_O_high_N,57.03,"{""primary"": 39.0625, ""secondary"": 75.0}",26,26
+7043,deepseek,levenson,ocean_direct,0,50,50,50,100,low_O_high_N,75.16,"{""primary"": 57.8125, ""secondary"": 92.5}",26,26
+7073,gemini,levenson,ocean_direct,0,50,50,50,100,low_O_high_N,56.41,"{""primary"": 32.8125, ""secondary"": 80.0}",26,26
+7013,openai,levenson,ocean_direct,0,50,50,50,100,low_O_high_N,68.91,"{""primary"": 45.3125, ""secondary"": 92.5}",26,26
+7223,claude,levenson,ocean_direct,0,50,50,50,0,low_O_low_N,38.59,"{""primary"": 42.1875, ""secondary"": 35.0}",26,26
+7283,deepseek,levenson,ocean_direct,0,50,50,50,0,low_O_low_N,41.41,"{""primary"": 45.3125, ""secondary"": 37.5}",26,26
+7313,gemini,levenson,ocean_direct,0,50,50,50,0,low_O_low_N,34.69,"{""primary"": 34.375, ""secondary"": 35.0}",26,26
+7253,openai,levenson,ocean_direct,0,50,50,50,0,low_O_low_N,30.94,"{""primary"": 34.375, ""secondary"": 27.500000000000004}",26,26
+7703,claude,levenson,ocean_direct,0,50,50,50,50,low_O_mid_N,48.28,"{""primary"": 39.0625, ""secondary"": 57.49999999999999}",26,26
+7763,deepseek,levenson,ocean_direct,0,50,50,50,50,low_O_mid_N,51.41,"{""primary"": 45.3125, ""secondary"": 57.49999999999999}",26,26
+7793,gemini,levenson,ocean_direct,0,50,50,50,50,low_O_mid_N,42.03,"{""primary"": 39.0625, ""secondary"": 44.99999999999999}",26,26
+7733,openai,levenson,ocean_direct,0,50,50,50,50,low_O_mid_N,41.72,"{""primary"": 35.9375, ""secondary"": 47.5}",26,26
+7343,claude,levenson,ocean_direct,50,50,50,50,100,mid_O_high_N,52.66,"{""primary"": 32.8125, ""secondary"": 72.5}",26,26
+7403,deepseek,levenson,ocean_direct,50,50,50,50,100,mid_O_high_N,74.06,"{""primary"": 53.125, ""secondary"": 95.0}",26,26
+7433,gemini,levenson,ocean_direct,50,50,50,50,100,mid_O_high_N,51.25,"{""primary"": 25.0, ""secondary"": 77.49999999999999}",26,26
+7373,openai,levenson,ocean_direct,50,50,50,50,100,mid_O_high_N,58.75,"{""primary"": 37.5, ""secondary"": 80.0}",26,26
+7463,claude,levenson,ocean_direct,50,50,50,50,0,mid_O_low_N,35.94,"{""primary"": 34.375, ""secondary"": 37.5}",26,26
+7523,deepseek,levenson,ocean_direct,50,50,50,50,0,mid_O_low_N,38.75,"{""primary"": 37.5, ""secondary"": 40.0}",26,26
+7553,gemini,levenson,ocean_direct,50,50,50,50,0,mid_O_low_N,36.56,"{""primary"": 28.125, ""secondary"": 44.99999999999999}",26,26
+7493,openai,levenson,ocean_direct,50,50,50,50,0,mid_O_low_N,35.78,"{""primary"": 39.0625, ""secondary"": 32.49999999999999}",26,26
+7823,claude,levenson,ocean_direct,50,50,50,50,50,mid_O_mid_N,46.09,"{""primary"": 42.1875, ""secondary"": 50.0}",26,26
+7883,deepseek,levenson,ocean_direct,50,50,50,50,50,mid_O_mid_N,46.09,"{""primary"": 42.1875, ""secondary"": 50.0}",26,26
+7913,gemini,levenson,ocean_direct,50,50,50,50,50,mid_O_mid_N,45.31,"{""primary"": 40.625, ""secondary"": 50.0}",26,26
+7853,openai,levenson,ocean_direct,50,50,50,50,50,mid_O_mid_N,49.22,"{""primary"": 48.4375, ""secondary"": 50.0}",26,26
+7107,claude,levenson,scenario,100,50,50,50,100,high_O_high_N,26.09,"{""primary"": 17.1875, ""secondary"": 35.0}",26,26
+7167,deepseek,levenson,scenario,100,50,50,50,100,high_O_high_N,40.0,"{""primary"": 25.0, ""secondary"": 55.00000000000001}",26,26
+7197,gemini,levenson,scenario,100,50,50,50,100,high_O_high_N,25.78,"{""primary"": 14.0625, ""secondary"": 37.5}",26,26
+7137,openai,levenson,scenario,100,50,50,50,100,high_O_high_N,33.75,"{""primary"": 25.0, ""secondary"": 42.50000000000001}",26,26
+6867,claude,levenson,scenario,100,50,50,50,0,high_O_low_N,17.81,"{""primary"": 15.625, ""secondary"": 20.0}",26,26
+6927,deepseek,levenson,scenario,100,50,50,50,0,high_O_low_N,31.25,"{""primary"": 25.0, ""secondary"": 37.5}",26,26
+6957,gemini,levenson,scenario,100,50,50,50,0,high_O_low_N,18.44,"{""primary"": 9.375, ""secondary"": 27.500000000000004}",26,26
+6897,openai,levenson,scenario,100,50,50,50,0,high_O_low_N,25.16,"{""primary"": 20.3125, ""secondary"": 30.000000000000004}",26,26
+7587,claude,levenson,scenario,100,50,50,50,50,high_O_mid_N,22.81,"{""primary"": 15.625, ""secondary"": 30.000000000000004}",26,26
+7647,deepseek,levenson,scenario,100,50,50,50,50,high_O_mid_N,31.25,"{""primary"": 25.0, ""secondary"": 37.5}",26,26
+7677,gemini,levenson,scenario,100,50,50,50,50,high_O_mid_N,26.56,"{""primary"": 15.625, ""secondary"": 37.5}",26,26
+7617,openai,levenson,scenario,100,50,50,50,50,high_O_mid_N,35.0,"{""primary"": 25.0, ""secondary"": 44.99999999999999}",26,26
+6987,claude,levenson,scenario,0,50,50,50,100,low_O_high_N,22.81,"{""primary"": 15.625, ""secondary"": 30.000000000000004}",26,26
+7047,deepseek,levenson,scenario,0,50,50,50,100,low_O_high_N,33.44,"{""primary"": 21.875, ""secondary"": 44.99999999999999}",26,26
+7077,gemini,levenson,scenario,0,50,50,50,100,low_O_high_N,24.53,"{""primary"": 14.0625, ""secondary"": 35.0}",26,26
+7017,openai,levenson,scenario,0,50,50,50,100,low_O_high_N,30.78,"{""primary"": 26.5625, ""secondary"": 35.0}",26,26
+7227,claude,levenson,scenario,0,50,50,50,0,low_O_low_N,17.81,"{""primary"": 15.625, ""secondary"": 20.0}",26,26
+7287,deepseek,levenson,scenario,0,50,50,50,0,low_O_low_N,25.16,"{""primary"": 20.3125, ""secondary"": 30.000000000000004}",26,26
+7317,gemini,levenson,scenario,0,50,50,50,0,low_O_low_N,22.03,"{""primary"": 14.0625, ""secondary"": 30.000000000000004}",26,26
+7257,openai,levenson,scenario,0,50,50,50,0,low_O_low_N,23.75,"{""primary"": 25.0, ""secondary"": 22.499999999999996}",26,26
+7707,claude,levenson,scenario,0,50,50,50,50,low_O_mid_N,22.81,"{""primary"": 15.625, ""secondary"": 30.000000000000004}",26,26
+7767,deepseek,levenson,scenario,0,50,50,50,50,low_O_mid_N,28.44,"{""primary"": 21.875, ""secondary"": 35.0}",26,26
+7797,gemini,levenson,scenario,0,50,50,50,50,low_O_mid_N,24.84,"{""primary"": 17.1875, ""secondary"": 32.49999999999999}",26,26
+7737,openai,levenson,scenario,0,50,50,50,50,low_O_mid_N,31.56,"{""primary"": 28.125, ""secondary"": 35.0}",26,26
+7347,claude,levenson,scenario,50,50,50,50,100,mid_O_high_N,24.84,"{""primary"": 17.1875, ""secondary"": 32.49999999999999}",26,26
+7407,deepseek,levenson,scenario,50,50,50,50,100,mid_O_high_N,32.19,"{""primary"": 21.875, ""secondary"": 42.50000000000001}",26,26
+7437,gemini,levenson,scenario,50,50,50,50,100,mid_O_high_N,27.66,"{""primary"": 20.3125, ""secondary"": 35.0}",26,26
+7377,openai,levenson,scenario,50,50,50,50,100,mid_O_high_N,32.97,"{""primary"": 23.4375, ""secondary"": 42.50000000000001}",26,26
+7467,claude,levenson,scenario,50,50,50,50,0,mid_O_low_N,17.81,"{""primary"": 15.625, ""secondary"": 20.0}",26,26
+7527,deepseek,levenson,scenario,50,50,50,50,0,mid_O_low_N,26.41,"{""primary"": 20.3125, ""secondary"": 32.49999999999999}",26,26
+7557,gemini,levenson,scenario,50,50,50,50,0,mid_O_low_N,21.56,"{""primary"": 15.625, ""secondary"": 27.500000000000004}",26,26
+7497,openai,levenson,scenario,50,50,50,50,0,mid_O_low_N,24.22,"{""primary"": 23.4375, ""secondary"": 25.0}",26,26
+7827,claude,levenson,scenario,50,50,50,50,50,mid_O_mid_N,21.09,"{""primary"": 17.1875, ""secondary"": 25.0}",26,26
+7887,deepseek,levenson,scenario,50,50,50,50,50,mid_O_mid_N,30.47,"{""primary"": 23.4375, ""secondary"": 37.5}",26,26
+7917,gemini,levenson,scenario,50,50,50,50,50,mid_O_mid_N,26.09,"{""primary"": 17.1875, ""secondary"": 35.0}",26,26
+7857,openai,levenson,scenario,50,50,50,50,50,mid_O_mid_N,30.78,"{""primary"": 26.5625, ""secondary"": 35.0}",26,26
+7124,claude,phq9,behavioral,100,50,50,50,100,high_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+7184,deepseek,phq9,behavioral,100,50,50,50,100,high_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+7214,gemini,phq9,behavioral,100,50,50,50,100,high_O_high_N,85.19,"{""depression"": 85.18518518518519}",9,9
+7154,openai,phq9,behavioral,100,50,50,50,100,high_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+6884,claude,phq9,behavioral,100,50,50,50,0,high_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+6944,deepseek,phq9,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+6974,gemini,phq9,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+6914,openai,phq9,behavioral,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7604,claude,phq9,behavioral,100,50,50,50,50,high_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7664,deepseek,phq9,behavioral,100,50,50,50,50,high_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7694,gemini,phq9,behavioral,100,50,50,50,50,high_O_mid_N,33.33,"{""depression"": 33.33333333333333}",9,9
+7634,openai,phq9,behavioral,100,50,50,50,50,high_O_mid_N,14.81,"{""depression"": 14.814814814814813}",9,9
+7004,claude,phq9,behavioral,0,50,50,50,100,low_O_high_N,81.48,"{""depression"": 81.48148148148148}",9,9
+7064,deepseek,phq9,behavioral,0,50,50,50,100,low_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+7094,gemini,phq9,behavioral,0,50,50,50,100,low_O_high_N,85.19,"{""depression"": 85.18518518518519}",9,9
+7034,openai,phq9,behavioral,0,50,50,50,100,low_O_high_N,85.19,"{""depression"": 85.18518518518519}",9,9
+7244,claude,phq9,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7304,deepseek,phq9,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7334,gemini,phq9,behavioral,0,50,50,50,0,low_O_low_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+7274,openai,phq9,behavioral,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7724,claude,phq9,behavioral,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7784,deepseek,phq9,behavioral,0,50,50,50,50,low_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7814,gemini,phq9,behavioral,0,50,50,50,50,low_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7754,openai,phq9,behavioral,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7364,claude,phq9,behavioral,50,50,50,50,100,mid_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+7424,deepseek,phq9,behavioral,50,50,50,50,100,mid_O_high_N,88.89,"{""depression"": 88.88888888888889}",9,9
+7454,gemini,phq9,behavioral,50,50,50,50,100,mid_O_high_N,96.3,"{""depression"": 96.29629629629629}",9,9
+7394,openai,phq9,behavioral,50,50,50,50,100,mid_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+7484,claude,phq9,behavioral,50,50,50,50,0,mid_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+7544,deepseek,phq9,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7574,gemini,phq9,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7514,openai,phq9,behavioral,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7844,claude,phq9,behavioral,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7904,deepseek,phq9,behavioral,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7934,gemini,phq9,behavioral,50,50,50,50,50,mid_O_mid_N,33.33,"{""depression"": 33.33333333333333}",9,9
+7874,openai,phq9,behavioral,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7126,claude,phq9,exemplar,100,50,50,50,100,high_O_high_N,96.3,"{""depression"": 96.29629629629629}",9,9
+7186,deepseek,phq9,exemplar,100,50,50,50,100,high_O_high_N,96.3,"{""depression"": 96.29629629629629}",9,9
+7216,gemini,phq9,exemplar,100,50,50,50,100,high_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+7156,openai,phq9,exemplar,100,50,50,50,100,high_O_high_N,88.89,"{""depression"": 88.88888888888889}",9,9
+6886,claude,phq9,exemplar,100,50,50,50,0,high_O_low_N,22.22,"{""depression"": 22.22222222222222}",9,9
+6946,deepseek,phq9,exemplar,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+6976,gemini,phq9,exemplar,100,50,50,50,0,high_O_low_N,25.93,"{""depression"": 25.925925925925924}",9,9
+6916,openai,phq9,exemplar,100,50,50,50,0,high_O_low_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+7606,claude,phq9,exemplar,100,50,50,50,50,high_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+7666,deepseek,phq9,exemplar,100,50,50,50,50,high_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+7696,gemini,phq9,exemplar,100,50,50,50,50,high_O_mid_N,33.33,"{""depression"": 33.33333333333333}",9,9
+7636,openai,phq9,exemplar,100,50,50,50,50,high_O_mid_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+7006,claude,phq9,exemplar,0,50,50,50,100,low_O_high_N,81.48,"{""depression"": 81.48148148148148}",9,9
+7066,deepseek,phq9,exemplar,0,50,50,50,100,low_O_high_N,74.07,"{""depression"": 74.07407407407408}",9,9
+7096,gemini,phq9,exemplar,0,50,50,50,100,low_O_high_N,81.48,"{""depression"": 81.48148148148148}",9,9
+7036,openai,phq9,exemplar,0,50,50,50,100,low_O_high_N,70.37,"{""depression"": 70.37037037037037}",9,9
+7246,claude,phq9,exemplar,0,50,50,50,0,low_O_low_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+7306,deepseek,phq9,exemplar,0,50,50,50,0,low_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+7336,gemini,phq9,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7276,openai,phq9,exemplar,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7726,claude,phq9,exemplar,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7786,deepseek,phq9,exemplar,0,50,50,50,50,low_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7816,gemini,phq9,exemplar,0,50,50,50,50,low_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7756,openai,phq9,exemplar,0,50,50,50,50,low_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7366,claude,phq9,exemplar,50,50,50,50,100,mid_O_high_N,96.3,"{""depression"": 96.29629629629629}",9,9
+7426,deepseek,phq9,exemplar,50,50,50,50,100,mid_O_high_N,96.3,"{""depression"": 96.29629629629629}",9,9
+7456,gemini,phq9,exemplar,50,50,50,50,100,mid_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+7396,openai,phq9,exemplar,50,50,50,50,100,mid_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+7486,claude,phq9,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7546,deepseek,phq9,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7576,gemini,phq9,exemplar,50,50,50,50,0,mid_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+7516,openai,phq9,exemplar,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7846,claude,phq9,exemplar,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7906,deepseek,phq9,exemplar,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7936,gemini,phq9,exemplar,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7876,openai,phq9,exemplar,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7123,claude,phq9,hexaco,100,50,50,50,100,high_O_high_N,70.37,"{""depression"": 70.37037037037037}",9,9
+7183,deepseek,phq9,hexaco,100,50,50,50,100,high_O_high_N,66.67,"{""depression"": 66.66666666666666}",9,9
+7213,gemini,phq9,hexaco,100,50,50,50,100,high_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7153,openai,phq9,hexaco,100,50,50,50,100,high_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+6883,claude,phq9,hexaco,100,50,50,50,0,high_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+6943,deepseek,phq9,hexaco,100,50,50,50,0,high_O_low_N,22.22,"{""depression"": 22.22222222222222}",9,9
+6973,gemini,phq9,hexaco,100,50,50,50,0,high_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+6913,openai,phq9,hexaco,100,50,50,50,0,high_O_low_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+7603,claude,phq9,hexaco,100,50,50,50,50,high_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7663,deepseek,phq9,hexaco,100,50,50,50,50,high_O_mid_N,48.15,"{""depression"": 48.148148148148145}",9,9
+7693,gemini,phq9,hexaco,100,50,50,50,50,high_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7633,openai,phq9,hexaco,100,50,50,50,50,high_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+7003,claude,phq9,hexaco,0,50,50,50,100,low_O_high_N,88.89,"{""depression"": 88.88888888888889}",9,9
+7063,deepseek,phq9,hexaco,0,50,50,50,100,low_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+7093,gemini,phq9,hexaco,0,50,50,50,100,low_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7033,openai,phq9,hexaco,0,50,50,50,100,low_O_high_N,66.67,"{""depression"": 66.66666666666666}",9,9
+7243,claude,phq9,hexaco,0,50,50,50,0,low_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+7303,deepseek,phq9,hexaco,0,50,50,50,0,low_O_low_N,22.22,"{""depression"": 22.22222222222222}",9,9
+7333,gemini,phq9,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7273,openai,phq9,hexaco,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7723,claude,phq9,hexaco,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7783,deepseek,phq9,hexaco,0,50,50,50,50,low_O_mid_N,44.44,"{""depression"": 44.44444444444444}",9,9
+7813,gemini,phq9,hexaco,0,50,50,50,50,low_O_mid_N,48.15,"{""depression"": 48.148148148148145}",9,9
+7753,openai,phq9,hexaco,0,50,50,50,50,low_O_mid_N,33.33,"{""depression"": 33.33333333333333}",9,9
+7363,claude,phq9,hexaco,50,50,50,50,100,mid_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+7423,deepseek,phq9,hexaco,50,50,50,50,100,mid_O_high_N,70.37,"{""depression"": 70.37037037037037}",9,9
+7453,gemini,phq9,hexaco,50,50,50,50,100,mid_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7393,openai,phq9,hexaco,50,50,50,50,100,mid_O_high_N,62.96,"{""depression"": 62.96296296296296}",9,9
+7483,claude,phq9,hexaco,50,50,50,50,0,mid_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+7543,deepseek,phq9,hexaco,50,50,50,50,0,mid_O_low_N,33.33,"{""depression"": 33.33333333333333}",9,9
+7573,gemini,phq9,hexaco,50,50,50,50,0,mid_O_low_N,18.52,"{""depression"": 18.51851851851852}",9,9
+7513,openai,phq9,hexaco,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7843,claude,phq9,hexaco,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7903,deepseek,phq9,hexaco,50,50,50,50,50,mid_O_mid_N,48.15,"{""depression"": 48.148148148148145}",9,9
+7933,gemini,phq9,hexaco,50,50,50,50,50,mid_O_mid_N,59.26,"{""depression"": 59.25925925925925}",9,9
+7873,openai,phq9,hexaco,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7122,claude,phq9,narrative,100,50,50,50,100,high_O_high_N,59.26,"{""depression"": 59.25925925925925}",9,9
+7182,deepseek,phq9,narrative,100,50,50,50,100,high_O_high_N,62.96,"{""depression"": 62.96296296296296}",9,9
+7212,gemini,phq9,narrative,100,50,50,50,100,high_O_high_N,77.78,"{""depression"": 77.77777777777779}",9,9
+7152,openai,phq9,narrative,100,50,50,50,100,high_O_high_N,59.26,"{""depression"": 59.25925925925925}",9,9
+6882,claude,phq9,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+6942,deepseek,phq9,narrative,100,50,50,50,0,high_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+6972,gemini,phq9,narrative,100,50,50,50,0,high_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+6912,openai,phq9,narrative,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7602,claude,phq9,narrative,100,50,50,50,50,high_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+7662,deepseek,phq9,narrative,100,50,50,50,50,high_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7692,gemini,phq9,narrative,100,50,50,50,50,high_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7632,openai,phq9,narrative,100,50,50,50,50,high_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+7002,claude,phq9,narrative,0,50,50,50,100,low_O_high_N,62.96,"{""depression"": 62.96296296296296}",9,9
+7062,deepseek,phq9,narrative,0,50,50,50,100,low_O_high_N,70.37,"{""depression"": 70.37037037037037}",9,9
+7092,gemini,phq9,narrative,0,50,50,50,100,low_O_high_N,74.07,"{""depression"": 74.07407407407408}",9,9
+7032,openai,phq9,narrative,0,50,50,50,100,low_O_high_N,59.26,"{""depression"": 59.25925925925925}",9,9
+7242,claude,phq9,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7302,deepseek,phq9,narrative,0,50,50,50,0,low_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+7332,gemini,phq9,narrative,0,50,50,50,0,low_O_low_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+7272,openai,phq9,narrative,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7722,claude,phq9,narrative,0,50,50,50,50,low_O_mid_N,11.11,"{""depression"": 11.11111111111111}",9,9
+7782,deepseek,phq9,narrative,0,50,50,50,50,low_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7812,gemini,phq9,narrative,0,50,50,50,50,low_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7752,openai,phq9,narrative,0,50,50,50,50,low_O_mid_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+7362,claude,phq9,narrative,50,50,50,50,100,mid_O_high_N,55.56,"{""depression"": 55.55555555555556}",9,9
+7422,deepseek,phq9,narrative,50,50,50,50,100,mid_O_high_N,70.37,"{""depression"": 70.37037037037037}",9,9
+7452,gemini,phq9,narrative,50,50,50,50,100,mid_O_high_N,66.67,"{""depression"": 66.66666666666666}",9,9
+7392,openai,phq9,narrative,50,50,50,50,100,mid_O_high_N,59.26,"{""depression"": 59.25925925925925}",9,9
+7482,claude,phq9,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7542,deepseek,phq9,narrative,50,50,50,50,0,mid_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+7572,gemini,phq9,narrative,50,50,50,50,0,mid_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+7512,openai,phq9,narrative,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7842,claude,phq9,narrative,50,50,50,50,50,mid_O_mid_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+7902,deepseek,phq9,narrative,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7932,gemini,phq9,narrative,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7872,openai,phq9,narrative,50,50,50,50,50,mid_O_mid_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+7121,claude,phq9,ocean_direct,100,50,50,50,100,high_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+7181,deepseek,phq9,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7211,gemini,phq9,ocean_direct,100,50,50,50,100,high_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7151,openai,phq9,ocean_direct,100,50,50,50,100,high_O_high_N,92.59,"{""depression"": 92.5925925925926}",9,9
+6881,claude,phq9,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+6941,deepseek,phq9,ocean_direct,100,50,50,50,0,high_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+6971,gemini,phq9,ocean_direct,100,50,50,50,0,high_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+6911,openai,phq9,ocean_direct,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7601,claude,phq9,ocean_direct,100,50,50,50,50,high_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+7661,deepseek,phq9,ocean_direct,100,50,50,50,50,high_O_mid_N,33.33,"{""depression"": 33.33333333333333}",9,9
+7691,gemini,phq9,ocean_direct,100,50,50,50,50,high_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7631,openai,phq9,ocean_direct,100,50,50,50,50,high_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7001,claude,phq9,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7061,deepseek,phq9,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7091,gemini,phq9,ocean_direct,0,50,50,50,100,low_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7031,openai,phq9,ocean_direct,0,50,50,50,100,low_O_high_N,96.3,"{""depression"": 96.29629629629629}",9,9
+7241,claude,phq9,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7301,deepseek,phq9,ocean_direct,0,50,50,50,0,low_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+7331,gemini,phq9,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7271,openai,phq9,ocean_direct,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7721,claude,phq9,ocean_direct,0,50,50,50,50,low_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7781,deepseek,phq9,ocean_direct,0,50,50,50,50,low_O_mid_N,33.33,"{""depression"": 33.33333333333333}",9,9
+7811,gemini,phq9,ocean_direct,0,50,50,50,50,low_O_mid_N,40.74,"{""depression"": 40.74074074074074}",9,9
+7751,openai,phq9,ocean_direct,0,50,50,50,50,low_O_mid_N,14.81,"{""depression"": 14.814814814814813}",9,9
+7361,claude,phq9,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7421,deepseek,phq9,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7451,gemini,phq9,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7391,openai,phq9,ocean_direct,50,50,50,50,100,mid_O_high_N,100.0,"{""depression"": 100.0}",9,9
+7481,claude,phq9,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7541,deepseek,phq9,ocean_direct,50,50,50,50,0,mid_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+7571,gemini,phq9,ocean_direct,50,50,50,50,0,mid_O_low_N,7.41,"{""depression"": 7.4074074074074066}",9,9
+7511,openai,phq9,ocean_direct,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7841,claude,phq9,ocean_direct,50,50,50,50,50,mid_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7901,deepseek,phq9,ocean_direct,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7931,gemini,phq9,ocean_direct,50,50,50,50,50,mid_O_mid_N,51.85,"{""depression"": 51.85185185185185}",9,9
+7871,openai,phq9,ocean_direct,50,50,50,50,50,mid_O_mid_N,37.04,"{""depression"": 37.03703703703704}",9,9
+7125,claude,phq9,scenario,100,50,50,50,100,high_O_high_N,59.26,"{""depression"": 59.25925925925925}",9,9
+7185,deepseek,phq9,scenario,100,50,50,50,100,high_O_high_N,51.85,"{""depression"": 51.85185185185185}",9,9
+7215,gemini,phq9,scenario,100,50,50,50,100,high_O_high_N,55.56,"{""depression"": 55.55555555555556}",9,9
+7155,openai,phq9,scenario,100,50,50,50,100,high_O_high_N,44.44,"{""depression"": 44.44444444444444}",9,9
+6885,claude,phq9,scenario,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+6945,deepseek,phq9,scenario,100,50,50,50,0,high_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+6975,gemini,phq9,scenario,100,50,50,50,0,high_O_low_N,22.22,"{""depression"": 22.22222222222222}",9,9
+6915,openai,phq9,scenario,100,50,50,50,0,high_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7605,claude,phq9,scenario,100,50,50,50,50,high_O_mid_N,11.11,"{""depression"": 11.11111111111111}",9,9
+7665,deepseek,phq9,scenario,100,50,50,50,50,high_O_mid_N,14.81,"{""depression"": 14.814814814814813}",9,9
+7695,gemini,phq9,scenario,100,50,50,50,50,high_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7635,openai,phq9,scenario,100,50,50,50,50,high_O_mid_N,11.11,"{""depression"": 11.11111111111111}",9,9
+7005,claude,phq9,scenario,0,50,50,50,100,low_O_high_N,59.26,"{""depression"": 59.25925925925925}",9,9
+7065,deepseek,phq9,scenario,0,50,50,50,100,low_O_high_N,55.56,"{""depression"": 55.55555555555556}",9,9
+7095,gemini,phq9,scenario,0,50,50,50,100,low_O_high_N,55.56,"{""depression"": 55.55555555555556}",9,9
+7035,openai,phq9,scenario,0,50,50,50,100,low_O_high_N,40.74,"{""depression"": 40.74074074074074}",9,9
+7245,claude,phq9,scenario,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7305,deepseek,phq9,scenario,0,50,50,50,0,low_O_low_N,3.7,"{""depression"": 3.7037037037037033}",9,9
+7335,gemini,phq9,scenario,0,50,50,50,0,low_O_low_N,22.22,"{""depression"": 22.22222222222222}",9,9
+7275,openai,phq9,scenario,0,50,50,50,0,low_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7725,claude,phq9,scenario,0,50,50,50,50,low_O_mid_N,25.93,"{""depression"": 25.925925925925924}",9,9
+7785,deepseek,phq9,scenario,0,50,50,50,50,low_O_mid_N,18.52,"{""depression"": 18.51851851851852}",9,9
+7815,gemini,phq9,scenario,0,50,50,50,50,low_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7755,openai,phq9,scenario,0,50,50,50,50,low_O_mid_N,14.81,"{""depression"": 14.814814814814813}",9,9
+7365,claude,phq9,scenario,50,50,50,50,100,mid_O_high_N,55.56,"{""depression"": 55.55555555555556}",9,9
+7425,deepseek,phq9,scenario,50,50,50,50,100,mid_O_high_N,51.85,"{""depression"": 51.85185185185185}",9,9
+7455,gemini,phq9,scenario,50,50,50,50,100,mid_O_high_N,48.15,"{""depression"": 48.148148148148145}",9,9
+7395,openai,phq9,scenario,50,50,50,50,100,mid_O_high_N,48.15,"{""depression"": 48.148148148148145}",9,9
+7485,claude,phq9,scenario,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7545,deepseek,phq9,scenario,50,50,50,50,0,mid_O_low_N,11.11,"{""depression"": 11.11111111111111}",9,9
+7575,gemini,phq9,scenario,50,50,50,50,0,mid_O_low_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7515,openai,phq9,scenario,50,50,50,50,0,mid_O_low_N,0.0,"{""depression"": 0.0}",9,9
+7845,claude,phq9,scenario,50,50,50,50,50,mid_O_mid_N,11.11,"{""depression"": 11.11111111111111}",9,9
+7905,deepseek,phq9,scenario,50,50,50,50,50,mid_O_mid_N,22.22,"{""depression"": 22.22222222222222}",9,9
+7935,gemini,phq9,scenario,50,50,50,50,50,mid_O_mid_N,29.63,"{""depression"": 29.629629629629626}",9,9
+7875,openai,phq9,scenario,50,50,50,50,50,mid_O_mid_N,11.11,"{""depression"": 11.11111111111111}",9,9
