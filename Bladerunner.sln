@@ -28,6 +28,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "papers", "papers", "{38307B
 	ProjectSection(SolutionItems) = preProject
 		papers\Bladerunner Project - Evidence for a Theory of Latent Attractors.pdf = papers\Bladerunner Project - Evidence for a Theory of Latent Attractors.pdf
 		papers\Bladerunner Project - Mapping Personality Attractors in LLM Parameter Space.pdf = papers\Bladerunner Project - Mapping Personality Attractors in LLM Parameter Space.pdf
+		..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Rachel - Business White Paper.pdf = ..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Rachel - Business White Paper.pdf
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "experiments", "experiments", "{F2EBFEF3-E60D-4D4A-BE02-3688FA34131E}"
@@ -116,6 +117,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{EE1A
 		experiments\experiment_9_output\figures\h1_reliability.png = experiments\experiment_9_output\figures\h1_reliability.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "p;ress", "p;ress", "{42B7ECB0-4B32-49B3-B2A1-31CC9431FF61}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Meet Rachel - Press Release.pdf = ..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Meet Rachel - Press Release.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -146,6 +152,7 @@ Global
 		{FA58C30A-0E5A-4408-B7ED-F30EF4D4E1DC} = {F42BC864-DFA6-40CE-B615-99E194B112F5}
 		{34F8AC87-E69D-4013-BCED-DF4DF530F90F} = {D95D71B6-889A-4D32-815D-BF0A4C37A3AB}
 		{EE1AE57D-F267-478E-9F38-997D6C43CCB4} = {D95D71B6-889A-4D32-815D-BF0A4C37A3AB}
+		{42B7ECB0-4B32-49B3-B2A1-31CC9431FF61} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FE4FC209-7247-495D-9480-F82C37265BEA}
