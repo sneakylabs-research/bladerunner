@@ -8,118 +8,112 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\..\..\Users\6jone\Downloads\bladerunner_starter\.env.example = ..\..\..\Users\6jone\Downloads\bladerunner_starter\.env.example
 		..\..\..\Users\6jone\Downloads\bladerunner_starter\.gitignore = ..\..\..\Users\6jone\Downloads\bladerunner_starter\.gitignore
 		LICENSE = LICENSE
-		..\..\..\Users\6jone\Downloads\bladerunner_starter\requirements.txt = ..\..\..\Users\6jone\Downloads\bladerunner_starter\requirements.txt
 		..\..\..\Users\6jone\Downloads\README.md = ..\..\..\Users\6jone\Downloads\README.md
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Users\6jone\Downloads\bladerunner_starter\scripts\schema.sql = ..\..\..\Users\6jone\Downloads\bladerunner_starter\scripts\schema.sql
+		..\..\..\Users\6jone\Downloads\bladerunner_starter\requirements.txt = ..\..\..\Users\6jone\Downloads\bladerunner_starter\requirements.txt
 	EndProjectSection
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bladerunner.Runner", "bladerunner_runner\Bladerunner.Runner.pyproj", "{BD32EFAA-4F9D-4DB9-B097-28DFBA98F29C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "papers", "papers", "{25F926D4-0F7B-4F9E-9DBD-6300C1A0F545}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-mapping-attractors", "01-mapping-attractors", "{45FE1AC4-B4AD-46AA-8CEF-833D6FEA2E07}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Bladerunner Project - Mapping Personality Attractors in LLM Parameter Space.pdf = ..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Bladerunner Project - Mapping Personality Attractors in LLM Parameter Space.pdf
+		scripts\schema.sql = scripts\schema.sql
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-latent-attractors", "02-latent-attractors", "{BE80FF7F-D321-4589-9EB7-9A5136AF4ABD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "reports", "reports", "{5C4EF188-85A6-4FBC-BFCF-DB5AE29BD036}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Bladerunner Project - Evidence for a Theory of Latent Attractors.pdf = ..\..\..\Users\6jone\OneDrive\ドキュメント\Bladerunner\Bladerunner Project - Evidence for a Theory of Latent Attractors.pdf
+		reports\longitudinal_degradation_finding.md = reports\longitudinal_degradation_finding.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "experiments", "experiments", "{C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "reports", "reports", "{A793A21C-9530-4D83-A650-035A5D2858C4}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "papers", "papers", "{38307B41-1BBD-4680-BCD5-34FC2D53B0F7}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Users\6jone\Downloads\longitudinal_degradation_finding.md = ..\..\..\Users\6jone\Downloads\longitudinal_degradation_finding.md
+		papers\Bladerunner Project - Evidence for a Theory of Latent Attractors.pdf = papers\Bladerunner Project - Evidence for a Theory of Latent Attractors.pdf
+		papers\Bladerunner Project - Mapping Personality Attractors in LLM Parameter Space.pdf = papers\Bladerunner Project - Mapping Personality Attractors in LLM Parameter Space.pdf
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exp06", "exp06", "{817E1FFC-AC49-40D1-9F10-7F7A66BE9746}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "experiments", "experiments", "{F2EBFEF3-E60D-4D4A-BE02-3688FA34131E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "experiment_1_output", "experiment_1_output", "{1C8F1B35-7957-4B41-8A6D-64E5792BA584}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_1_output\expanded_analysis.txt = experiment_1_output\expanded_analysis.txt
-		experiment_1_output\paper_analysis.txt = experiment_1_output\paper_analysis.txt
-		experiment_1_output\report.html = experiment_1_output\report.html
-		experiment_1_output\report.md = experiment_1_output\report.md
+		experiments\experiment_1_output\expanded_analysis.txt = experiments\experiment_1_output\expanded_analysis.txt
+		experiments\experiment_1_output\paper_analysis.txt = experiments\experiment_1_output\paper_analysis.txt
+		experiments\experiment_1_output\report.html = experiments\experiment_1_output\report.html
+		experiments\experiment_1_output\report.md = experiments\experiment_1_output\report.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exp11", "exp11", "{47D1D699-4808-4715-88B2-E5E3834CE426}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "experiment_2_output", "experiment_2_output", "{AC4FC17C-0FBB-4965-987B-60D315680806}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_2_output\expanded_analysis.txt = experiment_2_output\expanded_analysis.txt
-		experiment_2_output\paper_analysis.txt = experiment_2_output\paper_analysis.txt
-		experiment_2_output\report.html = experiment_2_output\report.html
-		experiment_2_output\report.md = experiment_2_output\report.md
+		experiments\experiment_2_output\expanded_analysis.txt = experiments\experiment_2_output\expanded_analysis.txt
+		experiments\experiment_2_output\paper_analysis.txt = experiments\experiment_2_output\paper_analysis.txt
+		experiments\experiment_2_output\report.html = experiments\experiment_2_output\report.html
+		experiments\experiment_2_output\report.md = experiments\experiment_2_output\report.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exp14", "exp14", "{64EBBE24-3D7F-4E42-83F2-800919E39262}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "experiment_3_output", "experiment_3_output", "{F42BC864-DFA6-40CE-B615-99E194B112F5}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_3_output\expanded_analysis.txt = experiment_3_output\expanded_analysis.txt
-		experiment_3_output\paper_analysis.txt = experiment_3_output\paper_analysis.txt
-		experiment_3_output\report.html = experiment_3_output\report.html
-		experiment_3_output\report.md = experiment_3_output\report.md
+		experiments\experiment_3_output\expanded_analysis.txt = experiments\experiment_3_output\expanded_analysis.txt
+		experiments\experiment_3_output\paper_analysis.txt = experiments\experiment_3_output\paper_analysis.txt
+		experiments\experiment_3_output\report.html = experiments\experiment_3_output\report.html
+		experiments\experiment_3_output\report.md = experiments\experiment_3_output\report.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exp15", "exp15", "{033A2E0F-F48A-456A-B045-69C6A71BE1B6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "experiment_9_output", "experiment_9_output", "{D95D71B6-889A-4D32-815D-BF0A4C37A3AB}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_9_output\expanded_analysis.txt = experiment_9_output\expanded_analysis.txt
-		experiment_9_output\paper_analysis.txt = experiment_9_output\paper_analysis.txt
-		experiment_9_output\report.html = experiment_9_output\report.html
-		experiment_9_output\report.md = experiment_9_output\report.md
+		experiments\experiment_9_output\expanded_analysis.txt = experiments\experiment_9_output\expanded_analysis.txt
+		experiments\experiment_9_output\paper_analysis.txt = experiments\experiment_9_output\paper_analysis.txt
+		experiments\experiment_9_output\report.html = experiments\experiment_9_output\report.html
+		experiments\experiment_9_output\report.md = experiments\experiment_9_output\report.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{312B6932-E606-4C58-BE97-D00AE265E184}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{A91FC3CA-9B6C-4537-A581-5F88033F6C54}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_1_output\data\correlations.csv = experiment_1_output\data\correlations.csv
-		experiment_1_output\data\raw_results.csv = experiment_1_output\data\raw_results.csv
-		experiment_1_output\data\summary_statistics.csv = experiment_1_output\data\summary_statistics.csv
+		experiments\experiment_1_output\data\correlations.csv = experiments\experiment_1_output\data\correlations.csv
+		experiments\experiment_1_output\data\raw_results.csv = experiments\experiment_1_output\data\raw_results.csv
+		experiments\experiment_1_output\data\summary_statistics.csv = experiments\experiment_1_output\data\summary_statistics.csv
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{1495CF43-A8F1-4176-A742-560F5FF91EEB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{AE68DB91-2C9E-426C-8270-B204F6950D54}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_1_output\figures\correlation_matrix.png = experiment_1_output\figures\correlation_matrix.png
-		experiment_1_output\figures\h1_reliability.png = experiment_1_output\figures\h1_reliability.png
+		experiments\experiment_1_output\figures\correlation_matrix.png = experiments\experiment_1_output\figures\correlation_matrix.png
+		experiments\experiment_1_output\figures\h1_reliability.png = experiments\experiment_1_output\figures\h1_reliability.png
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{C11AB758-8D96-4CAE-88B6-8700498B5400}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{6EBCCF23-4F4C-4087-920E-715A49F3346E}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_2_output\data\correlations.csv = experiment_2_output\data\correlations.csv
-		experiment_2_output\data\raw_results.csv = experiment_2_output\data\raw_results.csv
-		experiment_2_output\data\summary_statistics.csv = experiment_2_output\data\summary_statistics.csv
+		experiments\experiment_2_output\data\correlations.csv = experiments\experiment_2_output\data\correlations.csv
+		experiments\experiment_2_output\data\raw_results.csv = experiments\experiment_2_output\data\raw_results.csv
+		experiments\experiment_2_output\data\summary_statistics.csv = experiments\experiment_2_output\data\summary_statistics.csv
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{F5497477-9ACD-4E28-A6C1-34D9BE1E684E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{08D6C4F9-4CB6-4DB8-B2D0-67A0BF65D04B}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_2_output\figures\correlation_matrix.png = experiment_2_output\figures\correlation_matrix.png
-		experiment_2_output\figures\h1_reliability.png = experiment_2_output\figures\h1_reliability.png
+		experiments\experiment_2_output\figures\correlation_matrix.png = experiments\experiment_2_output\figures\correlation_matrix.png
+		experiments\experiment_2_output\figures\h1_reliability.png = experiments\experiment_2_output\figures\h1_reliability.png
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{F33A4118-94B9-42F4-A993-5B1DF58A6542}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{7CD06D2F-FBFC-4577-951C-71117E489792}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_3_output\data\correlations.csv = experiment_3_output\data\correlations.csv
-		experiment_3_output\data\raw_results.csv = experiment_3_output\data\raw_results.csv
-		experiment_3_output\data\summary_statistics.csv = experiment_3_output\data\summary_statistics.csv
+		experiments\experiment_3_output\data\correlations.csv = experiments\experiment_3_output\data\correlations.csv
+		experiments\experiment_3_output\data\raw_results.csv = experiments\experiment_3_output\data\raw_results.csv
+		experiments\experiment_3_output\data\summary_statistics.csv = experiments\experiment_3_output\data\summary_statistics.csv
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{206BDA5E-7911-4188-A835-7813159B27CF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{FA58C30A-0E5A-4408-B7ED-F30EF4D4E1DC}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_3_output\figures\correlation_matrix.png = experiment_3_output\figures\correlation_matrix.png
-		experiment_3_output\figures\h1_reliability.png = experiment_3_output\figures\h1_reliability.png
+		experiments\experiment_3_output\figures\correlation_matrix.png = experiments\experiment_3_output\figures\correlation_matrix.png
+		experiments\experiment_3_output\figures\h1_reliability.png = experiments\experiment_3_output\figures\h1_reliability.png
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{6F65A51E-B669-4F96-994D-7E568A6E7C4B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{34F8AC87-E69D-4013-BCED-DF4DF530F90F}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_9_output\data\correlations.csv = experiment_9_output\data\correlations.csv
-		experiment_9_output\data\raw_results.csv = experiment_9_output\data\raw_results.csv
-		experiment_9_output\data\summary_statistics.csv = experiment_9_output\data\summary_statistics.csv
+		experiments\experiment_9_output\data\correlations.csv = experiments\experiment_9_output\data\correlations.csv
+		experiments\experiment_9_output\data\raw_results.csv = experiments\experiment_9_output\data\raw_results.csv
+		experiments\experiment_9_output\data\summary_statistics.csv = experiments\experiment_9_output\data\summary_statistics.csv
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{BD9BFF78-15B7-44F3-8AFF-5732CD13766E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "figures", "figures", "{EE1AE57D-F267-478E-9F38-997D6C43CCB4}"
 	ProjectSection(SolutionItems) = preProject
-		experiment_9_output\figures\correlation_matrix.png = experiment_9_output\figures\correlation_matrix.png
-		experiment_9_output\figures\h1_reliability.png = experiment_9_output\figures\h1_reliability.png
+		experiments\experiment_9_output\figures\correlation_matrix.png = experiments\experiment_9_output\figures\correlation_matrix.png
+		experiments\experiment_9_output\figures\h1_reliability.png = experiments\experiment_9_output\figures\h1_reliability.png
 	EndProjectSection
 EndProject
 Global
@@ -135,25 +129,23 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
 		{BD32EFAA-4F9D-4DB9-B097-28DFBA98F29C} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
-		{25F926D4-0F7B-4F9E-9DBD-6300C1A0F545} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
-		{45FE1AC4-B4AD-46AA-8CEF-833D6FEA2E07} = {25F926D4-0F7B-4F9E-9DBD-6300C1A0F545}
-		{BE80FF7F-D321-4589-9EB7-9A5136AF4ABD} = {25F926D4-0F7B-4F9E-9DBD-6300C1A0F545}
-		{C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
-		{A793A21C-9530-4D83-A650-035A5D2858C4} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
-		{817E1FFC-AC49-40D1-9F10-7F7A66BE9746} = {C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C}
-		{47D1D699-4808-4715-88B2-E5E3834CE426} = {C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C}
-		{64EBBE24-3D7F-4E42-83F2-800919E39262} = {C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C}
-		{033A2E0F-F48A-456A-B045-69C6A71BE1B6} = {C2D84DD1-9D1A-41AD-A4F0-532F08E8C77C}
-		{312B6932-E606-4C58-BE97-D00AE265E184} = {817E1FFC-AC49-40D1-9F10-7F7A66BE9746}
-		{1495CF43-A8F1-4176-A742-560F5FF91EEB} = {817E1FFC-AC49-40D1-9F10-7F7A66BE9746}
-		{C11AB758-8D96-4CAE-88B6-8700498B5400} = {47D1D699-4808-4715-88B2-E5E3834CE426}
-		{F5497477-9ACD-4E28-A6C1-34D9BE1E684E} = {47D1D699-4808-4715-88B2-E5E3834CE426}
-		{F33A4118-94B9-42F4-A993-5B1DF58A6542} = {64EBBE24-3D7F-4E42-83F2-800919E39262}
-		{206BDA5E-7911-4188-A835-7813159B27CF} = {64EBBE24-3D7F-4E42-83F2-800919E39262}
-		{6F65A51E-B669-4F96-994D-7E568A6E7C4B} = {033A2E0F-F48A-456A-B045-69C6A71BE1B6}
-		{BD9BFF78-15B7-44F3-8AFF-5732CD13766E} = {033A2E0F-F48A-456A-B045-69C6A71BE1B6}
+		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{5C4EF188-85A6-4FBC-BFCF-DB5AE29BD036} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{38307B41-1BBD-4680-BCD5-34FC2D53B0F7} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{F2EBFEF3-E60D-4D4A-BE02-3688FA34131E} = {8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}
+		{1C8F1B35-7957-4B41-8A6D-64E5792BA584} = {F2EBFEF3-E60D-4D4A-BE02-3688FA34131E}
+		{AC4FC17C-0FBB-4965-987B-60D315680806} = {F2EBFEF3-E60D-4D4A-BE02-3688FA34131E}
+		{F42BC864-DFA6-40CE-B615-99E194B112F5} = {F2EBFEF3-E60D-4D4A-BE02-3688FA34131E}
+		{D95D71B6-889A-4D32-815D-BF0A4C37A3AB} = {F2EBFEF3-E60D-4D4A-BE02-3688FA34131E}
+		{A91FC3CA-9B6C-4537-A581-5F88033F6C54} = {1C8F1B35-7957-4B41-8A6D-64E5792BA584}
+		{AE68DB91-2C9E-426C-8270-B204F6950D54} = {1C8F1B35-7957-4B41-8A6D-64E5792BA584}
+		{6EBCCF23-4F4C-4087-920E-715A49F3346E} = {AC4FC17C-0FBB-4965-987B-60D315680806}
+		{08D6C4F9-4CB6-4DB8-B2D0-67A0BF65D04B} = {AC4FC17C-0FBB-4965-987B-60D315680806}
+		{7CD06D2F-FBFC-4577-951C-71117E489792} = {F42BC864-DFA6-40CE-B615-99E194B112F5}
+		{FA58C30A-0E5A-4408-B7ED-F30EF4D4E1DC} = {F42BC864-DFA6-40CE-B615-99E194B112F5}
+		{34F8AC87-E69D-4013-BCED-DF4DF530F90F} = {D95D71B6-889A-4D32-815D-BF0A4C37A3AB}
+		{EE1AE57D-F267-478E-9F38-997D6C43CCB4} = {D95D71B6-889A-4D32-815D-BF0A4C37A3AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FE4FC209-7247-495D-9480-F82C37265BEA}
